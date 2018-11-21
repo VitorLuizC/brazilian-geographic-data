@@ -2,9 +2,9 @@
   "name": "brazilian-geographic-data",
   "version": "0.0.0",
   "description": "Regions, states, cities, neighborhoods and other brazilian geographic data.",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm src/index.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/VitorLuizC/brazilian-geographic-data/issues"
   },
-  "homepage": "https://github.com/VitorLuizC/brazilian-geographic-data#readme"
+  "homepage": "https://github.com/VitorLuizC/brazilian-geographic-data#readme",
+  "devDependencies": {
+    "esm": "^3.0.84"
+  }
 }
