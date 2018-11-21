@@ -1,0 +1,26 @@
+{
+  "name": "brazilian-geographic-data",
+  "version": "0.0.0",
+  "description": "Regions, states, cities, neighborhoods and other brazilian geographic data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorLuizC/brazilian-geographic-data.git"
+  },
+  "keywords": [
+    "brazilian-geographic-data",
+    "brazilian-geographic",
+    "geographic-data",
+    "brazilian",
+    "brazil"
+  ],
+  "author": "Vitor Luiz Cavalcanti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VitorLuizC/brazilian-geographic-data/issues"
+  },
+  "homepage": "https://github.com/VitorLuizC/brazilian-geographic-data#readme"
+}
