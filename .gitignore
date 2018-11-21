@@ -1,2 +1,5 @@
+# Unversioned files and folders.
+# References at https://git-scm.com/docs/gitignore.
+
 # Finder's configuration files (Mac).
 .DS_Store

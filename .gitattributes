@@ -1,0 +1,5 @@
+# File attributes for Git repository.
+# References at https://git-scm.com/docs/gitattributes.
+
+# Handle files as text and ensure Unix line endings.
+* text=auto eol=lf
