@@ -1,0 +1,61 @@
+{
+  "Nivel": {
+    "Id": 133,
+    "Nome": "Semiárido de Unidade da Federação"
+  },
+  "Codigos": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    31
+  ],
+  "Nomes": [
+    "Semiárido do Piauí",
+    "Semiárido do Ceará",
+    "Semiárido do Rio Grande do Norte",
+    "Semiárido da Paraíba",
+    "Semiárido de Pernambuco",
+    "Semiárido de Alagoas",
+    "Semiárido de Sergipe",
+    "Semiárido da Bahia",
+    "Semiárido de Minas Gerais"
+  ],
+  "SiglasUF": [
+    "PI",
+    "CE",
+    "RN",
+    "PB",
+    "PE",
+    "AL",
+    "SE",
+    "BA",
+    "MG"
+  ],
+  "Complementos1": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Complementos2": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

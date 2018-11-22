@@ -1,0 +1,36 @@
+{
+  "Nivel": {
+    "Id": 15,
+    "Nome": "Aglomeração Urbana"
+  },
+  "Codigos": [
+    3501,
+    3502,
+    4301,
+    4303
+  ],
+  "Nomes": [
+    "Jundiaí",
+    "Piracicaba",
+    "Litoral Norte",
+    "Sul"
+  ],
+  "SiglasUF": [
+    "SP",
+    "SP",
+    "RS",
+    "RS"
+  ],
+  "Complementos1": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Complementos2": [
+    "",
+    "",
+    "",
+    ""
+  ]
+}

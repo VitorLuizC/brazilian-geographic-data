@@ -1,0 +1,26 @@
+{
+  "Nivel": {
+    "Id": 130,
+    "Nome": "Capital/não capital de Unidade da Federação"
+  },
+  "Codigos": [
+    1,
+    2
+  ],
+  "Nomes": [
+    "Capital de Unidade da Federação",
+    "Não capital de Unidade da Federação"
+  ],
+  "SiglasUF": [
+    "",
+    ""
+  ],
+  "Complementos1": [
+    "",
+    ""
+  ],
+  "Complementos2": [
+    "",
+    ""
+  ]
+}

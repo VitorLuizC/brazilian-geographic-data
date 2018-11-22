@@ -1,0 +1,61 @@
+{
+  "Nivel": {
+    "Id": 134,
+    "Nome": "Amazônia Legal de Unidade da Federação"
+  },
+  "Codigos": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    21,
+    51
+  ],
+  "Nomes": [
+    "Amazônia Legal de Rondônia",
+    "Amazônia Legal do Acre",
+    "Amazônia Legal do Amazonas",
+    "Amazônia Legal de Roraima",
+    "Amazônia Legal do Pará",
+    "Amazônia Legal do Amapá",
+    "Amazônia Legal de Tocantins",
+    "Amazônia Legal do Maranhão",
+    "Amazônia Legal de Mato Grosso"
+  ],
+  "SiglasUF": [
+    "RO",
+    "AC",
+    "AM",
+    "RR",
+    "PA",
+    "AP",
+    "TO",
+    "MA",
+    "MT"
+  ],
+  "Complementos1": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Complementos2": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

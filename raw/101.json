@@ -1,0 +1,61 @@
+{
+  "Nivel": {
+    "Id": 101,
+    "Nome": "País do Mercosul, Bolívia e Chile"
+  },
+  "Codigos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "Nomes": [
+    "Argentina",
+    "Bolívia",
+    "Brasil",
+    "Chile",
+    "Paraguai",
+    "Uruguai",
+    "Equador",
+    "Venezuela",
+    "México"
+  ],
+  "SiglasUF": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Complementos1": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Complementos2": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

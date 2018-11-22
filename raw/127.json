@@ -1,0 +1,36 @@
+{
+  "Nivel": {
+    "Id": 127,
+    "Nome": "Núcleo de desertificação"
+  },
+  "Codigos": [
+    2201,
+    2301,
+    2401,
+    2601
+  ],
+  "Nomes": [
+    "Núcleo de desertificação de Gilbués",
+    "Núcleo de desertificação de Irauçuba",
+    "Núcleo de desertificação de Seridó",
+    "Núcleo de desertificação de Cabrobó"
+  ],
+  "SiglasUF": [
+    "PI",
+    "CE",
+    "RN",
+    "PE"
+  ],
+  "Complementos1": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Complementos2": [
+    "",
+    "",
+    "",
+    ""
+  ]
+}

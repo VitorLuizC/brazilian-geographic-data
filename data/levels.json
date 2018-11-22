@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "name": "Brasil"
+  },
+  {
+    "id": 2,
+    "name": "Grande Região"
+  },
+  {
+    "id": 3,
+    "name": "Unidade da Federação"
+  },
+  {
+    "id": 6,
+    "name": "Município"
+  },
+  {
+    "id": 7,
+    "name": "Região Metropolitana"
+  },
+  {
+    "id": 8,
+    "name": "Mesorregião Geográfica"
+  },
+  {
+    "id": 9,
+    "name": "Microrregião Geográfica"
+  },
+  {
+    "id": 10,
+    "name": "Distrito"
+  },
+  {
+    "id": 11,
+    "name": "Subdistrito"
+  },
+  {
+    "id": 13,
+    "name": "Região Metropolitana e Subdivisão"
+  },
+  {
+    "id": 14,
+    "name": "Região Integrada de Desenvolvimento"
+  },
+  {
+    "id": 15,
+    "name": "Aglomeração Urbana"
+  },
+  {
+    "id": 17,
+    "name": "Aglomerado Subnormal"
+  },
+  {
+    "id": 18,
+    "name": "Área de Ponderação"
+  },
+  {
+    "id": 19,
+    "name": "Área de Ponderação Recalculada"
+  },
+  {
+    "id": 20,
+    "name": "Área de Divulgação da Amostra para Aglomerados Subnormais"
+  },
+  {
+    "id": 21,
+    "name": "Total dos municípios das capitais da Grande Região"
+  },
+  {
+    "id": 22,
+    "name": "Total dos municípios das capitais"
+  },
+  {
+    "id": 23,
+    "name": "Arranjo Populacional"
+  },
+  {
+    "id": 101,
+    "name": "País do Mercosul, Bolívia e Chile"
+  },
+  {
+    "id": 102,
+    "name": "Bairro"
+  },
+  {
+    "id": 103,
+    "name": "Total das áreas - POF"
+  },
+  {
+    "id": 104,
+    "name": "Argentina"
+  },
+  {
+    "id": 105,
+    "name": "Uruguai"
+  },
+  {
+    "id": 106,
+    "name": "Paraguai"
+  },
+  {
+    "id": 107,
+    "name": "Departamento - Paraguai"
+  },
+  {
+    "id": 108,
+    "name": "Departamento - Uruguai"
+  },
+  {
+    "id": 109,
+    "name": "Província"
+  },
+  {
+    "id": 110,
+    "name": "Total das áreas - PME"
+  },
+  {
+    "id": 111,
+    "name": "Unidade Federativa do Mercosul, Bolívia e Chile"
+  },
+  {
+    "id": 122,
+    "name": "Grande Região - PIMES"
+  },
+  {
+    "id": 123,
+    "name": "Bioma"
+  },
+  {
+    "id": 124,
+    "name": "Corpo d'água"
+  },
+  {
+    "id": 125,
+    "name": "Terra Indígena"
+  },
+  {
+    "id": 126,
+    "name": "Unidade de Conservação Ambiental"
+  },
+  {
+    "id": 127,
+    "name": "Núcleo de desertificação"
+  },
+  {
+    "id": 128,
+    "name": "Praia"
+  },
+  {
+    "id": 129,
+    "name": "Território da Cidadania"
+  },
+  {
+    "id": 130,
+    "name": "Capital/não capital de Unidade da Federação"
+  },
+  {
+    "id": 131,
+    "name": "Amazônia Legal"
+  },
+  {
+    "id": 132,
+    "name": "Semiárido"
+  },
+  {
+    "id": 133,
+    "name": "Semiárido de Unidade da Federação"
+  },
+  {
+    "id": 134,
+    "name": "Amazônia Legal de Unidade da Federação"
+  }
+]

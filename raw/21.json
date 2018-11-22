@@ -1,0 +1,41 @@
+{
+  "Nivel": {
+    "Id": 21,
+    "Nome": "Total dos municípios das capitais da Grande Região"
+  },
+  "Codigos": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "Nomes": [
+    "Norte",
+    "Nordeste",
+    "Sudeste",
+    "Sul",
+    "Centro-Oeste"
+  ],
+  "SiglasUF": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Complementos1": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Complementos2": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

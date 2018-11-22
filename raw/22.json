@@ -1,0 +1,21 @@
+{
+  "Nivel": {
+    "Id": 22,
+    "Nome": "Total dos municípios das capitais"
+  },
+  "Codigos": [
+    1
+  ],
+  "Nomes": [
+    "Total dos municípios das capitais"
+  ],
+  "SiglasUF": [
+    ""
+  ],
+  "Complementos1": [
+    ""
+  ],
+  "Complementos2": [
+    ""
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Nivel": {
+    "Id": 122,
+    "Nome": "Grande Região - PIMES"
+  },
+  "Codigos": [
+    2,
+    3,
+    4,
+    15
+  ],
+  "Nomes": [
+    "Nordeste",
+    "Sudeste",
+    "Sul",
+    "Norte e Centro-Oeste"
+  ],
+  "SiglasUF": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Complementos1": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Complementos2": [
+    "",
+    "",
+    "",
+    ""
+  ]
+}

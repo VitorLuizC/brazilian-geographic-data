@@ -1,0 +1,31 @@
+{
+  "Nivel": {
+    "Id": 14,
+    "Nome": "Região Integrada de Desenvolvimento"
+  },
+  "Codigos": [
+    510,
+    520,
+    530
+  ],
+  "Nomes": [
+    "Grande Teresina",
+    "Pólo Petrolina (PE) e Juazeiro (BA)",
+    "Distrito Federal e Entorno"
+  ],
+  "SiglasUF": [
+    "",
+    "",
+    ""
+  ],
+  "Complementos1": [
+    "",
+    "",
+    ""
+  ],
+  "Complementos2": [
+    "",
+    "",
+    ""
+  ]
+}
