@@ -1,6 +1,10 @@
-import { fetchByLevel } from './data';
+import { createFile } from './file';
 
 (async () => {
-  const data = await fetchByLevel(1);
-  console.log(data);
+  try {
+    await createFile('teste.txt', 'Hello\nWorld!');
+    console.log(createFile.toString())
+  } catch (error) {
+    console.error(error);
+  }
 })();
