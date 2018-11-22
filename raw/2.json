@@ -1,0 +1,41 @@
+{
+  "Nivel": {
+    "Id": 2,
+    "Nome": "Grande Região"
+  },
+  "Codigos": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "Nomes": [
+    "Norte",
+    "Nordeste",
+    "Sudeste",
+    "Sul",
+    "Centro-Oeste"
+  ],
+  "SiglasUF": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Complementos1": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Complementos2": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

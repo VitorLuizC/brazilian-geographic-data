@@ -1,9 +1,8 @@
-import { createFile } from './file';
+import { generateLevels } from './level';
 
 (async () => {
   try {
-    await createFile('teste.txt', 'Hello\nWorld!');
-    console.log(createFile.toString())
+    await generateLevels();
   } catch (error) {
     console.error(error);
   }

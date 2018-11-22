@@ -1,0 +1,21 @@
+{
+  "Nivel": {
+    "Id": 1,
+    "Nome": "Brasil"
+  },
+  "Codigos": [
+    1
+  ],
+  "Nomes": [
+    "Brasil"
+  ],
+  "SiglasUF": [
+    ""
+  ],
+  "Complementos1": [
+    ""
+  ],
+  "Complementos2": [
+    ""
+  ]
+}
