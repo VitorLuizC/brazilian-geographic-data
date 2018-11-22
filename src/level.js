@@ -1,5 +1,6 @@
+import { identity } from './functional';
+import { createJSON } from './file';
 import { fetchByLevel } from './data';
-import { createFolder, createJSON } from './file';
 import { sleep, sequentially } from './async';
 
 /**
@@ -24,16 +25,17 @@ const mapToLevel = (data) => ({
  * @param {number} level
  * @returns {Promise<Level | undefined>}
  */
-const generateLevel = async (level) => {
+const saveRawLevel = async (level) => {
+  await sleep(Math.random() * 2 * 1000); // To not cause a DDoS
+
   try {
-    await sleep(Math.random() * 1 * 1000);
     const data = await fetchByLevel(level);
     if (data === 'Nível inválido')
       throw new Error(`Level ${level} is invalid.`);
-    await createJSON('raw/' + level, data);
+    createJSON('raw/' + level, data);
     return mapToLevel(data);
   } catch (error) {
-    console.error(error);
+    console.warn('Error: ' + (error && error.message));
   }
 };
 
@@ -41,8 +43,8 @@ const generateLevel = async (level) => {
  * Create raw folder and sequentially generate levels and their index.
  * @returns {Promise<void>}
  */
-export const generateLevels = async () => {
-  await createFolder('raw');
-  const levels =  await sequentially([ ...Array(10) ].map(() => generateLevel));
-  await createJSON('raw/levels', levels.filter((value) => value));
+export const saveRawLevels = async () => {
+  const promises = Array(135).fill(saveRawLevel);
+  const levels = await sequentially(promises);
+  await createJSON('data/levels', levels.filter(identity));
 };

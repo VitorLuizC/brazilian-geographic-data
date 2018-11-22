@@ -1,9 +1,16 @@
-import { generateLevels } from './level';
+import { createFolder } from './file';
+import { saveRawLevels } from './level';
 
 (async () => {
+
   try {
-    await generateLevels();
+    await Promise.all([
+      await createFolder('raw'),
+      await createFolder('data')
+    ]);
+
+    await saveRawLevels();
   } catch (error) {
-    console.error(error);
+    console.warn('Error: ' + (error && error.message));
   }
 })();
