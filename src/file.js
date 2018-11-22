@@ -33,9 +33,18 @@ export const createFile = (name, content) => new Promise((resolve, reject) => {
  */
 export const createFolder = (name) => new Promise((resolve, reject) => {
   const dirname = path.resolve(getCurrentPath(), '../', name);
-  fs.mkdir(dirname, (error) => {
-    if (error)
+
+  fs.readdir(dirname, (error) => {
+    if (!error) // Folder already exists.
+      return resolve();
+
+    if (error.code !== 'ENOENT')
       return reject(error);
-    return resolve();
+
+    fs.mkdir(dirname, (error) => {
+      if (error)
+        return reject(error);
+      return resolve();
+    });
   });
 });
