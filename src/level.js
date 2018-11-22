@@ -1,5 +1,5 @@
 import { fetchByLevel } from './data';
-import { createFile, createFolder } from './file';
+import { createFolder, createJSON } from './file';
 import { sleep, sequentially } from './async';
 
 /**
@@ -25,14 +25,12 @@ const mapToLevel = (data) => ({
  * @returns {Promise<Level | undefined>}
  */
 const generateLevel = async (level) => {
-  const filename = `raw/${level}.json`;
-
   try {
     await sleep(Math.random() * 1 * 1000);
     const data = await fetchByLevel(level);
     if (data === 'Nível inválido')
       throw new Error(`Level ${level} is invalid.`);
-    await createFile(filename, JSON.stringify(data, null, 2));
+    await createJSON('raw/' + level, data);
     return mapToLevel(data);
   } catch (error) {
     console.error(error);
@@ -46,5 +44,5 @@ const generateLevel = async (level) => {
 export const generateLevels = async () => {
   await createFolder('raw');
   const levels =  await sequentially([ ...Array(10) ].map(() => generateLevel));
-  await createFile('raw/levels.json', JSON.stringify(levels.filter((value) => value), null, 2));
+  await createJSON('raw/levels', levels.filter((value) => value));
 };
