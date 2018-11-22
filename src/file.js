@@ -1,3 +1,4 @@
+import { URL } from 'url';
 import * as fs from 'fs';
 import * as path from 'path';
 

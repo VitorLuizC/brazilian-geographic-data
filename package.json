@@ -4,7 +4,8 @@
   "description": "Regions, states, cities, neighborhoods and other brazilian geographic data.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node -r esm src/index.js"
+    "start": "node -r esm src/index.js",
+    "check-types": "tsc -p jsconfig.json"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,8 @@
   },
   "homepage": "https://github.com/VitorLuizC/brazilian-geographic-data#readme",
   "devDependencies": {
-    "esm": "^3.0.84"
+    "@types/node": "^10.12.10",
+    "esm": "^3.0.84",
+    "typescript": "^3.1.6"
   }
 }

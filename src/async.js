@@ -6,10 +6,16 @@
 export const sleep = (time) => new Promise((resolve) => setTimeout(resolve, time));
 
 /**
+ * Sequentially callback to handle its iteration.
+ * @template T
+ * @typedef {(index?: number) => Promise<T>} SequentiallyΛ
+ */
+
+/**
  * Sequentially executes functions returning promises and resolves into a collection
  * with all results.
  * @template T
- * @param {(index?: number) => Promise<T>} λs A list of functions returning promises.
+ * @param {SequentiallyΛ<T>[]} λs A list of functions returning promises.
  * @returns {Promise<T[]>}
  */
 export const sequentially = (λs) => {
