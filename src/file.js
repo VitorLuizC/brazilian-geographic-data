@@ -11,15 +11,28 @@ const getCurrentPath = () => {
 };
 
 /**
- * Create a file in root folder.
+ * Create a file into root folder.
  * @param {string} name File path/name.
  * @param {string} content File content.
  * @returns {Promise<void>}
  */
 export const createFile = (name, content) => new Promise((resolve, reject) => {
   const filename = path.resolve(getCurrentPath(), '../', name);
-
   fs.writeFile(filename, content, (error) => {
+    if (error)
+      return reject(error);
+    return resolve();
+  });
+});
+
+/**
+ * Create a folder into root folder.
+ * @param {*} name Folder path/name.
+ * @returns {Promise<void>}
+ */
+export const createFolder = (name) => new Promise((resolve, reject) => {
+  const dirname = path.resolve(getCurrentPath(), '../', name);
+  fs.mkdir(dirname, (error) => {
     if (error)
       return reject(error);
     return resolve();
