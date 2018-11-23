@@ -1,5 +1,6 @@
 import { createFolder } from './file';
-import { saveRawLevels } from './level';
+import { generateLevels } from './level';
+import { generateDataModules } from './data';
 
 (async () => {
 
@@ -9,7 +10,8 @@ import { saveRawLevels } from './level';
       await createFolder('data')
     ]);
 
-    await saveRawLevels();
+    await generateLevels();
+    await generateDataModules();
   } catch (error) {
     console.warn('Error: ' + (error && error.message));
   }

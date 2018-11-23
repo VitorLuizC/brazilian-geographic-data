@@ -25,7 +25,7 @@ const mapToLevel = (raw) => ({
  * @returns {Promise<void>}
  */
 export const generateLevels = async () => {
-  const saves = Array(10).fill((level) =>
+  const saves = Array(135).fill((level) =>
     saveRawByLevel(level)
       .then(mapToLevel)
       .catch((error) => console.warn('Error: ' + (error && error.message)))
