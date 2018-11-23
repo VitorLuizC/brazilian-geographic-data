@@ -46,3 +46,9 @@ export const saveRawByLevel = async (level) => {
   await createJSON('raw/' + level, raw);
   return raw;
 };
+
+/**
+ * Open raw geographic data by level.
+ * @returns {Promise<Raw>}
+ */
+export const openRawByLevel = async (level) => import(`../raw/${level}.json`);

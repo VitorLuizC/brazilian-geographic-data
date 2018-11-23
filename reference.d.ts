@@ -4,3 +4,8 @@
 interface ImportMeta {
   url: string;
 }
+
+/**
+ * Define JSON files as modules.
+ */
+declare module '*.json';
