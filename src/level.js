@@ -1,7 +1,7 @@
 import { identity } from './functional';
 import { createJSON } from './file';
-import { fetchByLevel } from './data';
-import { sleep, sequentially } from './async';
+import { sequentially } from './async';
+import { saveRawByLevel } from './raw';
 
 /**
  * Level model.
@@ -12,39 +12,24 @@ import { sleep, sequentially } from './async';
 
 /**
  * Map data to Level model.
- * @param {import('./data').Data} data
+ * @param {import('./raw').Raw} raw
  * @returns {Level}
  */
-const mapToLevel = (data) => ({
-  id: data.Nivel.Id,
-  name: data.Nivel.Nome
+const mapToLevel = (raw) => ({
+  id: raw.Nivel.Id,
+  name: raw.Nivel.Nome
 });
 
 /**
- * Generate a level raw file and return level information.
- * @param {number} level
- * @returns {Promise<Level | undefined>}
- */
-const saveRawLevel = async (level) => {
-  await sleep(Math.random() * 2 * 1000); // To not cause a DDoS
-
-  try {
-    const data = await fetchByLevel(level);
-    if (data === 'Nível inválido')
-      throw new Error(`Level ${level} is invalid.`);
-    createJSON('raw/' + level, data);
-    return mapToLevel(data);
-  } catch (error) {
-    console.warn('Error: ' + (error && error.message));
-  }
-};
-
-/**
- * Create raw folder and sequentially generate levels and their index.
+ * Sequentially save raw by levels and create levels file.
  * @returns {Promise<void>}
  */
-export const saveRawLevels = async () => {
-  const promises = Array(135).fill(saveRawLevel);
-  const levels = await sequentially(promises);
+export const generateLevels = async () => {
+  const saves = Array(10).fill((level) =>
+    saveRawByLevel(level)
+      .then(mapToLevel)
+      .catch((error) => console.warn('Error: ' + (error && error.message)))
+  );
+  const levels = await sequentially(saves);
   await createJSON('data/levels', levels.filter(identity));
 };
