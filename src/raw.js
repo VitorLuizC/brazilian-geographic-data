@@ -52,20 +52,3 @@ export const saveRawByLevel = async (level) => {
  * @returns {Promise<Raw>}
  */
 export const openRawByLevel = async (level) => import(`../raw/${level}.json`);
-
-/**
- * Map raw geographic data into an array.
- * @template T
- * @param {Raw} raw
- * @param {(value: [number, string, string, string, string]) => T} λ
- * @returns {T[]}
- */
-export const mapRaw = (raw, λ) => {
-  return raw.Codigos.map((_, index) => λ([
-    raw.Codigos[index],
-    raw.Nomes[index],
-    raw.SiglasUF[index],
-    raw.Complementos1[index],
-    raw.Complementos2[index],
-  ]));
-};

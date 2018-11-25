@@ -2,91 +2,41 @@ import { createFolder } from './file';
 import { generateLevels } from './level';
 import { createDataFromRaw } from './data';
 
-/**
- * Transform functions.
- * @type {{ [name: string]: (value: [number, string, string, string, string]) => any }}
- */
-const transform = {
-  IDAndName: ([ id, name ]) => ({
-    id,
-    name
-  }),
-
-  IDNameAndState: ([ id, name, state ]) => ({
-    id,
-    name,
-    state
-  }),
-
-  IDNameStateAndCity: ([ id, name, state, city ]) => ({
-    id,
-    name,
-    city,
-    state,
-  }),
-};
-
 (async () => {
 
   try {
     // await Promise.all([
-    //   await createFolder('raw'),
-    //   await createFolder('data')
+    //   await createFolder('raw'),    //   await createFolder('data')
     // ]);
 
     // await generateLevels();
 
     await Promise.all([
-      createDataFromRaw(2, 'regions', transform.IDAndName),
-
-      createDataFromRaw(3, 'states', transform.IDAndName),
-
-      createDataFromRaw(6, 'cities', transform.IDNameAndState),
-
-      createDataFromRaw(7, 'metropolitan-regions', transform.IDNameAndState),
-
-      createDataFromRaw(8, 'geographical-mesoregions', transform.IDNameAndState),
-
-      createDataFromRaw(9, 'geographic-microregions', transform.IDNameAndState),
-
-      createDataFromRaw(10, 'districts', transform.IDNameStateAndCity),
-
-      createDataFromRaw(11, 'subdistricts', transform.IDNameStateAndCity),
-
-      createDataFromRaw(13, 'metropolitan-subdivisions', transform.IDNameStateAndCity),
-
-      createDataFromRaw(14, 'integrated-development-regions', transform.IDNameStateAndCity),
-
-      createDataFromRaw(15, 'urban-agglomerations', transform.IDNameAndState),
-
-      createDataFromRaw(17, 'subnormal-agglomerations', transform.IDNameStateAndCity),
-
-      createDataFromRaw(18, 'areas-of-weighting', transform.IDNameStateAndCity),
-
-      createDataFromRaw(19, 'recalculated-weighting-areas', transform.IDNameStateAndCity),
-
-      createDataFromRaw(20, 'sample-disclosure-areas-for-subnormal-agglomerates', transform.IDNameStateAndCity),
-
-      createDataFromRaw(23, 'population-arrangements', transform.IDNameAndState),
-
-      createDataFromRaw(102, 'neighborhoods', transform.IDNameStateAndCity),
-
-      createDataFromRaw(124, 'water-bodies', transform.IDNameAndState),
-
-      createDataFromRaw(125, 'indigenous-lands', transform.IDNameAndState),
-
-      createDataFromRaw(126, 'environmental-conservation-units', transform.IDNameAndState),
-
-      createDataFromRaw(127, 'desertification-nucleus', transform.IDNameAndState),
-
-      createDataFromRaw(128, 'beaches', transform.IDNameStateAndCity),
-
-      createDataFromRaw(129, 'citizenship-territories', transform.IDAndName),
-
-      createDataFromRaw(133, 'semiarid-federative-units', transform.IDNameAndState),
-
-      createDataFromRaw(134, 'legal-amazon-federation-units', transform.IDNameAndState),
-    ]);
+      createDataFromRaw(2, 'regions'),
+      createDataFromRaw(3, 'states'),
+      createDataFromRaw(6, 'cities'),
+      createDataFromRaw(7, 'metropolitan-regions'),
+      createDataFromRaw(8, 'geographical-mesoregions'),
+      createDataFromRaw(9, 'geographic-microregions'),
+      createDataFromRaw(10, 'districts'),
+      createDataFromRaw(11, 'subdistricts'),
+      createDataFromRaw(13, 'metropolitan-subdivisions'),
+      createDataFromRaw(14, 'integrated-development-regions'),
+      createDataFromRaw(15, 'urban-agglomerations'),
+      createDataFromRaw(17, 'subnormal-agglomerations'),
+      createDataFromRaw(18, 'areas-of-weighting'),
+      createDataFromRaw(19, 'recalculated-weighting-areas'),
+      createDataFromRaw(20, 'sample-disclosure-areas-for-subnormal-agglomerates'),
+      createDataFromRaw(23, 'population-arrangements'),
+      createDataFromRaw(102, 'neighborhoods'),
+      createDataFromRaw(124, 'water-bodies'),
+      createDataFromRaw(125, 'indigenous-lands'),
+      createDataFromRaw(126, 'environmental-conservation-units'),
+      createDataFromRaw(127, 'desertification-nucleus'),
+      createDataFromRaw(128, 'beaches'),
+      createDataFromRaw(129, 'citizenship-territories'),
+      createDataFromRaw(133, 'semiarid-federative-units'),
+      createDataFromRaw(134, 'legal-amazon-federation-units'),    ]);
   } catch (error) {
     console.warn('Error: ' + (error && error.message));
   }
