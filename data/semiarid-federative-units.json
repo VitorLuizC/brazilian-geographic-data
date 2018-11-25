@@ -1,0 +1,47 @@
+[
+  {
+    "id": 22,
+    "name": "Semiárido do Piauí",
+    "state": "PI"
+  },
+  {
+    "id": 23,
+    "name": "Semiárido do Ceará",
+    "state": "CE"
+  },
+  {
+    "id": 24,
+    "name": "Semiárido do Rio Grande do Norte",
+    "state": "RN"
+  },
+  {
+    "id": 25,
+    "name": "Semiárido da Paraíba",
+    "state": "PB"
+  },
+  {
+    "id": 26,
+    "name": "Semiárido de Pernambuco",
+    "state": "PE"
+  },
+  {
+    "id": 27,
+    "name": "Semiárido de Alagoas",
+    "state": "AL"
+  },
+  {
+    "id": 28,
+    "name": "Semiárido de Sergipe",
+    "state": "SE"
+  },
+  {
+    "id": 29,
+    "name": "Semiárido da Bahia",
+    "state": "BA"
+  },
+  {
+    "id": 31,
+    "name": "Semiárido de Minas Gerais",
+    "state": "MG"
+  }
+]

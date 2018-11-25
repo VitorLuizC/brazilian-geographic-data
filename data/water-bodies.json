@@ -1,0 +1,162 @@
+[
+  {
+    "id": 26030,
+    "name": "Bacia do Rio Capibaribe",
+    "state": "PE"
+  },
+  {
+    "id": 26060,
+    "name": "Bacia do Rio Igarassu",
+    "state": "PE"
+  },
+  {
+    "id": 26090,
+    "name": "Bacia do Rio Ipojuca",
+    "state": "PE"
+  },
+  {
+    "id": 26120,
+    "name": "Rio Capibaribe",
+    "state": "PE"
+  },
+  {
+    "id": 26150,
+    "name": "Rio Ipojuca",
+    "state": "PE"
+  },
+  {
+    "id": 29030,
+    "name": "Bacia do Rio Paraguaçu",
+    "state": "BA"
+  },
+  {
+    "id": 29060,
+    "name": "Bacia do Rio São Francisco",
+    "state": "BA"
+  },
+  {
+    "id": 29090,
+    "name": "Rio Jequitinhonha",
+    "state": "BA"
+  },
+  {
+    "id": 29120,
+    "name": "Rio Paraguaçu (afluentes)",
+    "state": "BA"
+  },
+  {
+    "id": 29150,
+    "name": "Rio Paraguaçu (trecho principal)",
+    "state": "BA"
+  },
+  {
+    "id": 29180,
+    "name": "Rio São Francisco (afluentes)",
+    "state": "BA"
+  },
+  {
+    "id": 29210,
+    "name": "Rio São Francisco (médio)",
+    "state": "BA"
+  },
+  {
+    "id": 29240,
+    "name": "Rio São Francisco (submédio)",
+    "state": "BA"
+  },
+  {
+    "id": 31030,
+    "name": "Bacia do Rio das Velhas",
+    "state": "MG"
+  },
+  {
+    "id": 31060,
+    "name": "Bacia do Rio Doce",
+    "state": "MG"
+  },
+  {
+    "id": 31090,
+    "name": "Bacia do Rio Jequitinhonha",
+    "state": "MG"
+  },
+  {
+    "id": 32030,
+    "name": "Bacia do Rio Doce",
+    "state": "ES"
+  },
+  {
+    "id": 32060,
+    "name": "Rio Jucu",
+    "state": "ES"
+  },
+  {
+    "id": 32090,
+    "name": "Rio Santa Maria da Vitória",
+    "state": "ES"
+  },
+  {
+    "id": 33010,
+    "name": "Bacia do Rio Guandu",
+    "state": "RJ"
+  },
+  {
+    "id": 33020,
+    "name": "Bacia do Rio Paraíba do Sul",
+    "state": "RJ"
+  },
+  {
+    "id": 33030,
+    "name": "Rio Paraíba do Sul",
+    "state": "RJ"
+  },
+  {
+    "id": 35030,
+    "name": "Represa Billings / Alto Tietê",
+    "state": "SP"
+  },
+  {
+    "id": 35060,
+    "name": "Represa Guarapiranga / Alto Tietê",
+    "state": "SP"
+  },
+  {
+    "id": 35090,
+    "name": "Zona Metropolitana / Alto Tietê",
+    "state": "SP"
+  },
+  {
+    "id": 41030,
+    "name": "Bacia do Rio Tibagi",
+    "state": "PR"
+  },
+  {
+    "id": 41060,
+    "name": "Rio Iguaçu / Zona Metropolitana (subsistema 2)",
+    "state": "PR"
+  },
+  {
+    "id": 41090,
+    "name": "Rio Tibagi",
+    "state": "PR"
+  },
+  {
+    "id": 43030,
+    "name": "Rio Caí",
+    "state": "RS"
+  },
+  {
+    "id": 43060,
+    "name": "Rio dos Sinos",
+    "state": "RS"
+  },
+  {
+    "id": 43090,
+    "name": "Rio Gravataí",
+    "state": "RS"
+  },
+  {
+    "id": 43120,
+    "name": "Rio Guaíba",
+    "state": "RS"
+  }
+]

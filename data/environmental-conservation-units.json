@@ -1,0 +1,2932 @@
+[
+  {
+    "id": 1100132,
+    "name": "Parque Nacional Pacaas Novos",
+    "state": "RO"
+  },
+  {
+    "id": 1100145,
+    "name": "Parque Nacional da Serra da Cutia",
+    "state": "RO"
+  },
+  {
+    "id": 1101024,
+    "name": "Floresta Nacional do Bom Futuro",
+    "state": "RO"
+  },
+  {
+    "id": 1101034,
+    "name": "Reserva Extrativista Barreiro das Antas",
+    "state": "RO"
+  },
+  {
+    "id": 1101516,
+    "name": "Floresta Nacional de Jacundá",
+    "state": "RO"
+  },
+  {
+    "id": 1102038,
+    "name": "Reserva Biológica Jaru",
+    "state": "RO"
+  },
+  {
+    "id": 1102046,
+    "name": "Reserva Biológica do Guaporé",
+    "state": "RO"
+  },
+  {
+    "id": 1104170,
+    "name": "Estação Ecológica Cuniã",
+    "state": "RO"
+  },
+  {
+    "id": 1105975,
+    "name": "Floresta Nacional Jamari",
+    "state": "RO"
+  },
+  {
+    "id": 1115903,
+    "name": "Reserva Extrativista do Rio Ouro Preto",
+    "state": "RO"
+  },
+  {
+    "id": 1120000,
+    "name": "Estação Ecológica Serra dos Três Irmãos",
+    "state": "RO"
+  },
+  {
+    "id": 1120001,
+    "name": "Reserva Extrativista Jaci Paraná",
+    "state": "RO"
+  },
+  {
+    "id": 1120002,
+    "name": "Floresta Estadual de Rendimento Sustentável Rio Vermelho \"C\"",
+    "state": "RO"
+  },
+  {
+    "id": 1120003,
+    "name": "Floresta Estadual de Rendimento Sustentável Rio Vermelho \"B\"",
+    "state": "RO"
+  },
+  {
+    "id": 1120004,
+    "name": "Reserva Extrativista Cuniã",
+    "state": "RO"
+  },
+  {
+    "id": 1120005,
+    "name": "Parque Estadual de Corumbiara",
+    "state": "RO"
+  },
+  {
+    "id": 1120006,
+    "name": "Reserva Extrativista Rio Pedras Negras",
+    "state": "RO"
+  },
+  {
+    "id": 1120007,
+    "name": "Floresta Estadual de Rendimento Sustentável Araras",
+    "state": "RO"
+  },
+  {
+    "id": 1120008,
+    "name": "Floresta Estadual de Rendimento Sustentável Mutum",
+    "state": "RO"
+  },
+  {
+    "id": 1120009,
+    "name": "Floresta Estadual de Rendimento Sustentável Tucano",
+    "state": "RO"
+  },
+  {
+    "id": 1120010,
+    "name": "Reserva Extrativista Rio Preto / Jacundá",
+    "state": "RO"
+  },
+  {
+    "id": 1120011,
+    "name": "Floresta Estadual de Rendimento Sustentável Gavião",
+    "state": "RO"
+  },
+  {
+    "id": 1120012,
+    "name": "Floresta Estadual de Rendimento Sustentável Periquitos",
+    "state": "RO"
+  },
+  {
+    "id": 1120013,
+    "name": "Floresta Estadual de Rendimento Sustentável Cedro",
+    "state": "RO"
+  },
+  {
+    "id": 1120014,
+    "name": "Reserva Extrativista Mogno",
+    "state": "RO"
+  },
+  {
+    "id": 1120015,
+    "name": "Reserva Extrativista Maracatiara",
+    "state": "RO"
+  },
+  {
+    "id": 1120016,
+    "name": "Reserva Extrativista Massaranduba",
+    "state": "RO"
+  },
+  {
+    "id": 1120017,
+    "name": "Reserva Extrativista Garrote",
+    "state": "RO"
+  },
+  {
+    "id": 1120018,
+    "name": "Reserva Extrativista Roxinho",
+    "state": "RO"
+  },
+  {
+    "id": 1120019,
+    "name": "Reserva Extrativista Freijó",
+    "state": "RO"
+  },
+  {
+    "id": 1120020,
+    "name": "Reserva Extrativista Castanheira",
+    "state": "RO"
+  },
+  {
+    "id": 1120021,
+    "name": "Reserva Extrativista Piquiá",
+    "state": "RO"
+  },
+  {
+    "id": 1120022,
+    "name": "Reserva Extrativista Sucupira",
+    "state": "RO"
+  },
+  {
+    "id": 1120023,
+    "name": "Reserva Extrativista Ipê",
+    "state": "RO"
+  },
+  {
+    "id": 1120024,
+    "name": "Reserva Extrativista Angelim",
+    "state": "RO"
+  },
+  {
+    "id": 1120025,
+    "name": "Reserva Extrativista Jatobá",
+    "state": "RO"
+  },
+  {
+    "id": 1120026,
+    "name": "Estação Ecológica de Samuel",
+    "state": "RO"
+  },
+  {
+    "id": 1120027,
+    "name": "Parque Estadual de Guajará-Mirim",
+    "state": "RO"
+  },
+  {
+    "id": 1120028,
+    "name": "Reserva Biológica Rio Ouro Preto",
+    "state": "RO"
+  },
+  {
+    "id": 1120029,
+    "name": "Reserva Extrativista Rio Pacaás Novos",
+    "state": "RO"
+  },
+  {
+    "id": 1120030,
+    "name": "Reserva Extrativista Rio Cautário",
+    "state": "RO"
+  },
+  {
+    "id": 1120031,
+    "name": "Reserva Biológica Traçadal",
+    "state": "RO"
+  },
+  {
+    "id": 1120032,
+    "name": "Parque Municipal de Ouro Preto do Oeste",
+    "state": "RO"
+  },
+  {
+    "id": 1120033,
+    "name": "Reserva Extrativista Itaúba",
+    "state": "RO"
+  },
+  {
+    "id": 1120034,
+    "name": "Reserva Extrativista Aquariquara",
+    "state": "RO"
+  },
+  {
+    "id": 1120035,
+    "name": "Reserva Extrativista Curralinho",
+    "state": "RO"
+  },
+  {
+    "id": 1120036,
+    "name": "Parque Estadual Serra dos Reis",
+    "state": "RO"
+  },
+  {
+    "id": 1120037,
+    "name": "Reserva Extrativista Seringueiras",
+    "state": "RO"
+  },
+  {
+    "id": 1204235,
+    "name": "Estação Ecológica Rio Acre",
+    "state": "AC"
+  },
+  {
+    "id": 1211185,
+    "name": "Parque Nacional Serra do Divisor",
+    "state": "AC"
+  },
+  {
+    "id": 1214621,
+    "name": "Floresta Nacional do Macauã",
+    "state": "AC"
+  },
+  {
+    "id": 1250021,
+    "name": "Parque Estadual Chandless",
+    "state": "AC"
+  },
+  {
+    "id": 1250205,
+    "name": "Reserva Extrativista Alto Jurua",
+    "state": "AC"
+  },
+  {
+    "id": 1250206,
+    "name": "Reserva Extrativista Alto Tarauaca",
+    "state": "AC"
+  },
+  {
+    "id": 1250207,
+    "name": "Reserva Extrativista Cazumbá-Iracema",
+    "state": "AC"
+  },
+  {
+    "id": 1250208,
+    "name": "Reserva Extrativista Chico Mendes",
+    "state": "AC"
+  },
+  {
+    "id": 1250209,
+    "name": "Floresta Nacional de Santa Rosa do Purus",
+    "state": "AC"
+  },
+  {
+    "id": 1250210,
+    "name": "Floresta Nacional de São Francisco",
+    "state": "AC"
+  },
+  {
+    "id": 1250211,
+    "name": "Área de Relevante Interesse Ecológico Seringal Nova Esperança",
+    "state": "AC"
+  },
+  {
+    "id": 1250375,
+    "name": "Reserva Extrativista Riozinho da Liberdade",
+    "state": "AC"
+  },
+  {
+    "id": 1300108,
+    "name": "Parque Nacional Jaú",
+    "state": "AM"
+  },
+  {
+    "id": 1300159,
+    "name": "Parque Nacional Pico da Neblina",
+    "state": "AM"
+  },
+  {
+    "id": 1300221,
+    "name": "Parque Nacional Amazônia",
+    "state": "AM"
+  },
+  {
+    "id": 1302003,
+    "name": "Reserva Biológica Abufari",
+    "state": "AM"
+  },
+  {
+    "id": 1303360,
+    "name": "Estação Ecológica Jutaí-Solimões",
+    "state": "AM"
+  },
+  {
+    "id": 1303379,
+    "name": "Reserva Natural Juami-Japurá",
+    "state": "AM"
+  },
+  {
+    "id": 1304081,
+    "name": "Estação Ecológica Anavilhanas",
+    "state": "AM"
+  },
+  {
+    "id": 1304340,
+    "name": "Estação Ecológica Juami-Japurá",
+    "state": "AM"
+  },
+  {
+    "id": 1305401,
+    "name": "Reserva Florestal Adolfo Dukce",
+    "state": "AM"
+  },
+  {
+    "id": 1305428,
+    "name": "Área de Relevante Interesse Ecológico Javari / Buriti",
+    "state": "AM"
+  },
+  {
+    "id": 1311193,
+    "name": "Floresta Nacional Amazonas",
+    "state": "AM"
+  },
+  {
+    "id": 1311207,
+    "name": "Floresta Nacional Cubaté",
+    "state": "AM"
+  },
+  {
+    "id": 1311215,
+    "name": "Floresta Nacional Uruçú",
+    "state": "AM"
+  },
+  {
+    "id": 1311223,
+    "name": "Floresta Nacional Xiê",
+    "state": "AM"
+  },
+  {
+    "id": 1311231,
+    "name": "Floresta Nacional Içana-Aiari",
+    "state": "AM"
+  },
+  {
+    "id": 1311240,
+    "name": "Floresta Nacional Cuiari",
+    "state": "AM"
+  },
+  {
+    "id": 1311266,
+    "name": "Floresta Nacional Içana",
+    "state": "AM"
+  },
+  {
+    "id": 1311274,
+    "name": "Floresta Nacional Taracuá I",
+    "state": "AM"
+  },
+  {
+    "id": 1311282,
+    "name": "Floresta Nacional Taracuá II",
+    "state": "AM"
+  },
+  {
+    "id": 1311827,
+    "name": "Floresta Nacional Acimã",
+    "state": "AM"
+  },
+  {
+    "id": 1314320,
+    "name": "Floresta Nacional Purus",
+    "state": "AM"
+  },
+  {
+    "id": 1314346,
+    "name": "Floresta Nacional Tefé",
+    "state": "AM"
+  },
+  {
+    "id": 1314583,
+    "name": "Floresta Nacional Mapiá-Inauini",
+    "state": "AM"
+  },
+  {
+    "id": 1314672,
+    "name": "Floresta Nacional Pari Cachoeira I",
+    "state": "AM"
+  },
+  {
+    "id": 1314680,
+    "name": "Floresta Nacional Pari Cachoeira II",
+    "state": "AM"
+  },
+  {
+    "id": 1314990,
+    "name": "Reserva Biológica Uatumã",
+    "state": "AM"
+  },
+  {
+    "id": 1315490,
+    "name": "Parque Estadual Nhamundá",
+    "state": "AM"
+  },
+  {
+    "id": 1315954,
+    "name": "Reserva de Desenvolvimento Sustentável Mamirauá",
+    "state": "AM"
+  },
+  {
+    "id": 1315962,
+    "name": "Área de Proteção Ambiental Parintins-Nhamundá",
+    "state": "AM"
+  },
+  {
+    "id": 1315970,
+    "name": "Reserva Ecológica Porto Alegre",
+    "state": "AM"
+  },
+  {
+    "id": 1316101,
+    "name": "Estação Ecológica Silvicultura Tropical",
+    "state": "AM"
+  },
+  {
+    "id": 1322001,
+    "name": "Parque Municipal Mindu",
+    "state": "AM"
+  },
+  {
+    "id": 1350212,
+    "name": "Reserva Extrativista Auti-Paraná",
+    "state": "AM"
+  },
+  {
+    "id": 1350213,
+    "name": "Reserva Extrativista Baixo Juruá",
+    "state": "AM"
+  },
+  {
+    "id": 1350214,
+    "name": "Floresta Nacional Humaitá",
+    "state": "AM"
+  },
+  {
+    "id": 1350215,
+    "name": "Floresta Nacional Jatuarana",
+    "state": "AM"
+  },
+  {
+    "id": 1350219,
+    "name": "Reserva Extrativista Médio Juruá",
+    "state": "AM"
+  },
+  {
+    "id": 1350220,
+    "name": "Floresta Nacional Pau-Rosa",
+    "state": "AM"
+  },
+  {
+    "id": 1350221,
+    "name": "Área de Relevante Interesse Ecológico Projeto Dinâmica Biológica de Fragmentos e Florestas",
+    "state": "AM"
+  },
+  {
+    "id": 1350222,
+    "name": "Reserva Extrativista do Rio Jutaí",
+    "state": "AM"
+  },
+  {
+    "id": 1350372,
+    "name": "Reserva Extrativista Lago do Capanã Grande",
+    "state": "AM"
+  },
+  {
+    "id": 1403034,
+    "name": "Reserva Florestal Parima",
+    "state": "RR"
+  },
+  {
+    "id": 1404090,
+    "name": "Estação Ecológica Maracá",
+    "state": "RR"
+  },
+  {
+    "id": 1404260,
+    "name": "Estação Ecológica de Caracarai",
+    "state": "RR"
+  },
+  {
+    "id": 1404332,
+    "name": "Estação Ecológica Niquia",
+    "state": "RR"
+  },
+  {
+    "id": 1411878,
+    "name": "Parque Nacional Monte Roraima",
+    "state": "RR"
+  },
+  {
+    "id": 1414265,
+    "name": "Floresta Nacional Roraima",
+    "state": "RR"
+  },
+  {
+    "id": 1450223,
+    "name": "Parque Nacional Serra da Mocidade",
+    "state": "RR"
+  },
+  {
+    "id": 1450224,
+    "name": "Parque Nacional Virua",
+    "state": "RR"
+  },
+  {
+    "id": 1500221,
+    "name": "Parque Nacional Amazônia",
+    "state": "PA"
+  },
+  {
+    "id": 1502100,
+    "name": "Reserva Biológica Rio Trombetas",
+    "state": "PA"
+  },
+  {
+    "id": 1504294,
+    "name": "Estação Ecológica Jari",
+    "state": "PA"
+  },
+  {
+    "id": 1506009,
+    "name": "Floresta Nacional Tapajós",
+    "state": "PA"
+  },
+  {
+    "id": 1506025,
+    "name": "Floresta Nacional Caxiuanã",
+    "state": "PA"
+  },
+  {
+    "id": 1514281,
+    "name": "Área de Proteção Ambiental Igarapé Gelado",
+    "state": "PA"
+  },
+  {
+    "id": 1514290,
+    "name": "Floresta Nacional Tapirapé Aquiri",
+    "state": "PA"
+  },
+  {
+    "id": 1514303,
+    "name": "Reserva Biológica Tapirapé",
+    "state": "PA"
+  },
+  {
+    "id": 1515318,
+    "name": "Floresta Nacional Saracá-Taquera",
+    "state": "PA"
+  },
+  {
+    "id": 1524000,
+    "name": "Área de Proteção Ambiental da Ilha do Combu",
+    "state": "PA"
+  },
+  {
+    "id": 1550225,
+    "name": "Floresta Nacional de Altamira",
+    "state": "PA"
+  },
+  {
+    "id": 1550226,
+    "name": "Floresta Nacional Carajás",
+    "state": "PA"
+  },
+  {
+    "id": 1550227,
+    "name": "Floresta Nacional Itacaiúnas",
+    "state": "PA"
+  },
+  {
+    "id": 1550228,
+    "name": "Floresta Nacional Itaituba I",
+    "state": "PA"
+  },
+  {
+    "id": 1550229,
+    "name": "Floresta Nacional Itaituba II",
+    "state": "PA"
+  },
+  {
+    "id": 1550230,
+    "name": "Reserva Extrativista Mãe Grande de Curuçá",
+    "state": "PA"
+  },
+  {
+    "id": 1550232,
+    "name": "Reserva Extrativista Maracanã",
+    "state": "PA"
+  },
+  {
+    "id": 1550233,
+    "name": "Reserva Extrativista Marinha de Soure",
+    "state": "PA"
+  },
+  {
+    "id": 1550235,
+    "name": "Floresta Nacional Mulata I e II",
+    "state": "PA"
+  },
+  {
+    "id": 1550236,
+    "name": "Reserva Extrativista São João da Ponta",
+    "state": "PA"
+  },
+  {
+    "id": 1550237,
+    "name": "Reserva Extrativista Tapajós-Arapiuns",
+    "state": "PA"
+  },
+  {
+    "id": 1550239,
+    "name": "Reserva Extrativista Chocoaré-Mato Grosso",
+    "state": "PA"
+  },
+  {
+    "id": 1550326,
+    "name": "Reserva Extrativista Verde para Sempre",
+    "state": "PA"
+  },
+  {
+    "id": 1550327,
+    "name": "Reserva Extrativista Riozinho do Anfrísio",
+    "state": "PA"
+  },
+  {
+    "id": 1550328,
+    "name": "Estação Ecológica Terra do Meio",
+    "state": "PA"
+  },
+  {
+    "id": 1550329,
+    "name": "Reserva Extrativista Mapuá",
+    "state": "PA"
+  },
+  {
+    "id": 1550330,
+    "name": "Parque Nacional da Serra do Pardo",
+    "state": "PA"
+  },
+  {
+    "id": 1550331,
+    "name": "Reserva Extrativista Marinha de Araí-Peroba",
+    "state": "PA"
+  },
+  {
+    "id": 1550332,
+    "name": "Reserva Extrativista Marinha Caeté-Taperaçu",
+    "state": "PA"
+  },
+  {
+    "id": 1550333,
+    "name": "Reserva Extrativista Marinha Gurupi-Piriá",
+    "state": "PA"
+  },
+  {
+    "id": 1550334,
+    "name": "Reserva Extrativista Marinha de Tracuateua",
+    "state": "PA"
+  },
+  {
+    "id": 1550335,
+    "name": "Reserva Biológica Nacional Nascentes da Serra do Cachimbo",
+    "state": "PA"
+  },
+  {
+    "id": 1550336,
+    "name": "Reserva Extrativista Ipau-Anilzinho",
+    "state": "PA"
+  },
+  {
+    "id": 1550337,
+    "name": "Reserva de Desenvolvimento Sustentável Itatupã-Baquiá",
+    "state": "PA"
+  },
+  {
+    "id": 1600043,
+    "name": "Parque Nacional Cabo Orange",
+    "state": "AP"
+  },
+  {
+    "id": 1602054,
+    "name": "Reserva Biológica Lago Pirituba",
+    "state": "AP"
+  },
+  {
+    "id": 1604103,
+    "name": "Estação Ecológica Maracá-Jipioca",
+    "state": "AP"
+  },
+  {
+    "id": 1604294,
+    "name": "Estação Ecológica Jari",
+    "state": "AP"
+  },
+  {
+    "id": 1612076,
+    "name": "Floresta Nacional Amapá",
+    "state": "AP"
+  },
+  {
+    "id": 1612084,
+    "name": "Reserva Biológica Estadual do Parazinho",
+    "state": "AP"
+  },
+  {
+    "id": 1615148,
+    "name": "Reserva Extrativista Rio Cajari",
+    "state": "AP"
+  },
+  {
+    "id": 1625000,
+    "name": "Área de Proteção Ambiental Estadual do Curiaú",
+    "state": "AP"
+  },
+  {
+    "id": 1625001,
+    "name": "Reserva de Desenvolvimento Sustentável do Rio Iratapur",
+    "state": "AP"
+  },
+  {
+    "id": 1650234,
+    "name": "Parque Nacional Montanhas do Tumucumaque",
+    "state": "AP"
+  },
+  {
+    "id": 1650319,
+    "name": "Reserva Biológica de Fazendinha",
+    "state": "AP"
+  },
+  {
+    "id": 1700027,
+    "name": "Parque Nacional do Araguaia",
+    "state": "TO"
+  },
+  {
+    "id": 1750244,
+    "name": "Estação Ecológica Serra Geral do Tocantins",
+    "state": "TO"
+  },
+  {
+    "id": 2100116,
+    "name": "Parque Nacional dos Lençóis Maranhenses",
+    "state": "MA"
+  },
+  {
+    "id": 2101600,
+    "name": "Parque Estadual do Mirador",
+    "state": "MA"
+  },
+  {
+    "id": 2101988,
+    "name": "Reserva Biológica do Gurupi",
+    "state": "MA"
+  },
+  {
+    "id": 2150242,
+    "name": "Parque Nacional das Nascentes do Rio Parnaíba",
+    "state": "MA"
+  },
+  {
+    "id": 2150247,
+    "name": "Área de Proteção Ambiental do Delta do Parnaíba",
+    "state": "MA"
+  },
+  {
+    "id": 2150249,
+    "name": "Reserva Extrativista da Mata Grande",
+    "state": "MA"
+  },
+  {
+    "id": 2150250,
+    "name": "Reserva Extrativista Quilombo Frechal",
+    "state": "MA"
+  },
+  {
+    "id": 2150333,
+    "name": "Reserva Extrativista de Cururupu",
+    "state": "MA"
+  },
+  {
+    "id": 2150334,
+    "name": "Parque Nacional da Chapada das Mesas",
+    "state": "MA"
+  },
+  {
+    "id": 2150546,
+    "name": "Reserva Extrativista do Ciríaco",
+    "state": "MA"
+  },
+  {
+    "id": 2200191,
+    "name": "Parque Nacional Serra da Capivara",
+    "state": "PI"
+  },
+  {
+    "id": 2200213,
+    "name": "Parque Nacional Sete Cidades",
+    "state": "PI"
+  },
+  {
+    "id": 2204057,
+    "name": "Estação Ecológica Uruçuí-Una",
+    "state": "PI"
+  },
+  {
+    "id": 2204502,
+    "name": "Área de Proteção Ambiental Estadual da Serra das Mangabeiras",
+    "state": "PI"
+  },
+  {
+    "id": 2250247,
+    "name": "Área de Proteção Ambiental Delta do Parnaíba",
+    "state": "PI"
+  },
+  {
+    "id": 2250253,
+    "name": "Área de Proteção Ambiental Serra da Ibiapaba",
+    "state": "PI"
+  },
+  {
+    "id": 2250254,
+    "name": "Parque Nacional Serra das Confusões",
+    "state": "PI"
+  },
+  {
+    "id": 2300248,
+    "name": "Parque Nacional de Ubajara",
+    "state": "CE"
+  },
+  {
+    "id": 2302900,
+    "name": "Parque Botânico do Ceará",
+    "state": "CE"
+  },
+  {
+    "id": 2302903,
+    "name": "Lagoa do Uruaú",
+    "state": "CE"
+  },
+  {
+    "id": 2304049,
+    "name": "Estação Ecológica de Aiuaba",
+    "state": "CE"
+  },
+  {
+    "id": 2310960,
+    "name": "Parque Ecológico Estadual Guaramiranga",
+    "state": "CE"
+  },
+  {
+    "id": 2315881,
+    "name": "Lagoa da Maraponga",
+    "state": "CE"
+  },
+  {
+    "id": 2329001,
+    "name": "Parque Ecológico do Coco",
+    "state": "CE"
+  },
+  {
+    "id": 2329002,
+    "name": "Reserva Ecológica Particular de Sapiranga",
+    "state": "CE"
+  },
+  {
+    "id": 2329004,
+    "name": "Área de Proteção Ambiental de Jericoacoara",
+    "state": "CE"
+  },
+  {
+    "id": 2350257,
+    "name": "Reserva Extrativista do Batoque",
+    "state": "CE"
+  },
+  {
+    "id": 2350258,
+    "name": "Estação Ecológica do Castanhão",
+    "state": "CE"
+  },
+  {
+    "id": 2350259,
+    "name": "Parque Nacional de Jericoacoara",
+    "state": "CE"
+  },
+  {
+    "id": 2350320,
+    "name": "Área de Proteção Ambiental do Estuário do Rio Mundaú",
+    "state": "CE"
+  },
+  {
+    "id": 2350321,
+    "name": "Área de Proteção Ambiental do Estuário do Rio Curú",
+    "state": "CE"
+  },
+  {
+    "id": 2404154,
+    "name": "Estação Ecológica de Seridó",
+    "state": "RN"
+  },
+  {
+    "id": 2450261,
+    "name": "Floresta Nacional Açu",
+    "state": "RN"
+  },
+  {
+    "id": 2450262,
+    "name": "Floresta Nacional de Nisia Floresta",
+    "state": "RN"
+  },
+  {
+    "id": 2500001,
+    "name": "Campus Universitário - Bananeiras",
+    "state": "PB"
+  },
+  {
+    "id": 2503999,
+    "name": "Área de Proteção Ambiental Barra do Mamanguape",
+    "state": "PB"
+  },
+  {
+    "id": 2514737,
+    "name": "Reserva Biológica Guaribas",
+    "state": "PB"
+  },
+  {
+    "id": 2550265,
+    "name": "Área de Relevante Interesse Ecológico Vale dos Dinossauros",
+    "state": "PB"
+  },
+  {
+    "id": 2550316,
+    "name": "Floresta Nacional Restinga de Cabedelo",
+    "state": "PB"
+  },
+  {
+    "id": 2602097,
+    "name": "Reserva Biológica de Serra Negra",
+    "state": "PE"
+  },
+  {
+    "id": 2603131,
+    "name": "Reserva Biológica de Saltinho",
+    "state": "PE"
+  },
+  {
+    "id": 2603468,
+    "name": "Reserva Ecológica Estadual Mata Usina São José",
+    "state": "PE"
+  },
+  {
+    "id": 2603727,
+    "name": "Reserva Ecológica Estadual Mata Sistema Gurjaú",
+    "state": "PE"
+  },
+  {
+    "id": 2603778,
+    "name": "Reserva Ecológica Estadual Mata Urucu",
+    "state": "PE"
+  },
+  {
+    "id": 2603972,
+    "name": "Parque Nacional Marinho de Fernando de Noronha",
+    "state": "PE"
+  },
+  {
+    "id": 2604553,
+    "name": "Área de Proteção Ambiental Estadual A. E. do Canal de Santa Cruz",
+    "state": "PE"
+  },
+  {
+    "id": 2604561,
+    "name": "Área de Proteção Ambiental Estadual A. E. do Rio Timbó",
+    "state": "PE"
+  },
+  {
+    "id": 2650266,
+    "name": "Parque Nacional Catimbau",
+    "state": "PE"
+  },
+  {
+    "id": 2650271,
+    "name": "Reserva Biológica de Pedra Talhada",
+    "state": "PE"
+  },
+  {
+    "id": 2703352,
+    "name": "Reserva Ecológica Estadual do Saco da Pedra",
+    "state": "AL"
+  },
+  {
+    "id": 2703905,
+    "name": "Reserva Ecológica Estadual de M. da Lagoa do Roteiro",
+    "state": "AL"
+  },
+  {
+    "id": 2704383,
+    "name": "Área de Proteção Ambiental Nacional Piaçabuçu",
+    "state": "AL"
+  },
+  {
+    "id": 2704499,
+    "name": "Área de Proteção Ambiental Estadual de Santa Rita",
+    "state": "AL"
+  },
+  {
+    "id": 2704774,
+    "name": "Área de Proteção Ambiental Estadual de Marituba do Peixe",
+    "state": "AL"
+  },
+  {
+    "id": 2704995,
+    "name": "Área de Proteção Ambiental Nacional Orla Marítima da Praia do Peba",
+    "state": "AL"
+  },
+  {
+    "id": 2710910,
+    "name": "Reserva Biológica de Pedra Talhada",
+    "state": "AL"
+  },
+  {
+    "id": 2750269,
+    "name": "Estação Ecológica de Murici",
+    "state": "AL"
+  },
+  {
+    "id": 2805070,
+    "name": "Reserva Biológica Santa Isabel",
+    "state": "SE"
+  },
+  {
+    "id": 2850370,
+    "name": "Floresta Nacional do Ibura",
+    "state": "SE"
+  },
+  {
+    "id": 2850371,
+    "name": "Parque Nacional Serra de Itabaiana",
+    "state": "SE"
+  },
+  {
+    "id": 2900124,
+    "name": "Parque Nacional Monte Pascoal",
+    "state": "BA"
+  },
+  {
+    "id": 2900752,
+    "name": "Parque Ecológico Municipal Joventino Silva",
+    "state": "BA"
+  },
+  {
+    "id": 2901511,
+    "name": "Parque Nacional Marinho dos Abrolhos",
+    "state": "BA"
+  },
+  {
+    "id": 2901554,
+    "name": "Parque Nacional da Chapada Diamantina",
+    "state": "BA"
+  },
+  {
+    "id": 2901708,
+    "name": "Parque Florestal Estadual e Reserva Ecológica Estadual de Ilhéus",
+    "state": "BA"
+  },
+  {
+    "id": 2901716,
+    "name": "Parque Florestal Estadual e Reserva Ecológica Estadual do Iguape",
+    "state": "BA"
+  },
+  {
+    "id": 2901724,
+    "name": "Parque Florestal Estadual e Reserva Ecológica Estadual do Morro Cururupe",
+    "state": "BA"
+  },
+  {
+    "id": 2901783,
+    "name": "Parque Ecológico Estadual Metropolitano de Pituaçu",
+    "state": "BA"
+  },
+  {
+    "id": 2902119,
+    "name": "Reserva Biológica Una",
+    "state": "BA"
+  },
+  {
+    "id": 2903387,
+    "name": "Estação Ecológica Raso da Catarina",
+    "state": "BA"
+  },
+  {
+    "id": 2904782,
+    "name": "Área de Proteção Ambiental Estadual da Lagoa e Dunas do Abaeté",
+    "state": "BA"
+  },
+  {
+    "id": 2915938,
+    "name": "Parque Zoobotânico Getúlio Vargas",
+    "state": "BA"
+  },
+  {
+    "id": 2950272,
+    "name": "Área de Relevante Interesse Ecológico Cocorobó",
+    "state": "BA"
+  },
+  {
+    "id": 2950274,
+    "name": "Floresta Nacional de Cristópolis",
+    "state": "BA"
+  },
+  {
+    "id": 2950275,
+    "name": "Parque Nacional do Descobrimento",
+    "state": "BA"
+  },
+  {
+    "id": 2950278,
+    "name": "Parque Nacional Pau Brasil",
+    "state": "BA"
+  },
+  {
+    "id": 2950383,
+    "name": "Refúgio de Vida Silvestre das Veredas do Oeste Baiano",
+    "state": "BA"
+  },
+  {
+    "id": 3100051,
+    "name": "Parque Nacional Caparaó",
+    "state": "MG"
+  },
+  {
+    "id": 3100094,
+    "name": "Parque Nacional Itatiaia",
+    "state": "MG"
+  },
+  {
+    "id": 3100183,
+    "name": "Parque Nacional Serra da Canastra",
+    "state": "MG"
+  },
+  {
+    "id": 3100426,
+    "name": "Parque Florestal Estadual do Ibitipoca",
+    "state": "MG"
+  },
+  {
+    "id": 3100477,
+    "name": "Parque Estadual do Itacolomi",
+    "state": "MG"
+  },
+  {
+    "id": 3100582,
+    "name": "Parque Florestal Estadual do Rio Doce",
+    "state": "MG"
+  },
+  {
+    "id": 3100604,
+    "name": "Parque Nacional Serra do Cipó",
+    "state": "MG"
+  },
+  {
+    "id": 3100647,
+    "name": "Parque Estadual do Sumidouro",
+    "state": "MG"
+  },
+  {
+    "id": 3101813,
+    "name": "Parque Florestal Estadual do Anhumas",
+    "state": "MG"
+  },
+  {
+    "id": 3102127,
+    "name": "Reserva Biológica Estadual Mata de Acauã",
+    "state": "MG"
+  },
+  {
+    "id": 3102194,
+    "name": "Reserva Biológica Estadual Colônia 31 de Março",
+    "state": "MG"
+  },
+  {
+    "id": 3102232,
+    "name": "Reserva Biológica Estadual da Lajinha",
+    "state": "MG"
+  },
+  {
+    "id": 3102275,
+    "name": "Reserva Biológica Estadual Mar de Espanha",
+    "state": "MG"
+  },
+  {
+    "id": 3102313,
+    "name": "Reserva Biológica Estadual Nova Baden",
+    "state": "MG"
+  },
+  {
+    "id": 3102356,
+    "name": "Reserva Biológica Estadual F. São Mateus / Ponte Nova",
+    "state": "MG"
+  },
+  {
+    "id": 3102364,
+    "name": "Reserva Biológica Estadual I de São Sebastião do Paraíso",
+    "state": "MG"
+  },
+  {
+    "id": 3102437,
+    "name": "Reserva Biológica Municipal do Cabo Verde",
+    "state": "MG"
+  },
+  {
+    "id": 3102453,
+    "name": "Reserva Biológica Municipal Santa Clara",
+    "state": "MG"
+  },
+  {
+    "id": 3103600,
+    "name": "Área de Proteção Ambiental do Pico do Ibituruna",
+    "state": "MG"
+  },
+  {
+    "id": 3103980,
+    "name": "Parque Estadual da Serra do Brigadeiro",
+    "state": "MG"
+  },
+  {
+    "id": 3104146,
+    "name": "Estação Ecológica Pirapitinga",
+    "state": "MG"
+  },
+  {
+    "id": 3104464,
+    "name": "Área de Proteção Ambiental Serra da Mantiqueira",
+    "state": "MG"
+  },
+  {
+    "id": 3104820,
+    "name": "Estação Ecológica Estadual do Tripuí",
+    "state": "MG"
+  },
+  {
+    "id": 3104847,
+    "name": "Reserva Florestal Estadual da Baleia",
+    "state": "MG"
+  },
+  {
+    "id": 3110600,
+    "name": "Área de Proteção Permanente Estadual da B. H. Ribeirão Veríssimo",
+    "state": "MG"
+  },
+  {
+    "id": 3110669,
+    "name": "Área de Proteção Permanente Estadual B. H. do R. V. das Flores",
+    "state": "MG"
+  },
+  {
+    "id": 3110677,
+    "name": "Área de Proteção Permanente Estadual da B. H. do R. Serra Azul",
+    "state": "MG"
+  },
+  {
+    "id": 3110685,
+    "name": "Área de Proteção Permanente Estadual da B. H. do Ribeirão Urubu",
+    "state": "MG"
+  },
+  {
+    "id": 3110766,
+    "name": "Floresta Nacional Passa Quatro",
+    "state": "MG"
+  },
+  {
+    "id": 3110936,
+    "name": "Área de Proteção Permanente Estadual Serra de São José",
+    "state": "MG"
+  },
+  {
+    "id": 3111002,
+    "name": "Parque Estadual Cataguases",
+    "state": "MG"
+  },
+  {
+    "id": 3113099,
+    "name": "Parque Municipal do Paredão",
+    "state": "MG"
+  },
+  {
+    "id": 3113102,
+    "name": "Parque Nacional Grande Sertão Veredas",
+    "state": "MG"
+  },
+  {
+    "id": 3113110,
+    "name": "Reserva Biológica Estadual II de São Sebastião do Paraíso",
+    "state": "MG"
+  },
+  {
+    "id": 3113129,
+    "name": "Reserva Biológica Estadual III de São Sebastião do Paraíso",
+    "state": "MG"
+  },
+  {
+    "id": 3113137,
+    "name": "Área de Proteção Permanente Estadual do Reservatório do Rio Manso",
+    "state": "MG"
+  },
+  {
+    "id": 3113145,
+    "name": "Parque Municipal Fernão Dias",
+    "state": "MG"
+  },
+  {
+    "id": 3114605,
+    "name": "Parque Nacional Cavernas do Peruaçu",
+    "state": "MG"
+  },
+  {
+    "id": 3114729,
+    "name": "Área de Proteção Ambiental Carste de Lagoa Santa",
+    "state": "MG"
+  },
+  {
+    "id": 3114745,
+    "name": "Área de Proteção Ambiental Morro da Pedreira",
+    "state": "MG"
+  },
+  {
+    "id": 3136001,
+    "name": "Área de Proteção Permanente Estadual Córrego Feio",
+    "state": "MG"
+  },
+  {
+    "id": 3136002,
+    "name": "Parque Serra do Rola Moça",
+    "state": "MG"
+  },
+  {
+    "id": 3136003,
+    "name": "Área de Proteção Ambiental Mata do Krambeck",
+    "state": "MG"
+  },
+  {
+    "id": 3136008,
+    "name": "Área de Proteção Ambiental Cachoeira das Andorinhas",
+    "state": "MG"
+  },
+  {
+    "id": 3136009,
+    "name": "Área de Proteção Ambiental Santana",
+    "state": "MG"
+  },
+  {
+    "id": 3136010,
+    "name": "Parque Estadual Veredas do Peruaçu",
+    "state": "MG"
+  },
+  {
+    "id": 3136011,
+    "name": "Parque Estadual do Rio Preto",
+    "state": "MG"
+  },
+  {
+    "id": 3136012,
+    "name": "Área de Proteção Permanente Estadual Córrego Fundo",
+    "state": "MG"
+  },
+  {
+    "id": 3136013,
+    "name": "Parque Estadual de Biribiri",
+    "state": "MG"
+  },
+  {
+    "id": 3136014,
+    "name": "Área de Proteção Ambiental Nacional Campo do Cercado",
+    "state": "MG"
+  },
+  {
+    "id": 3136015,
+    "name": "Área de Proteção Ambiental Águas Vertentes",
+    "state": "MG"
+  },
+  {
+    "id": 3150284,
+    "name": "Floresta Nacional de Ritápolis",
+    "state": "MG"
+  },
+  {
+    "id": 3150285,
+    "name": "Parque Nacional das Sempre Viva",
+    "state": "MG"
+  },
+  {
+    "id": 3200051,
+    "name": "Parque Nacional Caparaó",
+    "state": "ES"
+  },
+  {
+    "id": 3201791,
+    "name": "Parque Estadual Cachoeira da Fumaça",
+    "state": "ES"
+  },
+  {
+    "id": 3201805,
+    "name": "Parque Estadual da Fonte Grande",
+    "state": "ES"
+  },
+  {
+    "id": 3202020,
+    "name": "Reserva Biológica Córrego do Veado",
+    "state": "ES"
+  },
+  {
+    "id": 3202062,
+    "name": "Reserva Biológica Augusto Ruschi",
+    "state": "ES"
+  },
+  {
+    "id": 3202089,
+    "name": "Reserva Biológica Sooretama",
+    "state": "ES"
+  },
+  {
+    "id": 3202305,
+    "name": "Reserva Biológica Estadual Mestre Álvaro",
+    "state": "ES"
+  },
+  {
+    "id": 3202909,
+    "name": "Reserva Florestal Estadual de Duas Bocas",
+    "state": "ES"
+  },
+  {
+    "id": 3202917,
+    "name": "Reserva Florestal Estadual Pedra Azul",
+    "state": "ES"
+  },
+  {
+    "id": 3202925,
+    "name": "Parque Estadual do Forno Grande",
+    "state": "ES"
+  },
+  {
+    "id": 3202933,
+    "name": "Reserva Biológica Nacional de Comboios",
+    "state": "ES"
+  },
+  {
+    "id": 3203921,
+    "name": "Reserva Biologica de Camboios",
+    "state": "ES"
+  },
+  {
+    "id": 3203930,
+    "name": "Reserva Biológica Córrego Grande",
+    "state": "ES"
+  },
+  {
+    "id": 3203956,
+    "name": "Reserva Florestal Municipal Cachoeira do Rio Pardo",
+    "state": "ES"
+  },
+  {
+    "id": 3204804,
+    "name": "Estação Ecológica Municipal Mosteiro Zen Morro da Vargem",
+    "state": "ES"
+  },
+  {
+    "id": 3204812,
+    "name": "Reserva Florestal Particular de Linhares (CVRD)",
+    "state": "ES"
+  },
+  {
+    "id": 3204863,
+    "name": "Área de Proteção Permanente Estadual Fazenda Goitacazes",
+    "state": "ES"
+  },
+  {
+    "id": 3204871,
+    "name": "Área de Proteção Permanente Estadual Fazenda Bananal Norte",
+    "state": "ES"
+  },
+  {
+    "id": 3204880,
+    "name": "Área de Proteção Permanente Estadual Mata das Flores",
+    "state": "ES"
+  },
+  {
+    "id": 3204898,
+    "name": "Área de Proteção Permanente Estadual Córrego do Arroz",
+    "state": "ES"
+  },
+  {
+    "id": 3214710,
+    "name": "Floresta Nacional Rio Preto",
+    "state": "ES"
+  },
+  {
+    "id": 3216080,
+    "name": "Reserva Biológica de Nova Lombardia",
+    "state": "ES"
+  },
+  {
+    "id": 3237000,
+    "name": "Área de Proteção Ambiental Goiapaba-Açú",
+    "state": "ES"
+  },
+  {
+    "id": 3237001,
+    "name": "Área de Proteção Ambiental Guanandy",
+    "state": "ES"
+  },
+  {
+    "id": 3237002,
+    "name": "Parque Estadual de Itaúnas",
+    "state": "ES"
+  },
+  {
+    "id": 3237003,
+    "name": "Área de Proteção Ambiental das Três Ilhas",
+    "state": "ES"
+  },
+  {
+    "id": 3237004,
+    "name": "Ilha do Gambá",
+    "state": "ES"
+  },
+  {
+    "id": 3250286,
+    "name": "Floresta Nacional de Goytacazes",
+    "state": "ES"
+  },
+  {
+    "id": 3250288,
+    "name": "Floresta Nacional Pacotuba",
+    "state": "ES"
+  },
+  {
+    "id": 3250289,
+    "name": "Parque Nacional dos Pontões Capixabas",
+    "state": "ES"
+  },
+  {
+    "id": 3300094,
+    "name": "Parque Nacional Itatiaia",
+    "state": "RJ"
+  },
+  {
+    "id": 3300175,
+    "name": "Parque Nacional Serra da Bocaina",
+    "state": "RJ"
+  },
+  {
+    "id": 3300205,
+    "name": "Parque Nacional Serra dos Órgãos",
+    "state": "RJ"
+  },
+  {
+    "id": 3300370,
+    "name": "Parque Estadual do Desengano",
+    "state": "RJ"
+  },
+  {
+    "id": 3300469,
+    "name": "Parque Estadual Ilha Grande",
+    "state": "RJ"
+  },
+  {
+    "id": 3302070,
+    "name": "Reserva Biológica Poço das Antas",
+    "state": "RJ"
+  },
+  {
+    "id": 3302151,
+    "name": "Reserva Biológica Estadual de Arara",
+    "state": "RJ"
+  },
+  {
+    "id": 3302399,
+    "name": "Reserva Biológica Estadual Praia do Sul",
+    "state": "RJ"
+  },
+  {
+    "id": 3304278,
+    "name": "Estação Ecológica Nacional de Piraí",
+    "state": "RJ"
+  },
+  {
+    "id": 3304375,
+    "name": "Área de Proteção Ambiental Petrópolis",
+    "state": "RJ"
+  },
+  {
+    "id": 3304413,
+    "name": "Área de Proteção Ambiental Cairuçu",
+    "state": "RJ"
+  },
+  {
+    "id": 3304421,
+    "name": "Área de Proteção Ambiental Guapimirim",
+    "state": "RJ"
+  },
+  {
+    "id": 3304464,
+    "name": "Área de Proteção Ambiental Serra da Mantiqueira",
+    "state": "RJ"
+  },
+  {
+    "id": 3304855,
+    "name": "Reserva Ecológica Estadual de Massambaba",
+    "state": "RJ"
+  },
+  {
+    "id": 3304944,
+    "name": "Área de Proteção Ambiental Estadual Floresta do Jacarandá",
+    "state": "RJ"
+  },
+  {
+    "id": 3304960,
+    "name": "Área de Proteção Ambiental Estadual de Mangaratiba",
+    "state": "RJ"
+  },
+  {
+    "id": 3304979,
+    "name": "Área de Proteção Ambiental Estadual de Massambaba",
+    "state": "RJ"
+  },
+  {
+    "id": 3305053,
+    "name": "Estação Ecológica Estadual Paraíso",
+    "state": "RJ"
+  },
+  {
+    "id": 3305088,
+    "name": "Área de Relevante Interesse Ecológico Floresta da Cicuta",
+    "state": "RJ"
+  },
+  {
+    "id": 3306254,
+    "name": "Floresta Nacional Mario Xavier",
+    "state": "RJ"
+  },
+  {
+    "id": 3310804,
+    "name": "Estação Ecológica Tamoios",
+    "state": "RJ"
+  },
+  {
+    "id": 3310812,
+    "name": "Área de Proteção Ambiental Municipal de Teresópolis",
+    "state": "RJ"
+  },
+  {
+    "id": 3310820,
+    "name": "Área de Proteção Ambiental Municipal Rio dos Frades",
+    "state": "RJ"
+  },
+  {
+    "id": 3310839,
+    "name": "Área de Proteção Ambiental Municipal da Vista Soberba",
+    "state": "RJ"
+  },
+  {
+    "id": 3310898,
+    "name": "Área de Proteção Ambiental Municipal do Valério",
+    "state": "RJ"
+  },
+  {
+    "id": 3313285,
+    "name": "Área de Proteção Ambiental Estadual da Serra de Madureira",
+    "state": "RJ"
+  },
+  {
+    "id": 3314338,
+    "name": "Área de Proteção Ambiental Municipal Sítio dos Carvalhos",
+    "state": "RJ"
+  },
+  {
+    "id": 3314354,
+    "name": "Reserva Biológica Tinguá",
+    "state": "RJ"
+  },
+  {
+    "id": 3314400,
+    "name": "Área de Proteção Permanente Municipal Área 01",
+    "state": "RJ"
+  },
+  {
+    "id": 3314419,
+    "name": "Área de Proteção Permanente Municipal Área 02",
+    "state": "RJ"
+  },
+  {
+    "id": 3314427,
+    "name": "Área de Proteção Permanente Municipal Área 03",
+    "state": "RJ"
+  },
+  {
+    "id": 3314435,
+    "name": "Área de Proteção Permanente Municipal Área 04",
+    "state": "RJ"
+  },
+  {
+    "id": 3314443,
+    "name": "Área de Proteção Permanente Municipal Área 05",
+    "state": "RJ"
+  },
+  {
+    "id": 3314451,
+    "name": "Área de Proteção Permanente Municipal Área 06",
+    "state": "RJ"
+  },
+  {
+    "id": 3314460,
+    "name": "Área de Proteção Permanente Municipal Área 07",
+    "state": "RJ"
+  },
+  {
+    "id": 3314478,
+    "name": "Área de Proteção Permanente Municipal Área 08",
+    "state": "RJ"
+  },
+  {
+    "id": 3314486,
+    "name": "Área de Proteção Permanente Municipal Área 09",
+    "state": "RJ"
+  },
+  {
+    "id": 3314494,
+    "name": "Área de Proteção Permanente Municipal Área 10",
+    "state": "RJ"
+  },
+  {
+    "id": 3314508,
+    "name": "Área de Proteção Permanente Municipal Área 11",
+    "state": "RJ"
+  },
+  {
+    "id": 3314516,
+    "name": "Área de Proteção Permanente Municipal Área 12",
+    "state": "RJ"
+  },
+  {
+    "id": 3314524,
+    "name": "Área de Proteção Permanente Municipal Área 13",
+    "state": "RJ"
+  },
+  {
+    "id": 3314532,
+    "name": "Área de Proteção Permanente Municipal Área 14",
+    "state": "RJ"
+  },
+  {
+    "id": 3314540,
+    "name": "Área de Proteção Permanente Municipal Área 15",
+    "state": "RJ"
+  },
+  {
+    "id": 3314559,
+    "name": "Área de Proteção Permanente Municipal Área 16",
+    "state": "RJ"
+  },
+  {
+    "id": 3314567,
+    "name": "Área de Proteção Ambiental Municipal Fazenda Santa Cecília do Ingá",
+    "state": "RJ"
+  },
+  {
+    "id": 3315024,
+    "name": "Área de Relevante Interesse Ecológico das Ilhas Cagarras",
+    "state": "RJ"
+  },
+  {
+    "id": 3338000,
+    "name": "Parque Nacional Restinga de Jurubatiba",
+    "state": "RJ"
+  },
+  {
+    "id": 3350292,
+    "name": "Reserva Extrativista Marinha de Arraial do Cabo",
+    "state": "RJ"
+  },
+  {
+    "id": 3350293,
+    "name": "Reserva Biológica União",
+    "state": "RJ"
+  },
+  {
+    "id": 3500175,
+    "name": "Parque Nacional Serra da Bocaina",
+    "state": "SP"
+  },
+  {
+    "id": 3500264,
+    "name": "Parque Estadual Ara",
+    "state": "SP"
+  },
+  {
+    "id": 3500272,
+    "name": "Parque Estadual do Alto Ribeira",
+    "state": "SP"
+  },
+  {
+    "id": 3500280,
+    "name": "Estação Ecológica Estadual dos Caetetus",
+    "state": "SP"
+  },
+  {
+    "id": 3500299,
+    "name": "Parque Estadual Carlos Botelho",
+    "state": "SP"
+  },
+  {
+    "id": 3500329,
+    "name": "Parque Estadual de Campos do Jordão",
+    "state": "SP"
+  },
+  {
+    "id": 3500353,
+    "name": "Parque Estadual Capital",
+    "state": "SP"
+  },
+  {
+    "id": 3500434,
+    "name": "Parque Estadual Ilha Anchieta",
+    "state": "SP"
+  },
+  {
+    "id": 3500442,
+    "name": "Parque Estadual de Ilhabela",
+    "state": "SP"
+  },
+  {
+    "id": 3500450,
+    "name": "Parque Estadual da Ilha do Cardoso",
+    "state": "SP"
+  },
+  {
+    "id": 3500485,
+    "name": "Parque Estadual de Jacupiranga",
+    "state": "SP"
+  },
+  {
+    "id": 3500507,
+    "name": "Parque Estadual Jaraguá",
+    "state": "SP"
+  },
+  {
+    "id": 3500620,
+    "name": "Parque Estadual da Serra do Mar",
+    "state": "SP"
+  },
+  {
+    "id": 3500671,
+    "name": "Parque Estadual de Vassununga",
+    "state": "SP"
+  },
+  {
+    "id": 3500990,
+    "name": "Área de Proteção Ambiental Estadual de Campos do Jordão",
+    "state": "SP"
+  },
+  {
+    "id": 3501252,
+    "name": "Parque Ecológico Estadual do Tietê",
+    "state": "SP"
+  },
+  {
+    "id": 3502550,
+    "name": "Reserva Florestal Estadual Lagoa São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3502585,
+    "name": "Área de Proteção Permanente Estadual Águas da Prata",
+    "state": "SP"
+  },
+  {
+    "id": 3502631,
+    "name": "Reserva Florestal Estadual do Morro Grande",
+    "state": "SP"
+  },
+  {
+    "id": 3502640,
+    "name": "Parque Estadual de Porto Ferreira",
+    "state": "SP"
+  },
+  {
+    "id": 3502666,
+    "name": "Parque Estadual do Morro do Diabo",
+    "state": "SP"
+  },
+  {
+    "id": 3504308,
+    "name": "Estação Ecológica Estadual Paulo de Faria",
+    "state": "SP"
+  },
+  {
+    "id": 3504430,
+    "name": "Área de Proteção Ambiental Cananéia-Iguapé-Peruíbe",
+    "state": "SP"
+  },
+  {
+    "id": 3504464,
+    "name": "Área de Proteção Ambiental Serra da Mantiqueira",
+    "state": "SP"
+  },
+  {
+    "id": 3505150,
+    "name": "Área de Relevante Interesse Ecológico Mata de Santa Genebra",
+    "state": "SP"
+  },
+  {
+    "id": 3506165,
+    "name": "Floresta Estadual de Piraju",
+    "state": "SP"
+  },
+  {
+    "id": 3506246,
+    "name": "Floresta Estadual de Botucatu",
+    "state": "SP"
+  },
+  {
+    "id": 3509199,
+    "name": "Parque Estadual Fontes do Ipiranga",
+    "state": "SP"
+  },
+  {
+    "id": 3509202,
+    "name": "Parque Ecológico Estadual Emílio José Salim",
+    "state": "SP"
+  },
+  {
+    "id": 3509210,
+    "name": "Estação Ecológica Estadual de Xitué",
+    "state": "SP"
+  },
+  {
+    "id": 3509237,
+    "name": "Área de Proteção Ambiental Municipal de Roseira Velha",
+    "state": "SP"
+  },
+  {
+    "id": 3509245,
+    "name": "Estação Ecológica Estadual Chauas",
+    "state": "SP"
+  },
+  {
+    "id": 3510006,
+    "name": "Área de Proteção Ambiental Estadual Corumbataí, Botucatu e Tejupá",
+    "state": "SP"
+  },
+  {
+    "id": 3510014,
+    "name": "Área de Proteção Ambiental Estadual da Ilha Comprida",
+    "state": "SP"
+  },
+  {
+    "id": 3510022,
+    "name": "Área de Proteção Ambiental Estadual da Serra do Mar",
+    "state": "SP"
+  },
+  {
+    "id": 3510030,
+    "name": "Área de Proteção Ambiental Estadual Rio Piracicaba e Rio Juqueri-Mirim",
+    "state": "SP"
+  },
+  {
+    "id": 3510057,
+    "name": "Área de Proteção Ambiental Estadual do Haras de São Bernardo",
+    "state": "SP"
+  },
+  {
+    "id": 3510065,
+    "name": "Estação Ecológica Estadual da Juréia Itatins",
+    "state": "SP"
+  },
+  {
+    "id": 3510073,
+    "name": "Área de Relevante Interesse Ecológico Ilha Ameixal",
+    "state": "SP"
+  },
+  {
+    "id": 3510090,
+    "name": "Reserva Ecológica Municipal Dr. Enéas de Carvalho Aguiar",
+    "state": "SP"
+  },
+  {
+    "id": 3510103,
+    "name": "Estação Ecológica Estadual de Bauru",
+    "state": "SP"
+  },
+  {
+    "id": 3510111,
+    "name": "Parque Ecológico Municipal de Bauru",
+    "state": "SP"
+  },
+  {
+    "id": 3510138,
+    "name": "Estação Ecológica Estadual de Angatuba",
+    "state": "SP"
+  },
+  {
+    "id": 3510146,
+    "name": "Estação Ecológica Estadual de São Carlos",
+    "state": "SP"
+  },
+  {
+    "id": 3510154,
+    "name": "Área de Proteção Ambiental Estadual Município de Cabreúva",
+    "state": "SP"
+  },
+  {
+    "id": 3510162,
+    "name": "Estação Ecológica Estadual de Itapeti",
+    "state": "SP"
+  },
+  {
+    "id": 3510170,
+    "name": "Estação Ecológica Estadual de Ibicatu",
+    "state": "SP"
+  },
+  {
+    "id": 3510189,
+    "name": "Estação Ecológica Estadual de Itapeva",
+    "state": "SP"
+  },
+  {
+    "id": 3510197,
+    "name": "Estação Ecológica Estadual de Itaberá",
+    "state": "SP"
+  },
+  {
+    "id": 3510200,
+    "name": "Floresta Estadual Avaré I",
+    "state": "SP"
+  },
+  {
+    "id": 3510219,
+    "name": "Floresta Estadual de Paranapanema",
+    "state": "SP"
+  },
+  {
+    "id": 3510227,
+    "name": "Estação Ecológica Estadual de Santa Bárbara",
+    "state": "SP"
+  },
+  {
+    "id": 3510235,
+    "name": "Área de Proteção Ambiental Municipal de Tietê",
+    "state": "SP"
+  },
+  {
+    "id": 3510243,
+    "name": "Floresta Estadual de Cajuru",
+    "state": "SP"
+  },
+  {
+    "id": 3510251,
+    "name": "Área de Proteção Permanente Municipal Serra da Bocaina",
+    "state": "SP"
+  },
+  {
+    "id": 3510260,
+    "name": "Estação Ecológica Estadual de Ribeirão Preto",
+    "state": "SP"
+  },
+  {
+    "id": 3510278,
+    "name": "Estação Ecológica Estadual de Jataí, Conde J. A. R. do Vale",
+    "state": "SP"
+  },
+  {
+    "id": 3510286,
+    "name": "Estação Ecológica Estadual de Santa Maria",
+    "state": "SP"
+  },
+  {
+    "id": 3510294,
+    "name": "Área de Relevante Interesse Ecológico Ilhas Queimada Pequena e Queimada Grande",
+    "state": "SP"
+  },
+  {
+    "id": 3510308,
+    "name": "Estação Ecológica Estadual de Valinhos",
+    "state": "SP"
+  },
+  {
+    "id": 3510316,
+    "name": "Estação Ecológica Estadual de Itirapina",
+    "state": "SP"
+  },
+  {
+    "id": 3510324,
+    "name": "Área de Proteção Ambiental Estadual do Município de Cajamar",
+    "state": "SP"
+  },
+  {
+    "id": 3510332,
+    "name": "Área de Proteção Ambiental Estadual do Município de Jundiaí",
+    "state": "SP"
+  },
+  {
+    "id": 3510359,
+    "name": "Estação Ecológica Tupiniquins",
+    "state": "SP"
+  },
+  {
+    "id": 3510367,
+    "name": "Área de Proteção Ambiental Estadual do Município de Ibitinga",
+    "state": "SP"
+  },
+  {
+    "id": 3510375,
+    "name": "Reserva Biológica Estadual Sertãozinho",
+    "state": "SP"
+  },
+  {
+    "id": 3510383,
+    "name": "Área de Relevante Interesse Ecológico Nacional da Pedra Branca",
+    "state": "SP"
+  },
+  {
+    "id": 3510391,
+    "name": "Estação Ecológica Estadual de Moji-Guaçu",
+    "state": "SP"
+  },
+  {
+    "id": 3510405,
+    "name": "Floresta Estadual de Sta. Bárbara do Rio Pardo",
+    "state": "SP"
+  },
+  {
+    "id": 3510413,
+    "name": "Reserva Biológica Estadual de Andradina",
+    "state": "SP"
+  },
+  {
+    "id": 3510421,
+    "name": "Área de Relevante Interesse Ecológico Matão de Cosmópolis",
+    "state": "SP"
+  },
+  {
+    "id": 3510456,
+    "name": "Estação Ecológica Estadual de Bananal",
+    "state": "SP"
+  },
+  {
+    "id": 3510464,
+    "name": "Área de Proteção Ambiental Estadual do Município de Silveiras",
+    "state": "SP"
+  },
+  {
+    "id": 3510499,
+    "name": "Floresta Nacional Capão Bonito",
+    "state": "SP"
+  },
+  {
+    "id": 3510502,
+    "name": "Floresta Estadual de Manduri",
+    "state": "SP"
+  },
+  {
+    "id": 3510588,
+    "name": "Reserva Biológica Estadual Pindorama",
+    "state": "SP"
+  },
+  {
+    "id": 3510790,
+    "name": "Estação Ecológica Tupinambás",
+    "state": "SP"
+  },
+  {
+    "id": 3510928,
+    "name": "Reserva Biológica Estadual de Moji-Guaçu",
+    "state": "SP"
+  },
+  {
+    "id": 3511053,
+    "name": "Reserva Biológica Estadual Serra Paranapiacaba",
+    "state": "SP"
+  },
+  {
+    "id": 3511070,
+    "name": "Parque Estadual Turístico da Cantareira",
+    "state": "SP"
+  },
+  {
+    "id": 3511088,
+    "name": "Área de Proteção Permanente Estadual Serra de Atibaia",
+    "state": "SP"
+  },
+  {
+    "id": 3511096,
+    "name": "Área de Proteção Ambiental Estadual R.R.H. do Bairro da Usina",
+    "state": "SP"
+  },
+  {
+    "id": 3513374,
+    "name": "Área de Proteção Ambiental Municipal Itu Bairro Varejão Taquaral",
+    "state": "SP"
+  },
+  {
+    "id": 3513390,
+    "name": "Área de Proteção Ambiental Municipal A. Urb. M. Es. Águas de São Pedro",
+    "state": "SP"
+  },
+  {
+    "id": 3513404,
+    "name": "Floresta Estadual Avaré II",
+    "state": "SP"
+  },
+  {
+    "id": 3539000,
+    "name": "Parque Municipal Ecológico Guapituba",
+    "state": "SP"
+  },
+  {
+    "id": 3539001,
+    "name": "Floresta Municipal da Gruta",
+    "state": "SP"
+  },
+  {
+    "id": 3539006,
+    "name": "Área de Proteção Ambiental Estadual Morro de São Bento",
+    "state": "SP"
+  },
+  {
+    "id": 3539008,
+    "name": "Área de Proteção Ambiental Estadual Sapucaí-Mirim",
+    "state": "SP"
+  },
+  {
+    "id": 3539009,
+    "name": "Área de Proteção Ambiental Estadual Sistema Cantareira",
+    "state": "SP"
+  },
+  {
+    "id": 3539013,
+    "name": "Estação Ecológica Estadual de Assis",
+    "state": "SP"
+  },
+  {
+    "id": 3539014,
+    "name": "Estação Ecológica Estadual do Noroeste Paulista",
+    "state": "SP"
+  },
+  {
+    "id": 3539015,
+    "name": "Estação Ecológica Estadual do Paranapanema",
+    "state": "SP"
+  },
+  {
+    "id": 3539016,
+    "name": "Floresta Nacional Ipanema",
+    "state": "SP"
+  },
+  {
+    "id": 3539018,
+    "name": "Parque Ecológico Estadual Nascentes do Tietê",
+    "state": "SP"
+  },
+  {
+    "id": 3539019,
+    "name": "Áreas de Relevante Interesse Ecológico da Ilha Comprida",
+    "state": "SP"
+  },
+  {
+    "id": 3539020,
+    "name": "Parque Estadual Campos do Jordão",
+    "state": "SP"
+  },
+  {
+    "id": 3539021,
+    "name": "Parque Estadual do Aguapeí",
+    "state": "SP"
+  },
+  {
+    "id": 3539022,
+    "name": "Parque Estadual Furnas do Bom Jesus",
+    "state": "SP"
+  },
+  {
+    "id": 3539023,
+    "name": "Parque Estadual Intervales",
+    "state": "SP"
+  },
+  {
+    "id": 3539024,
+    "name": "Parque Estadual Juquery",
+    "state": "SP"
+  },
+  {
+    "id": 3539025,
+    "name": "Parque Estadual Jurupará",
+    "state": "SP"
+  },
+  {
+    "id": 3539026,
+    "name": "Parque Estadual Marinho da Laje de Santos",
+    "state": "SP"
+  },
+  {
+    "id": 3539027,
+    "name": "Parque Estadual Pariquera Abaixo",
+    "state": "SP"
+  },
+  {
+    "id": 3539028,
+    "name": "Parque Estadual Xixová Xapuí",
+    "state": "SP"
+  },
+  {
+    "id": 3539029,
+    "name": "Reserva Florestal Estadual do Pontal",
+    "state": "SP"
+  },
+  {
+    "id": 3550295,
+    "name": "Floresta Nacional Lorena",
+    "state": "SP"
+  },
+  {
+    "id": 3550298,
+    "name": "Estação Ecológica Mico-Leão-Preto",
+    "state": "SP"
+  },
+  {
+    "id": 4100086,
+    "name": "Parque Nacional do Iguaçu",
+    "state": "PR"
+  },
+  {
+    "id": 4100531,
+    "name": "Parque Estadual do Monge",
+    "state": "PR"
+  },
+  {
+    "id": 4100698,
+    "name": "Parque Estadual Rio da Onça",
+    "state": "PR"
+  },
+  {
+    "id": 4101899,
+    "name": "Área de Preservação Permanente Municipal Barigui B 43 e B 47",
+    "state": "PR"
+  },
+  {
+    "id": 4102879,
+    "name": "Reserva Florestal de Vila Rica - Rubens Augusto de Andrade",
+    "state": "PR"
+  },
+  {
+    "id": 4102887,
+    "name": "Parque Florestal Independência",
+    "state": "PR"
+  },
+  {
+    "id": 4102895,
+    "name": "Reserva Estadual de Amaporã",
+    "state": "PR"
+  },
+  {
+    "id": 4104456,
+    "name": "Área de Proteção Ambiental de Guaraqueçaba",
+    "state": "PR"
+  },
+  {
+    "id": 4105010,
+    "name": "Parque Ecológico Paulo Gorski",
+    "state": "PR"
+  },
+  {
+    "id": 4105029,
+    "name": "Área de Preservação Permanente Municipal B-137",
+    "state": "PR"
+  },
+  {
+    "id": 4105045,
+    "name": "Área de Preservação Permanente Municipal B-199",
+    "state": "PR"
+  },
+  {
+    "id": 4105193,
+    "name": "Parque Florestal de Ibiporã",
+    "state": "PR"
+  },
+  {
+    "id": 4105207,
+    "name": "Parque Estadual da Região Metropolitana de Curitiba",
+    "state": "PR"
+  },
+  {
+    "id": 4105258,
+    "name": "Estação Ecológica Estadual da Ilha do Mel",
+    "state": "PR"
+  },
+  {
+    "id": 4105266,
+    "name": "Parque Municipal da Mina Velha",
+    "state": "PR"
+  },
+  {
+    "id": 4106017,
+    "name": "Floresta Nacional de Irati",
+    "state": "PR"
+  },
+  {
+    "id": 4106033,
+    "name": "Floresta Nacional do Açungui",
+    "state": "PR"
+  },
+  {
+    "id": 4106548,
+    "name": "Área de Preservação Permanente Municipal B-099",
+    "state": "PR"
+  },
+  {
+    "id": 4109059,
+    "name": "Área de Preservação Permanente Municipal B-231",
+    "state": "PR"
+  },
+  {
+    "id": 4109075,
+    "name": "Área de Preservação Permanente Municipal B-232",
+    "state": "PR"
+  },
+  {
+    "id": 4109091,
+    "name": "Área de Preservação Permanente Municipal B-241",
+    "state": "PR"
+  },
+  {
+    "id": 4109105,
+    "name": "Área de Preservação Permanente Municipal B-268",
+    "state": "PR"
+  },
+  {
+    "id": 4109121,
+    "name": "Área de Preservação Permanente Municipal B-272",
+    "state": "PR"
+  },
+  {
+    "id": 4109148,
+    "name": "Área de Preservação Permanente Municipal B-295",
+    "state": "PR"
+  },
+  {
+    "id": 4109172,
+    "name": "Área de Preservação Permanente Municipal B-261",
+    "state": "PR"
+  },
+  {
+    "id": 4111169,
+    "name": "Parque Estadual Pico do Marumbi",
+    "state": "PR"
+  },
+  {
+    "id": 4113471,
+    "name": "Parque Municipal do Ingá",
+    "state": "PR"
+  },
+  {
+    "id": 4113480,
+    "name": "Parque Florestal Municipal dos Pioneiros",
+    "state": "PR"
+  },
+  {
+    "id": 4113501,
+    "name": "Parque Municipal da Cachoeira",
+    "state": "PR"
+  },
+  {
+    "id": 4114370,
+    "name": "Parque Estadual Mata dos Godoy",
+    "state": "PR"
+  },
+  {
+    "id": 4114389,
+    "name": "Parque Nacional do Superagui",
+    "state": "PR"
+  },
+  {
+    "id": 4114575,
+    "name": "Parque Municipal Arthur Thomas",
+    "state": "PR"
+  },
+  {
+    "id": 4140000,
+    "name": "Reserva Biológica São Camilo",
+    "state": "PR"
+  },
+  {
+    "id": 4140006,
+    "name": "Bosque Municipal",
+    "state": "PR"
+  },
+  {
+    "id": 4150299,
+    "name": "Parque Nacional da Ilha Grande",
+    "state": "PR"
+  },
+  {
+    "id": 4150300,
+    "name": "Parque Nacional de Saint-Hilaire / Lange",
+    "state": "PR"
+  },
+  {
+    "id": 4200019,
+    "name": "Parque Nacional de Aparados da Serra",
+    "state": "SC"
+  },
+  {
+    "id": 4200167,
+    "name": "Parque Nacional de São Joaquim",
+    "state": "SC"
+  },
+  {
+    "id": 4200612,
+    "name": "Parque Estadual da Serra Furada",
+    "state": "SC"
+  },
+  {
+    "id": 4200639,
+    "name": "Parque Estadual da Serra do Tabuleiro",
+    "state": "SC"
+  },
+  {
+    "id": 4201139,
+    "name": "Parque Florestal Estadual Rio Vermelho",
+    "state": "SC"
+  },
+  {
+    "id": 4201643,
+    "name": "Parque Municipal da Lagoa do Peri",
+    "state": "SC"
+  },
+  {
+    "id": 4202143,
+    "name": "Reserva Biológica Estadual do Aguaí",
+    "state": "SC"
+  },
+  {
+    "id": 4202178,
+    "name": "Reserva Biológica Estadual da Canela Preta",
+    "state": "SC"
+  },
+  {
+    "id": 4202321,
+    "name": "Reserva Biológica Estadual do Sassafras",
+    "state": "SC"
+  },
+  {
+    "id": 4204650,
+    "name": "Área de Proteção Ambiental Municipal Dunas da Lagoa da Conceição",
+    "state": "SC"
+  },
+  {
+    "id": 4204669,
+    "name": "Área de Proteção Ambiental Municipal Dunas de Ingleses Santinho",
+    "state": "SC"
+  },
+  {
+    "id": 4204677,
+    "name": "Área de Proteção Ambiental Municipal Dunas do Campeche",
+    "state": "SC"
+  },
+  {
+    "id": 4205991,
+    "name": "Floresta Nacional de Ibirama",
+    "state": "SC"
+  },
+  {
+    "id": 4206041,
+    "name": "Floresta Nacional de Três Barras",
+    "state": "SC"
+  },
+  {
+    "id": 4206050,
+    "name": "Floresta Nacional de Caçador",
+    "state": "SC"
+  },
+  {
+    "id": 4206068,
+    "name": "Floresta Nacional Chapecó",
+    "state": "SC"
+  },
+  {
+    "id": 4210758,
+    "name": "Estação Ecológica de Carijós",
+    "state": "SC"
+  },
+  {
+    "id": 4214850,
+    "name": "Reserva Biológica Marinha do Arvoredo",
+    "state": "SC"
+  },
+  {
+    "id": 4250301,
+    "name": "Área de Proteção Ambiental Anhatomirim",
+    "state": "SC"
+  },
+  {
+    "id": 4250302,
+    "name": "Área de Proteção Ambiental Baleia Franca",
+    "state": "SC"
+  },
+  {
+    "id": 4250303,
+    "name": "Reserva Extrativista Marinha do Pirajubaé",
+    "state": "SC"
+  },
+  {
+    "id": 4250304,
+    "name": "Área de Relevante Interesse Ecológico Serra da Abelha e Rio da Prata",
+    "state": "SC"
+  },
+  {
+    "id": 4250305,
+    "name": "Parque Nacional Serra Geral",
+    "state": "SC"
+  },
+  {
+    "id": 4250317,
+    "name": "Parque Nacional da Serra do Itajai",
+    "state": "SC"
+  },
+  {
+    "id": 4250368,
+    "name": "Estação Ecológica Mata Preta",
+    "state": "SC"
+  },
+  {
+    "id": 4250369,
+    "name": "Parque Nacional das Araucárias",
+    "state": "SC"
+  },
+  {
+    "id": 4300014,
+    "name": "Estação Ecológica Aracuri-Esmeralda",
+    "state": "RS"
+  },
+  {
+    "id": 4300019,
+    "name": "Parque Nacional de Aparados da Serra",
+    "state": "RS"
+  },
+  {
+    "id": 4300361,
+    "name": "Parque Estadual Delta do Jacuí",
+    "state": "RS"
+  },
+  {
+    "id": 4300558,
+    "name": "Reserva Florestal Estadual de Nonoai",
+    "state": "RS"
+  },
+  {
+    "id": 4300663,
+    "name": "Parque Florestal Estadual do Turvo",
+    "state": "RS"
+  },
+  {
+    "id": 4301562,
+    "name": "Parque Nacional da Lagoa do Peixe",
+    "state": "RS"
+  },
+  {
+    "id": 4301589,
+    "name": "Parque Municipal Farroupilha",
+    "state": "RS"
+  },
+  {
+    "id": 4302240,
+    "name": "Reserva Biológica Estadual de Ibirapuitã",
+    "state": "RS"
+  },
+  {
+    "id": 4302267,
+    "name": "Reserva Biológica Municipal do Lami",
+    "state": "RS"
+  },
+  {
+    "id": 4302291,
+    "name": "Reserva Biológica Estadual do Mato Grande",
+    "state": "RS"
+  },
+  {
+    "id": 4303140,
+    "name": "Reserva Biológica Estadual do Ibicuí Mirim",
+    "state": "RS"
+  },
+  {
+    "id": 4303344,
+    "name": "Reserva Ecológica Nacional Ilha dos Lobos",
+    "state": "RS"
+  },
+  {
+    "id": 4303808,
+    "name": "Reserva Ecológica Municipal Parque dos Pinheiros",
+    "state": "RS"
+  },
+  {
+    "id": 4304006,
+    "name": "Estação Ecológica do Taim",
+    "state": "RS"
+  },
+  {
+    "id": 4306092,
+    "name": "Floresta Nacional de São Francisco de Paula",
+    "state": "RS"
+  },
+  {
+    "id": 4306106,
+    "name": "Floresta Nacional de Canela",
+    "state": "RS"
+  },
+  {
+    "id": 4310774,
+    "name": "Área de Proteção Permanente Municipal da Bacia Hidrográfica do Arroio D'Albo",
+    "state": "RS"
+  },
+  {
+    "id": 4310782,
+    "name": "Área de Proteção Permanente Municipal da Bacia Hidrográfica da Represa Maestra",
+    "state": "RS"
+  },
+  {
+    "id": 4311126,
+    "name": "Parque Ecológico Estadual da Guarita",
+    "state": "RS"
+  },
+  {
+    "id": 4314770,
+    "name": "Parque Estadual Bento Gonçalves da Silva",
+    "state": "RS"
+  },
+  {
+    "id": 4350305,
+    "name": "Parque Nacional da Serra Geral",
+    "state": "RS"
+  },
+  {
+    "id": 4350306,
+    "name": "Área de Proteção Ambiental do Ibirapuitã",
+    "state": "RS"
+  },
+  {
+    "id": 5000078,
+    "name": "Parque Nacional das Emas",
+    "state": "MS"
+  },
+  {
+    "id": 5050294,
+    "name": "Área de Proteção Ambiental Ilha de Várzea do Rio Paraná",
+    "state": "MS"
+  },
+  {
+    "id": 5050299,
+    "name": "Parque Nacional de Ilha Grande",
+    "state": "MS"
+  },
+  {
+    "id": 5050309,
+    "name": "Parque Nacional Serra da Bodoquena",
+    "state": "MS"
+  },
+  {
+    "id": 5100140,
+    "name": "Parque Nacional do Pantanal Matogrossense",
+    "state": "MT"
+  },
+  {
+    "id": 5102681,
+    "name": "Reserva Ecológica Massaro Okamura",
+    "state": "MT"
+  },
+  {
+    "id": 5104065,
+    "name": "Estação Ecológica Taiamã",
+    "state": "MT"
+  },
+  {
+    "id": 5104073,
+    "name": "Estação Ecológica de Iquê",
+    "state": "MT"
+  },
+  {
+    "id": 5104162,
+    "name": "Estação Ecológica Serra das Araras",
+    "state": "MT"
+  },
+  {
+    "id": 5114397,
+    "name": "Parque Nacional Chapada dos Guimarães",
+    "state": "MT"
+  },
+  {
+    "id": 5144001,
+    "name": "Reserva Extrativista Guariba-Roosevelt",
+    "state": "MT"
+  },
+  {
+    "id": 5144002,
+    "name": "Estação Ecológica do Rio Roosevelt",
+    "state": "MT"
+  },
+  {
+    "id": 5144003,
+    "name": "Parque Estadual Serra de Santa Bárbara",
+    "state": "MT"
+  },
+  {
+    "id": 5150241,
+    "name": "Área de Proteção Ambiental Meandros do Rio Araguaia",
+    "state": "MT"
+  },
+  {
+    "id": 5150322,
+    "name": "Parque Estadual da Serra Azul",
+    "state": "MT"
+  },
+  {
+    "id": 5200060,
+    "name": "Parque Nacional Chapada dos Veadeiros",
+    "state": "GO"
+  },
+  {
+    "id": 5200078,
+    "name": "Parque Nacional Emas",
+    "state": "GO"
+  },
+  {
+    "id": 5200590,
+    "name": "Parque Estadual da Serra de Caldas Novas",
+    "state": "GO"
+  },
+  {
+    "id": 5250311,
+    "name": "Área de Proteção Ambiental do Planalto Central",
+    "state": "GO"
+  },
+  {
+    "id": 5250312,
+    "name": "Área de Proteção Ambiental das Nascentes do Rio Vermelho",
+    "state": "GO"
+  },
+  {
+    "id": 5250313,
+    "name": "Floresta Nacional de Silvânia",
+    "state": "GO"
+  },
+  {
+    "id": 5250373,
+    "name": "Reserva Extrativista de Recanto das Araras de Terra Ronca",
+    "state": "GO"
+  },
+  {
+    "id": 5250374,
+    "name": "Reserva Extrativista Lago do Cedro",
+    "state": "GO"
+  },
+  {
+    "id": 5300035,
+    "name": "Parque Nacional de Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 5300093,
+    "name": "Área de Proteção Ambiental do Planalto Central",
+    "state": "DF"
+  },
+  {
+    "id": 5304391,
+    "name": "Área de Proteção Ambiental Nacional do Rio São Bartolomeu",
+    "state": "DF"
+  },
+  {
+    "id": 5304405,
+    "name": "Área de Proteção Ambiental Nacional do Rio Descoberto",
+    "state": "DF"
+  },
+  {
+    "id": 5310979,
+    "name": "Área de Proteção Ambiental Estadual Bacias do Gama e Cabeça de Veado",
+    "state": "DF"
+  },
+  {
+    "id": 5316020,
+    "name": "Área de Proteção Ambiental de Cafuringa",
+    "state": "DF"
+  }
+]

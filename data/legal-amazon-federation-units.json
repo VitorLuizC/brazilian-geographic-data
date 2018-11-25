@@ -1,0 +1,47 @@
+[
+  {
+    "id": 11,
+    "name": "Amazônia Legal de Rondônia",
+    "state": "RO"
+  },
+  {
+    "id": 12,
+    "name": "Amazônia Legal do Acre",
+    "state": "AC"
+  },
+  {
+    "id": 13,
+    "name": "Amazônia Legal do Amazonas",
+    "state": "AM"
+  },
+  {
+    "id": 14,
+    "name": "Amazônia Legal de Roraima",
+    "state": "RR"
+  },
+  {
+    "id": 15,
+    "name": "Amazônia Legal do Pará",
+    "state": "PA"
+  },
+  {
+    "id": 16,
+    "name": "Amazônia Legal do Amapá",
+    "state": "AP"
+  },
+  {
+    "id": 17,
+    "name": "Amazônia Legal de Tocantins",
+    "state": "TO"
+  },
+  {
+    "id": 21,
+    "name": "Amazônia Legal do Maranhão",
+    "state": "MA"
+  },
+  {
+    "id": 51,
+    "name": "Amazônia Legal de Mato Grosso",
+    "state": "MT"
+  }
+]

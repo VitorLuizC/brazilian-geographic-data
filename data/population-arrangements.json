@@ -1,0 +1,1472 @@
+[
+  {
+    "id": 1100106,
+    "name": "Internacional de Guajará-Mirim/Brasil - Guayaramerín/Bolívia",
+    "state": "RO"
+  },
+  {
+    "id": 1100205,
+    "name": "Porto Velho",
+    "state": "RO"
+  },
+  {
+    "id": 1200054,
+    "name": "Internacional de Assis Brasil/Brasil",
+    "state": "AC"
+  },
+  {
+    "id": 1200104,
+    "name": "Internacional de Cobija/Bolívia - Brasiléia/Brasil",
+    "state": "AC"
+  },
+  {
+    "id": 1303007,
+    "name": "Nhamundá",
+    "state": "AM"
+  },
+  {
+    "id": 1304062,
+    "name": "Internacional de Tabatinga/Brasil - Letícia/Colômbia",
+    "state": "AM"
+  },
+  {
+    "id": 1400100,
+    "name": "Boa Vista",
+    "state": "RR"
+  },
+  {
+    "id": 1400159,
+    "name": "Internacional de Bonfim/Brasil - Ireng/Guiana",
+    "state": "RR"
+  },
+  {
+    "id": 1501402,
+    "name": "Belém",
+    "state": "PA"
+  },
+  {
+    "id": 1507458,
+    "name": "São Geraldo do Araguaia",
+    "state": "PA"
+  },
+  {
+    "id": 1507904,
+    "name": "Soure - Salvaterra",
+    "state": "PA"
+  },
+  {
+    "id": 1600279,
+    "name": "Laranjal do Jari - Almeirim/PA",
+    "state": "AP"
+  },
+  {
+    "id": 1600303,
+    "name": "Macapá",
+    "state": "AP"
+  },
+  {
+    "id": 1600501,
+    "name": "Internacional de Oiapoque/Brasil",
+    "state": "AP"
+  },
+  {
+    "id": 1713205,
+    "name": "Miracema do Tocantins",
+    "state": "TO"
+  },
+  {
+    "id": 1716505,
+    "name": "Pedro Afonso",
+    "state": "TO"
+  },
+  {
+    "id": 1721208,
+    "name": "Tocantinópolis - Porto Franco/MA",
+    "state": "TO"
+  },
+  {
+    "id": 2100501,
+    "name": "Alto Parnaíba - Santa Filomena/PI",
+    "state": "MA"
+  },
+  {
+    "id": 2102804,
+    "name": "Carolina",
+    "state": "MA"
+  },
+  {
+    "id": 2104057,
+    "name": "Estreito",
+    "state": "MA"
+  },
+  {
+    "id": 2105302,
+    "name": "Imperatriz",
+    "state": "MA"
+  },
+  {
+    "id": 2107100,
+    "name": "Morros - Axixá",
+    "state": "MA"
+  },
+  {
+    "id": 2108207,
+    "name": "Pedreiras",
+    "state": "MA"
+  },
+  {
+    "id": 2109205,
+    "name": "Presidente Juscelino - Cachoeira Grande",
+    "state": "MA"
+  },
+  {
+    "id": 2109809,
+    "name": "Santa Helena - Turilândia",
+    "state": "MA"
+  },
+  {
+    "id": 2111300,
+    "name": "São Luís",
+    "state": "MA"
+  },
+  {
+    "id": 2200509,
+    "name": "Amarante - São Francisco do Maranhão/MA",
+    "state": "PI"
+  },
+  {
+    "id": 2200608,
+    "name": "Angical do Piauí",
+    "state": "PI"
+  },
+  {
+    "id": 2203909,
+    "name": "Floriano",
+    "state": "PI"
+  },
+  {
+    "id": 2207702,
+    "name": "Parnaíba",
+    "state": "PI"
+  },
+  {
+    "id": 2208007,
+    "name": "Picos",
+    "state": "PI"
+  },
+  {
+    "id": 2211001,
+    "name": "Teresina",
+    "state": "PI"
+  },
+  {
+    "id": 2211209,
+    "name": "Uruçuí",
+    "state": "PI"
+  },
+  {
+    "id": 2304400,
+    "name": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 2307304,
+    "name": "Juazeiro do Norte",
+    "state": "CE"
+  },
+  {
+    "id": 2307403,
+    "name": "Jucás - Cariús",
+    "state": "CE"
+  },
+  {
+    "id": 2311603,
+    "name": "Redenção - Acarape",
+    "state": "CE"
+  },
+  {
+    "id": 2312908,
+    "name": "Sobral",
+    "state": "CE"
+  },
+  {
+    "id": 2401859,
+    "name": "Caiçara do Norte",
+    "state": "RN"
+  },
+  {
+    "id": 2408102,
+    "name": "Natal",
+    "state": "RN"
+  },
+  {
+    "id": 2411502,
+    "name": "Santo Antônio",
+    "state": "RN"
+  },
+  {
+    "id": 2412203,
+    "name": "São José de Mipibu - Nísia Floresta",
+    "state": "RN"
+  },
+  {
+    "id": 2500403,
+    "name": "Alagoa Nova",
+    "state": "PB"
+  },
+  {
+    "id": 2503605,
+    "name": "Caiçara - Logradouro",
+    "state": "PB"
+  },
+  {
+    "id": 2504009,
+    "name": "Campina Grande",
+    "state": "PB"
+  },
+  {
+    "id": 2505105,
+    "name": "Cuité - Nova Floresta",
+    "state": "PB"
+  },
+  {
+    "id": 2505808,
+    "name": "Duas Estradas - Serra da Raiz",
+    "state": "PB"
+  },
+  {
+    "id": 2506301,
+    "name": "Guarabira",
+    "state": "PB"
+  },
+  {
+    "id": 2507309,
+    "name": "Jacaraú",
+    "state": "PB"
+  },
+  {
+    "id": 2507507,
+    "name": "João Pessoa",
+    "state": "PB"
+  },
+  {
+    "id": 2508901,
+    "name": "Mamanguape - Rio Tinto",
+    "state": "PB"
+  },
+  {
+    "id": 2510808,
+    "name": "Patos",
+    "state": "PB"
+  },
+  {
+    "id": 2512101,
+    "name": "Pombal",
+    "state": "PB"
+  },
+  {
+    "id": 2516003,
+    "name": "Solânea - Bananeiras",
+    "state": "PB"
+  },
+  {
+    "id": 2601102,
+    "name": "Araripina",
+    "state": "PE"
+  },
+  {
+    "id": 2603207,
+    "name": "Caetés - Capoeiras",
+    "state": "PE"
+  },
+  {
+    "id": 2604106,
+    "name": "Caruaru",
+    "state": "PE"
+  },
+  {
+    "id": 2607653,
+    "name": "Itambé - Pedras de Fogo/PB",
+    "state": "PE"
+  },
+  {
+    "id": 2611101,
+    "name": "Petrolina - Juazeiro/BA",
+    "state": "PE"
+  },
+  {
+    "id": 2611606,
+    "name": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 2613909,
+    "name": "Serra Talhada",
+    "state": "PE"
+  },
+  {
+    "id": 2704302,
+    "name": "Maceió",
+    "state": "AL"
+  },
+  {
+    "id": 2704500,
+    "name": "Maragogi - São José da Coroa Grande/PE",
+    "state": "AL"
+  },
+  {
+    "id": 2706703,
+    "name": "Penedo",
+    "state": "AL"
+  },
+  {
+    "id": 2800308,
+    "name": "Aracaju",
+    "state": "SE"
+  },
+  {
+    "id": 2805703,
+    "name": "Propriá",
+    "state": "SE"
+  },
+  {
+    "id": 2904308,
+    "name": "Brejões - Nova Itarana",
+    "state": "BA"
+  },
+  {
+    "id": 2904902,
+    "name": "Cachoeira - Muritiba",
+    "state": "BA"
+  },
+  {
+    "id": 2908309,
+    "name": "Conceição do Almeida - Sapeaçu",
+    "state": "BA"
+  },
+  {
+    "id": 2927408,
+    "name": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2928109,
+    "name": "Santa Maria da Vitória",
+    "state": "BA"
+  },
+  {
+    "id": 2932200,
+    "name": "Ubaitaba - Aurelino Leal",
+    "state": "BA"
+  },
+  {
+    "id": 2933208,
+    "name": "Vera Cruz - Itaparica",
+    "state": "BA"
+  },
+  {
+    "id": 3101508,
+    "name": "Além Paraíba - Sapucaia/RJ",
+    "state": "MG"
+  },
+  {
+    "id": 3104007,
+    "name": "Araxá",
+    "state": "MG"
+  },
+  {
+    "id": 3105608,
+    "name": "Barbacena",
+    "state": "MG"
+  },
+  {
+    "id": 3106200,
+    "name": "Belo Horizonte",
+    "state": "MG"
+  },
+  {
+    "id": 3106903,
+    "name": "Bicas",
+    "state": "MG"
+  },
+  {
+    "id": 3110608,
+    "name": "Cambuí",
+    "state": "MG"
+  },
+  {
+    "id": 3113008,
+    "name": "Caraí",
+    "state": "MG"
+  },
+  {
+    "id": 3115508,
+    "name": "Caxambu - Baependi",
+    "state": "MG"
+  },
+  {
+    "id": 3118304,
+    "name": "Conselheiro Lafaiete",
+    "state": "MG"
+  },
+  {
+    "id": 3120904,
+    "name": "Curvelo",
+    "state": "MG"
+  },
+  {
+    "id": 3131307,
+    "name": "Ipatinga",
+    "state": "MG"
+  },
+  {
+    "id": 3132404,
+    "name": "Itajubá",
+    "state": "MG"
+  },
+  {
+    "id": 3133808,
+    "name": "Itaúna",
+    "state": "MG"
+  },
+  {
+    "id": 3135100,
+    "name": "Janaúba",
+    "state": "MG"
+  },
+  {
+    "id": 3136207,
+    "name": "João Monlevade",
+    "state": "MG"
+  },
+  {
+    "id": 3136702,
+    "name": "Juiz de Fora",
+    "state": "MG"
+  },
+  {
+    "id": 3138203,
+    "name": "Lavras",
+    "state": "MG"
+  },
+  {
+    "id": 3139409,
+    "name": "Manhuaçu",
+    "state": "MG"
+  },
+  {
+    "id": 3141108,
+    "name": "Matozinhos",
+    "state": "MG"
+  },
+  {
+    "id": 3143906,
+    "name": "Muriaé",
+    "state": "MG"
+  },
+  {
+    "id": 3145208,
+    "name": "Nova Serrana",
+    "state": "MG"
+  },
+  {
+    "id": 3147402,
+    "name": "Paraopeba",
+    "state": "MG"
+  },
+  {
+    "id": 3151206,
+    "name": "Pirapora - Buritizeiro",
+    "state": "MG"
+  },
+  {
+    "id": 3151404,
+    "name": "Pitangui",
+    "state": "MG"
+  },
+  {
+    "id": 3151602,
+    "name": "Planura - Colômbia/SP",
+    "state": "MG"
+  },
+  {
+    "id": 3152105,
+    "name": "Ponte Nova",
+    "state": "MG"
+  },
+  {
+    "id": 3152600,
+    "name": "Pouso Alto",
+    "state": "MG"
+  },
+  {
+    "id": 3162500,
+    "name": "São João del Rei",
+    "state": "MG"
+  },
+  {
+    "id": 3163706,
+    "name": "São Lourenço",
+    "state": "MG"
+  },
+  {
+    "id": 3167004,
+    "name": "Serranos - Seritinga",
+    "state": "MG"
+  },
+  {
+    "id": 3167202,
+    "name": "Sete Lagoas",
+    "state": "MG"
+  },
+  {
+    "id": 3169901,
+    "name": "Ubá",
+    "state": "MG"
+  },
+  {
+    "id": 3171303,
+    "name": "Viçosa",
+    "state": "MG"
+  },
+  {
+    "id": 3204252,
+    "name": "Ponto Belo - Mucurici",
+    "state": "ES"
+  },
+  {
+    "id": 3205309,
+    "name": "Vitória",
+    "state": "ES"
+  },
+  {
+    "id": 3300209,
+    "name": "Araruama",
+    "state": "RJ"
+  },
+  {
+    "id": 3300605,
+    "name": "Bom Jesus do Itabapoana",
+    "state": "RJ"
+  },
+  {
+    "id": 3300704,
+    "name": "Cabo Frio",
+    "state": "RJ"
+  },
+  {
+    "id": 3301009,
+    "name": "Campos dos Goytacazes",
+    "state": "RJ"
+  },
+  {
+    "id": 3301504,
+    "name": "Cordeiro - Cantagalo",
+    "state": "RJ"
+  },
+  {
+    "id": 3302106,
+    "name": "Itaocara",
+    "state": "RJ"
+  },
+  {
+    "id": 3302403,
+    "name": "Macaé - Rio das Ostras",
+    "state": "RJ"
+  },
+  {
+    "id": 3302809,
+    "name": "Mendes - Engenheiro Paulo de Frontin",
+    "state": "RJ"
+  },
+  {
+    "id": 3303856,
+    "name": "Paty do Alferes - Miguel Pereira",
+    "state": "RJ"
+  },
+  {
+    "id": 3303906,
+    "name": "Petrópolis",
+    "state": "RJ"
+  },
+  {
+    "id": 3304201,
+    "name": "Resende",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557,
+    "name": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304706,
+    "name": "Santo Antônio de Pádua",
+    "state": "RJ"
+  },
+  {
+    "id": 3306008,
+    "name": "Três Rios - Paraíba do Sul",
+    "state": "RJ"
+  },
+  {
+    "id": 3306107,
+    "name": "Valença",
+    "state": "RJ"
+  },
+  {
+    "id": 3306305,
+    "name": "Volta Redonda - Barra Mansa",
+    "state": "RJ"
+  },
+  {
+    "id": 3500105,
+    "name": "Adamantina - Lucélia",
+    "state": "SP"
+  },
+  {
+    "id": 3500501,
+    "name": "Águas de Lindóia",
+    "state": "SP"
+  },
+  {
+    "id": 3501608,
+    "name": "Americana - Santa Bárbara d´Oeste",
+    "state": "SP"
+  },
+  {
+    "id": 3501905,
+    "name": "Amparo",
+    "state": "SP"
+  },
+  {
+    "id": 3503208,
+    "name": "Araraquara",
+    "state": "SP"
+  },
+  {
+    "id": 3503802,
+    "name": "Artur Nogueira",
+    "state": "SP"
+  },
+  {
+    "id": 3505302,
+    "name": "Barra Bonita - Igaraçu do Tietê",
+    "state": "SP"
+  },
+  {
+    "id": 3506003,
+    "name": "Bauru",
+    "state": "SP"
+  },
+  {
+    "id": 3506508,
+    "name": "Birigui",
+    "state": "SP"
+  },
+  {
+    "id": 3507001,
+    "name": "Boituva - Iperó",
+    "state": "SP"
+  },
+  {
+    "id": 3509502,
+    "name": "Campinas",
+    "state": "SP"
+  },
+  {
+    "id": 3510203,
+    "name": "Capão Bonito",
+    "state": "SP"
+  },
+  {
+    "id": 3510401,
+    "name": "Capivari",
+    "state": "SP"
+  },
+  {
+    "id": 3510500,
+    "name": "Caraguatatuba - Ubatuba - São Sebastião",
+    "state": "SP"
+  },
+  {
+    "id": 3511102,
+    "name": "Catanduva",
+    "state": "SP"
+  },
+  {
+    "id": 3511508,
+    "name": "Cerquilho - Tietê",
+    "state": "SP"
+  },
+  {
+    "id": 3513405,
+    "name": "Cruzeiro",
+    "state": "SP"
+  },
+  {
+    "id": 3515509,
+    "name": "Fernandópolis",
+    "state": "SP"
+  },
+  {
+    "id": 3516200,
+    "name": "Franca",
+    "state": "SP"
+  },
+  {
+    "id": 3516804,
+    "name": "Gastão Vidigal - Monções",
+    "state": "SP"
+  },
+  {
+    "id": 3518404,
+    "name": "Guaratinguetá",
+    "state": "SP"
+  },
+  {
+    "id": 3518602,
+    "name": "Guariba",
+    "state": "SP"
+  },
+  {
+    "id": 3520103,
+    "name": "Igarapava",
+    "state": "SP"
+  },
+  {
+    "id": 3520301,
+    "name": "Iguape",
+    "state": "SP"
+  },
+  {
+    "id": 3522307,
+    "name": "Itapetininga",
+    "state": "SP"
+  },
+  {
+    "id": 3523909,
+    "name": "Itu - Salto",
+    "state": "SP"
+  },
+  {
+    "id": 3524808,
+    "name": "Jales",
+    "state": "SP"
+  },
+  {
+    "id": 3525904,
+    "name": "Jundiaí",
+    "state": "SP"
+  },
+  {
+    "id": 3526704,
+    "name": "Leme",
+    "state": "SP"
+  },
+  {
+    "id": 3526902,
+    "name": "Limeira",
+    "state": "SP"
+  },
+  {
+    "id": 3527207,
+    "name": "Lorena",
+    "state": "SP"
+  },
+  {
+    "id": 3529005,
+    "name": "Marília",
+    "state": "SP"
+  },
+  {
+    "id": 3530706,
+    "name": "Mogi Guaçu - Mogi Mirim",
+    "state": "SP"
+  },
+  {
+    "id": 3533007,
+    "name": "Nova Granada",
+    "state": "SP"
+  },
+  {
+    "id": 3534708,
+    "name": "Ourinhos",
+    "state": "SP"
+  },
+  {
+    "id": 3535507,
+    "name": "Paraguaçu Paulista",
+    "state": "SP"
+  },
+  {
+    "id": 3536604,
+    "name": "Paulo de Faria - Orindiúva",
+    "state": "SP"
+  },
+  {
+    "id": 3538709,
+    "name": "Piracicaba",
+    "state": "SP"
+  },
+  {
+    "id": 3539202,
+    "name": "Pirapozinho",
+    "state": "SP"
+  },
+  {
+    "id": 3541406,
+    "name": "Presidente Prudente",
+    "state": "SP"
+  },
+  {
+    "id": 3541505,
+    "name": "Presidente Venceslau",
+    "state": "SP"
+  },
+  {
+    "id": 3543402,
+    "name": "Ribeirão Preto",
+    "state": "SP"
+  },
+  {
+    "id": 3543907,
+    "name": "Rio Claro",
+    "state": "SP"
+  },
+  {
+    "id": 3544202,
+    "name": "Riolândia",
+    "state": "SP"
+  },
+  {
+    "id": 3545605,
+    "name": "Santa Adélia - Palmares Paulista - Ariranha",
+    "state": "SP"
+  },
+  {
+    "id": 3546603,
+    "name": "Santa Fé do Sul",
+    "state": "SP"
+  },
+  {
+    "id": 3548054,
+    "name": "Santo Antônio do Aracanguá",
+    "state": "SP"
+  },
+  {
+    "id": 3548500,
+    "name": "Baixada Santista",
+    "state": "SP"
+  },
+  {
+    "id": 3548906,
+    "name": "São Carlos",
+    "state": "SP"
+  },
+  {
+    "id": 3549102,
+    "name": "São João da Boa Vista",
+    "state": "SP"
+  },
+  {
+    "id": 3549805,
+    "name": "São José do Rio Preto",
+    "state": "SP"
+  },
+  {
+    "id": 3549904,
+    "name": "São José dos Campos",
+    "state": "SP"
+  },
+  {
+    "id": 3550308,
+    "name": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550407,
+    "name": "São Pedro",
+    "state": "SP"
+  },
+  {
+    "id": 3550605,
+    "name": "São Roque - Mairinque",
+    "state": "SP"
+  },
+  {
+    "id": 3552205,
+    "name": "Sorocaba",
+    "state": "SP"
+  },
+  {
+    "id": 3554102,
+    "name": "Taubaté - Pindamonhangaba",
+    "state": "SP"
+  },
+  {
+    "id": 3555000,
+    "name": "Tupã",
+    "state": "SP"
+  },
+  {
+    "id": 3555109,
+    "name": "Tupi Paulista",
+    "state": "SP"
+  },
+  {
+    "id": 3556305,
+    "name": "Valparaíso",
+    "state": "SP"
+  },
+  {
+    "id": 3557105,
+    "name": "Votuporanga",
+    "state": "SP"
+  },
+  {
+    "id": 4100202,
+    "name": "Adrianópolis - Ribeira/SP",
+    "state": "PR"
+  },
+  {
+    "id": 4104808,
+    "name": "Cascavel",
+    "state": "PR"
+  },
+  {
+    "id": 4106902,
+    "name": "Curitiba",
+    "state": "PR"
+  },
+  {
+    "id": 4108304,
+    "name": "Internacional de Foz do Iguaçu/Brasil - Ciudad del Este/Paraguai",
+    "state": "PR"
+  },
+  {
+    "id": 4108809,
+    "name": "Internacional de Guaíra/Brasil",
+    "state": "PR"
+  },
+  {
+    "id": 4112108,
+    "name": "Jandaia do Sul",
+    "state": "PR"
+  },
+  {
+    "id": 4113700,
+    "name": "Londrina",
+    "state": "PR"
+  },
+  {
+    "id": 4115200,
+    "name": "Maringá",
+    "state": "PR"
+  },
+  {
+    "id": 4115705,
+    "name": "Matinhos - Pontal do Paraná",
+    "state": "PR"
+  },
+  {
+    "id": 4117107,
+    "name": "Nova Londrina - Marilena",
+    "state": "PR"
+  },
+  {
+    "id": 4118105,
+    "name": "Paranacity",
+    "state": "PR"
+  },
+  {
+    "id": 4118402,
+    "name": "Paranavaí",
+    "state": "PR"
+  },
+  {
+    "id": 4118501,
+    "name": "Pato Branco",
+    "state": "PR"
+  },
+  {
+    "id": 4119905,
+    "name": "Ponta Grossa",
+    "state": "PR"
+  },
+  {
+    "id": 4124400,
+    "name": "Internacional de Santo Antônio do Sudoeste/Brasil",
+    "state": "PR"
+  },
+  {
+    "id": 4126009,
+    "name": "São Sebastião da Amoreira",
+    "state": "PR"
+  },
+  {
+    "id": 4127700,
+    "name": "Toledo",
+    "state": "PR"
+  },
+  {
+    "id": 4128104,
+    "name": "Umuarama",
+    "state": "PR"
+  },
+  {
+    "id": 4128203,
+    "name": "União da Vitória - Porto União/SC",
+    "state": "PR"
+  },
+  {
+    "id": 4201406,
+    "name": "Araranguá",
+    "state": "SC"
+  },
+  {
+    "id": 4202404,
+    "name": "Blumenau",
+    "state": "SC"
+  },
+  {
+    "id": 4202909,
+    "name": "Brusque",
+    "state": "SC"
+  },
+  {
+    "id": 4203808,
+    "name": "Canoinhas",
+    "state": "SC"
+  },
+  {
+    "id": 4203907,
+    "name": "Capinzal",
+    "state": "SC"
+  },
+  {
+    "id": 4204202,
+    "name": "Chapecó",
+    "state": "SC"
+  },
+  {
+    "id": 4204608,
+    "name": "Criciúma",
+    "state": "SC"
+  },
+  {
+    "id": 4205001,
+    "name": "Internacional de Dionísio Cerqueira-Barracão/Brasil - Bernardo de Irigoyen/Argentina",
+    "state": "SC"
+  },
+  {
+    "id": 4205407,
+    "name": "Florianópolis",
+    "state": "SC"
+  },
+  {
+    "id": 4207304,
+    "name": "Imbituba",
+    "state": "SC"
+  },
+  {
+    "id": 4208203,
+    "name": "Itajaí - Balneário Camboriú",
+    "state": "SC"
+  },
+  {
+    "id": 4208302,
+    "name": "Itapema",
+    "state": "SC"
+  },
+  {
+    "id": 4208401,
+    "name": "Itapiranga",
+    "state": "SC"
+  },
+  {
+    "id": 4208906,
+    "name": "Jaraguá do Sul",
+    "state": "SC"
+  },
+  {
+    "id": 4209003,
+    "name": "Joaçaba - Herval d´Oeste",
+    "state": "SC"
+  },
+  {
+    "id": 4209102,
+    "name": "Joinville",
+    "state": "SC"
+  },
+  {
+    "id": 4209300,
+    "name": "Lages",
+    "state": "SC"
+  },
+  {
+    "id": 4210100,
+    "name": "Mafra - Rio Negro/PR",
+    "state": "SC"
+  },
+  {
+    "id": 4211751,
+    "name": "Otacílio Costa",
+    "state": "SC"
+  },
+  {
+    "id": 4213104,
+    "name": "Piratuba - Ipira",
+    "state": "SC"
+  },
+  {
+    "id": 4213807,
+    "name": "Praia Grande",
+    "state": "SC"
+  },
+  {
+    "id": 4214805,
+    "name": "Rio do Sul",
+    "state": "SC"
+  },
+  {
+    "id": 4215802,
+    "name": "São Bento do Sul - Rio Negrinho",
+    "state": "SC"
+  },
+  {
+    "id": 4216008,
+    "name": "São Carlos - Águas de Chapecó",
+    "state": "SC"
+  },
+  {
+    "id": 4217709,
+    "name": "Sombrio",
+    "state": "SC"
+  },
+  {
+    "id": 4218707,
+    "name": "Tubarão - Laguna",
+    "state": "SC"
+  },
+  {
+    "id": 4300802,
+    "name": "Antônio Prado",
+    "state": "RS"
+  },
+  {
+    "id": 4301602,
+    "name": "Bagé",
+    "state": "RS"
+  },
+  {
+    "id": 4301875,
+    "name": "Internacional de Bella Unión/Uruguai - Monte Caseros/Argentina",
+    "state": "RS"
+  },
+  {
+    "id": 4302105,
+    "name": "Bento Gonçalves",
+    "state": "RS"
+  },
+  {
+    "id": 4304408,
+    "name": "Canela - Gramado",
+    "state": "RS"
+  },
+  {
+    "id": 4304630,
+    "name": "Capão da Canoa",
+    "state": "RS"
+  },
+  {
+    "id": 4305108,
+    "name": "Caxias do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 4305355,
+    "name": "Charqueadas - Triunfo - São Jerônimo",
+    "state": "RS"
+  },
+  {
+    "id": 4305439,
+    "name": "Internacional Chuy/Uruguai - Chuí/Brasil",
+    "state": "RS"
+  },
+  {
+    "id": 4305454,
+    "name": "Cidreira - Balneário Pinhal",
+    "state": "RS"
+  },
+  {
+    "id": 4308656,
+    "name": "Internacional de Garruchos/Brasil",
+    "state": "RS"
+  },
+  {
+    "id": 4308904,
+    "name": "Getúlio Vargas",
+    "state": "RS"
+  },
+  {
+    "id": 4310603,
+    "name": "Internacional de Itaqui/Brasil",
+    "state": "RS"
+  },
+  {
+    "id": 4310801,
+    "name": "Ivoti",
+    "state": "RS"
+  },
+  {
+    "id": 4311007,
+    "name": "Internacional de Jaguarão/Brasil - Rio Branco/Uruguai",
+    "state": "RS"
+  },
+  {
+    "id": 4311304,
+    "name": "Lagoa Vermelha",
+    "state": "RS"
+  },
+  {
+    "id": 4311403,
+    "name": "Lajeado",
+    "state": "RS"
+  },
+  {
+    "id": 4313409,
+    "name": "Novo Hamburgo - São Leopoldo",
+    "state": "RS"
+  },
+  {
+    "id": 4314209,
+    "name": "Pedro Osório - Cerrito",
+    "state": "RS"
+  },
+  {
+    "id": 4314407,
+    "name": "Pelotas",
+    "state": "RS"
+  },
+  {
+    "id": 4314902,
+    "name": "Porto Alegre",
+    "state": "RS"
+  },
+  {
+    "id": 4315057,
+    "name": "Internacional de Porto Mauá/Brasil - Alba Posse/Argentina",
+    "state": "RS"
+  },
+  {
+    "id": 4315073,
+    "name": "Internacional de Porto Vera Cruz/Brasil - Panambí/Argentina",
+    "state": "RS"
+  },
+  {
+    "id": 4315107,
+    "name": "Internacional de Porto Xavier/Brasil - San Javier/Argentina",
+    "state": "RS"
+  },
+  {
+    "id": 4315305,
+    "name": "Internacional de Artigas/Uruguai - Quaraí/Brasil",
+    "state": "RS"
+  },
+  {
+    "id": 4316501,
+    "name": "Salvador do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 4316808,
+    "name": "Santa Cruz do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 4316907,
+    "name": "Santa Maria",
+    "state": "RS"
+  },
+  {
+    "id": 4317103,
+    "name": "Internacional de Sant'Ana do Livramento/Brasil - Rivera/Uruguai",
+    "state": "RS"
+  },
+  {
+    "id": 4317509,
+    "name": "Santo Ângelo",
+    "state": "RS"
+  },
+  {
+    "id": 4318002,
+    "name": "Internacional de São Borja/Brasil",
+    "state": "RS"
+  },
+  {
+    "id": 4318309,
+    "name": "São Gabriel",
+    "state": "RS"
+  },
+  {
+    "id": 4319901,
+    "name": "Sapiranga",
+    "state": "RS"
+  },
+  {
+    "id": 4321204,
+    "name": "Taquara - Parobé - Igrejinha",
+    "state": "RS"
+  },
+  {
+    "id": 4321329,
+    "name": "Taquaruçu do Sul - Vista Alegre",
+    "state": "RS"
+  },
+  {
+    "id": 4321451,
+    "name": "Teutônia",
+    "state": "RS"
+  },
+  {
+    "id": 4321501,
+    "name": "Torres",
+    "state": "RS"
+  },
+  {
+    "id": 4321600,
+    "name": "Tramandaí - Osório",
+    "state": "RS"
+  },
+  {
+    "id": 4322400,
+    "name": "Internacional de Uruguaiana/Brasil",
+    "state": "RS"
+  },
+  {
+    "id": 4322608,
+    "name": "Venâncio Aires",
+    "state": "RS"
+  },
+  {
+    "id": 5001102,
+    "name": "Aquidauana - Anastácio",
+    "state": "MS"
+  },
+  {
+    "id": 5002100,
+    "name": "Internacional de Bela Vista/Brasil",
+    "state": "MS"
+  },
+  {
+    "id": 5003157,
+    "name": "Internacional de Capitán Bado/Paraguai - Coronel Sapucaia/Brasil",
+    "state": "MS"
+  },
+  {
+    "id": 5003207,
+    "name": "Internacional de Corumbá/Brasil",
+    "state": "MS"
+  },
+  {
+    "id": 5005004,
+    "name": "Jardim",
+    "state": "MS"
+  },
+  {
+    "id": 5006358,
+    "name": "Internacional de Paranhos/Brasil - Ypejhú/Paraguai",
+    "state": "MS"
+  },
+  {
+    "id": 5006606,
+    "name": "Internacional de Pedro Juan Caballero/Paraguai - Ponta Porã/Brasil",
+    "state": "MS"
+  },
+  {
+    "id": 5100300,
+    "name": "Alto Araguaia",
+    "state": "MT"
+  },
+  {
+    "id": 5101308,
+    "name": "Arenápolis - Nortelândia",
+    "state": "MT"
+  },
+  {
+    "id": 5101803,
+    "name": "Barra do Garças",
+    "state": "MT"
+  },
+  {
+    "id": 5103403,
+    "name": "Cuiabá",
+    "state": "MT"
+  },
+  {
+    "id": 5104807,
+    "name": "Jaciara",
+    "state": "MT"
+  },
+  {
+    "id": 5108204,
+    "name": "Torixoréu - Baliza/GO",
+    "state": "MT"
+  },
+  {
+    "id": 5200803,
+    "name": "Alvorada do Norte - Simolândia",
+    "state": "GO"
+  },
+  {
+    "id": 5204508,
+    "name": "Caldas Novas",
+    "state": "GO"
+  },
+  {
+    "id": 5205109,
+    "name": "Catalão",
+    "state": "GO"
+  },
+  {
+    "id": 5205406,
+    "name": "Ceres",
+    "state": "GO"
+  },
+  {
+    "id": 5208608,
+    "name": "Goianésia",
+    "state": "GO"
+  },
+  {
+    "id": 5208707,
+    "name": "Goiânia",
+    "state": "GO"
+  },
+  {
+    "id": 5209952,
+    "name": "Indiara",
+    "state": "GO"
+  },
+  {
+    "id": 5211503,
+    "name": "Itumbiara",
+    "state": "GO"
+  },
+  {
+    "id": 5213004,
+    "name": "Maurilândia",
+    "state": "GO"
+  },
+  {
+    "id": 5218508,
+    "name": "Quirinópolis",
+    "state": "GO"
+  },
+  {
+    "id": 5300108,
+    "name": "Brasília",
+    "state": "DF"
+  }
+]

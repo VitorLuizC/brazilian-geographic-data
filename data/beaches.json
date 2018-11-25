@@ -1,0 +1,200 @@
+[
+  {
+    "id": 2401,
+    "name": "Pipa",
+    "city": "Tibau do Sul",
+    "state": "RN"
+  },
+  {
+    "id": 2402,
+    "name": "Ponta Negra",
+    "city": "Natal",
+    "state": "RN"
+  },
+  {
+    "id": 2403,
+    "name": "Redinha",
+    "city": "Natal",
+    "state": "RN"
+  },
+  {
+    "id": 2601,
+    "name": "Porto de Galinhas",
+    "city": "Ipojuca",
+    "state": "PE"
+  },
+  {
+    "id": 2602,
+    "name": "Boa Viagem",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 2603,
+    "name": "Tamandaré",
+    "city": "Tamandaré",
+    "state": "PE"
+  },
+  {
+    "id": 2701,
+    "name": "Barra de São Miguel",
+    "city": "Barra de São Miguel",
+    "state": "AL"
+  },
+  {
+    "id": 2702,
+    "name": "Francês",
+    "city": "Marechal Deodoro",
+    "state": "AL"
+  },
+  {
+    "id": 2703,
+    "name": "Jatiúca",
+    "city": "Maceió",
+    "state": "AL"
+  },
+  {
+    "id": 2801,
+    "name": "Praia do Saco",
+    "city": "Estância",
+    "state": "SE"
+  },
+  {
+    "id": 2802,
+    "name": "Atalaia Velha",
+    "city": "Aracaju",
+    "state": "SE"
+  },
+  {
+    "id": 2803,
+    "name": "Praia da Costa",
+    "city": "Barra dos Coqueiros",
+    "state": "SE"
+  },
+  {
+    "id": 2901,
+    "name": "Porto da Barra",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2902,
+    "name": "Farol da Barra",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2903,
+    "name": "Stella Maris",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 3201,
+    "name": "Guriri",
+    "city": "São Mateus",
+    "state": "ES"
+  },
+  {
+    "id": 3202,
+    "name": "Praia da Costa",
+    "city": "Vila Velha",
+    "state": "ES"
+  },
+  {
+    "id": 3203,
+    "name": "Praia do Morro",
+    "city": "Guarapari",
+    "state": "ES"
+  },
+  {
+    "id": 3301,
+    "name": "Grumari",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3302,
+    "name": "Copacabana",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3303,
+    "name": "Flamengo",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3501,
+    "name": "Enseada",
+    "city": "Guarujá",
+    "state": "SP"
+  },
+  {
+    "id": 3502,
+    "name": "Toninhas",
+    "city": "Ubatuba",
+    "state": "SP"
+  },
+  {
+    "id": 3503,
+    "name": "Gonzaga",
+    "city": "Santos",
+    "state": "SP"
+  },
+  {
+    "id": 4101,
+    "name": "Ponta da Pita",
+    "city": "Antonina",
+    "state": "PR"
+  },
+  {
+    "id": 4102,
+    "name": "Guaratuba",
+    "city": "Guaratuba",
+    "state": "PR"
+  },
+  {
+    "id": 4103,
+    "name": "Encantadas - Ilha do Mel",
+    "city": "Paranaguá",
+    "state": "PR"
+  },
+  {
+    "id": 4201,
+    "name": "Balneário Camboriú",
+    "city": "Balneário Camboriú",
+    "state": "SC"
+  },
+  {
+    "id": 4202,
+    "name": "Canasvieiras",
+    "city": "Florianópolis",
+    "state": "SC"
+  },
+  {
+    "id": 4203,
+    "name": "Itapema",
+    "city": "Itapema",
+    "state": "SC"
+  },
+  {
+    "id": 4301,
+    "name": "Torres",
+    "city": "Torres",
+    "state": "RS"
+  },
+  {
+    "id": 4302,
+    "name": "Capão da Canoa",
+    "city": "Capão da Canoa",
+    "state": "RS"
+  },
+  {
+    "id": 4303,
+    "name": "Balneário do Cassino",
+    "city": "Rio Grande",
+    "state": "RS"
+  }
+]

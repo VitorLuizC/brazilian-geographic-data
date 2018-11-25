@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1101,
+    "name": "Central - RO"
+  },
+  {
+    "id": 1102,
+    "name": "Madeira Mamoré - RO"
+  },
+  {
+    "id": 1103,
+    "name": "Vale do Jamari - RO"
+  },
+  {
+    "id": 1201,
+    "name": "Alto Acre e Capixaba - AC"
+  },
+  {
+    "id": 1202,
+    "name": "Vale do Juruá - AC"
+  },
+  {
+    "id": 1301,
+    "name": "Alto Juruá - AM"
+  },
+  {
+    "id": 1302,
+    "name": "Baixo Amazonas - AM"
+  },
+  {
+    "id": 1303,
+    "name": "Madeira - AM"
+  },
+  {
+    "id": 1304,
+    "name": "Manaus e Entorno - AM"
+  },
+  {
+    "id": 1305,
+    "name": "Mesorregião Alto Solimôes - AM"
+  },
+  {
+    "id": 1306,
+    "name": "Rio Negro da Cidadania Indígena - AM"
+  },
+  {
+    "id": 1401,
+    "name": "Sul de Roraima - RR"
+  },
+  {
+    "id": 1402,
+    "name": "Terra Indígena Raposa Serra do Sol e São Marcos - RR"
+  },
+  {
+    "id": 1501,
+    "name": "Baixo Amazonas - PA"
+  },
+  {
+    "id": 1502,
+    "name": "Baixo Tocantins - PA"
+  },
+  {
+    "id": 1503,
+    "name": "BR 163 - PA"
+  },
+  {
+    "id": 1504,
+    "name": "Marajó - PA"
+  },
+  {
+    "id": 1505,
+    "name": "Nordeste Paraense - PA"
+  },
+  {
+    "id": 1506,
+    "name": "Sudeste Paraense - PA"
+  },
+  {
+    "id": 1507,
+    "name": "Sul do Pará/Alto Xingu - PA"
+  },
+  {
+    "id": 1508,
+    "name": "Transamazônica - PA"
+  },
+  {
+    "id": 1601,
+    "name": "Centro Oeste - AP"
+  },
+  {
+    "id": 1602,
+    "name": "Dos Lagos - AP"
+  },
+  {
+    "id": 1603,
+    "name": "Sul do Amapá - AP"
+  },
+  {
+    "id": 1701,
+    "name": "Bico do Papagaio - TO"
+  },
+  {
+    "id": 1702,
+    "name": "Jalapão - TO"
+  },
+  {
+    "id": 1703,
+    "name": "Sudeste - TO"
+  },
+  {
+    "id": 2101,
+    "name": "Alto Turi e Gurupi - MA"
+  },
+  {
+    "id": 2102,
+    "name": "Baixada Ocidental - MA"
+  },
+  {
+    "id": 2103,
+    "name": "Baixo Parnaíba - MA"
+  },
+  {
+    "id": 2104,
+    "name": "Campo e Lagos - MA"
+  },
+  {
+    "id": 2105,
+    "name": "Cocais - MA"
+  },
+  {
+    "id": 2106,
+    "name": "Lençóis Maranhenses/Munin - MA"
+  },
+  {
+    "id": 2107,
+    "name": "Médio Mearim - MA"
+  },
+  {
+    "id": 2108,
+    "name": "Vale do Itapecuru - MA"
+  },
+  {
+    "id": 2201,
+    "name": "Carnaubais - PI"
+  },
+  {
+    "id": 2202,
+    "name": "Cocais - PI"
+  },
+  {
+    "id": 2203,
+    "name": "Entre Rios - PI"
+  },
+  {
+    "id": 2204,
+    "name": "Serra da Capivara - PI"
+  },
+  {
+    "id": 2205,
+    "name": "Vale do Canindé - PI"
+  },
+  {
+    "id": 2206,
+    "name": "Vale do Guaribas - PI"
+  },
+  {
+    "id": 2301,
+    "name": "Carirí - CE"
+  },
+  {
+    "id": 2302,
+    "name": "Inhamuns Crateús - CE"
+  },
+  {
+    "id": 2303,
+    "name": "Sertão Central - CE"
+  },
+  {
+    "id": 2304,
+    "name": "Sertões de Canindé - CE"
+  },
+  {
+    "id": 2305,
+    "name": "Sobral - CE"
+  },
+  {
+    "id": 2306,
+    "name": "Vales do Curu e Aracatiaçu - CE"
+  },
+  {
+    "id": 2401,
+    "name": "Açu-Mossoró - RN"
+  },
+  {
+    "id": 2402,
+    "name": "Alto Oeste - RN"
+  },
+  {
+    "id": 2403,
+    "name": "Mato Grande - RN"
+  },
+  {
+    "id": 2404,
+    "name": "Potengi - RN"
+  },
+  {
+    "id": 2405,
+    "name": "Seridó - RN"
+  },
+  {
+    "id": 2406,
+    "name": "Sertão do Apodi - RN"
+  },
+  {
+    "id": 2501,
+    "name": "Borborema - PB"
+  },
+  {
+    "id": 2502,
+    "name": "Cariri Ocidental - PB"
+  },
+  {
+    "id": 2503,
+    "name": "Curimataú - PB"
+  },
+  {
+    "id": 2504,
+    "name": "Médio Sertão - PB"
+  },
+  {
+    "id": 2505,
+    "name": "Zona da Mata Norte - PB"
+  },
+  {
+    "id": 2506,
+    "name": "Zona da Mata Sul - PB"
+  },
+  {
+    "id": 2601,
+    "name": "Agreste Meridional - PE"
+  },
+  {
+    "id": 2602,
+    "name": "Itaparica - PE/BA"
+  },
+  {
+    "id": 2603,
+    "name": "Mata Sul - PE"
+  },
+  {
+    "id": 2604,
+    "name": "Sertão do Araripe - PE"
+  },
+  {
+    "id": 2605,
+    "name": "Sertão do Pajeú - PE"
+  },
+  {
+    "id": 2606,
+    "name": "Sertão do São Francisco - PE"
+  },
+  {
+    "id": 2701,
+    "name": "Da Bacia Leiteira - AL"
+  },
+  {
+    "id": 2702,
+    "name": "Do Agreste - AL"
+  },
+  {
+    "id": 2703,
+    "name": "Do Alto Sertão - AL"
+  },
+  {
+    "id": 2704,
+    "name": "Do Litoral Norte - AL"
+  },
+  {
+    "id": 2705,
+    "name": "Do Médio Sertão - AL"
+  },
+  {
+    "id": 2706,
+    "name": "Mata Alagoana - AL"
+  },
+  {
+    "id": 2801,
+    "name": "Alto Sertão - SE"
+  },
+  {
+    "id": 2802,
+    "name": "Baixo São Francisco - SE"
+  },
+  {
+    "id": 2803,
+    "name": "Sertão Ocidental - SE"
+  },
+  {
+    "id": 2804,
+    "name": "Sul Sergipano - SE"
+  },
+  {
+    "id": 2901,
+    "name": "Baixo Sul - BA"
+  },
+  {
+    "id": 2902,
+    "name": "Chapada Diamantina - BA"
+  },
+  {
+    "id": 2903,
+    "name": "Do Sisal - BA"
+  },
+  {
+    "id": 2904,
+    "name": "Irecê- BA"
+  },
+  {
+    "id": 2905,
+    "name": "Litoral Sul - BA"
+  },
+  {
+    "id": 2906,
+    "name": "Semi-árido Nordeste II - BA"
+  },
+  {
+    "id": 2907,
+    "name": "Sertão do São Francisco - BA"
+  },
+  {
+    "id": 2908,
+    "name": "Velho Chico - BA"
+  },
+  {
+    "id": 3101,
+    "name": "Alto Jequitinhonha - MG"
+  },
+  {
+    "id": 3102,
+    "name": "Alto Rio Pardo - MG"
+  },
+  {
+    "id": 3103,
+    "name": "Baixo Jequitinhonha - MG"
+  },
+  {
+    "id": 3104,
+    "name": "Das Águas Emendadas - MG/GO/DF"
+  },
+  {
+    "id": 3105,
+    "name": "Médio Jequitinhonha - MG"
+  },
+  {
+    "id": 3106,
+    "name": "Noroeste de Minas - MG"
+  },
+  {
+    "id": 3107,
+    "name": "Serra Geral - MG"
+  },
+  {
+    "id": 3108,
+    "name": "Sertão de Minas - MG"
+  },
+  {
+    "id": 3109,
+    "name": "Vale do Mucuri - MG"
+  },
+  {
+    "id": 3201,
+    "name": "Caparaó - ES"
+  },
+  {
+    "id": 3202,
+    "name": "Norte - ES"
+  },
+  {
+    "id": 3301,
+    "name": "Noroeste - RJ"
+  },
+  {
+    "id": 3302,
+    "name": "Norte - RJ"
+  },
+  {
+    "id": 3501,
+    "name": "Pontal do Paranapanema - SP"
+  },
+  {
+    "id": 3502,
+    "name": "Sudoeste Paulista - SP"
+  },
+  {
+    "id": 3503,
+    "name": "Vale do Ribeira - SP"
+  },
+  {
+    "id": 4101,
+    "name": "Cantuquiriguaçu - PR"
+  },
+  {
+    "id": 4102,
+    "name": "Norte Pioneiro - PR"
+  },
+  {
+    "id": 4103,
+    "name": "Paraná Centro - PR"
+  },
+  {
+    "id": 4104,
+    "name": "Vale do Ribeira - PR"
+  },
+  {
+    "id": 4201,
+    "name": "Meio Oeste Contestado - SC"
+  },
+  {
+    "id": 4202,
+    "name": "Planalto Norte - SC"
+  },
+  {
+    "id": 4301,
+    "name": "Médio Alto Uruguai - RS"
+  },
+  {
+    "id": 4302,
+    "name": "Noroeste Colonial - RS"
+  },
+  {
+    "id": 4303,
+    "name": "Região Central - RS"
+  },
+  {
+    "id": 4304,
+    "name": "Zona Sul do Estado - RS"
+  },
+  {
+    "id": 5001,
+    "name": "Cone Sul - MS"
+  },
+  {
+    "id": 5002,
+    "name": "Da Reforma - MS"
+  },
+  {
+    "id": 5003,
+    "name": "Grande Dourados - MS"
+  },
+  {
+    "id": 5004,
+    "name": "Vale do Ivinhema - MS"
+  },
+  {
+    "id": 5101,
+    "name": "Baixada Cuiabana - MT"
+  },
+  {
+    "id": 5102,
+    "name": "Baixo Araguaia - MT"
+  },
+  {
+    "id": 5103,
+    "name": "Noroeste - MT"
+  },
+  {
+    "id": 5104,
+    "name": "Portal da Amazônia - MT"
+  },
+  {
+    "id": 5201,
+    "name": "Chapada dos Veadeiros - GO"
+  },
+  {
+    "id": 5202,
+    "name": "Vale do Paranã - GO"
+  },
+  {
+    "id": 5203,
+    "name": "Vale do Rio Vermelho - GO"
+  }
+]
