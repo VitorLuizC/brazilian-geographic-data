@@ -1,0 +1,614 @@
+[
+  {
+    "id": 110101,
+    "name": "Porto Velho",
+    "city": "Porto Velho",
+    "state": "RO"
+  },
+  {
+    "id": 130101,
+    "name": "Manaus",
+    "city": "Manaus",
+    "state": "AM"
+  },
+  {
+    "id": 140101,
+    "name": "Capital",
+    "city": "Capital",
+    "state": "RR"
+  },
+  {
+    "id": 140201,
+    "name": "Central",
+    "city": "Central",
+    "state": "RR"
+  },
+  {
+    "id": 140301,
+    "name": "Sul do Estado",
+    "city": "Sul do Estado",
+    "state": "RR"
+  },
+  {
+    "id": 150101,
+    "name": "Belém",
+    "city": "Belém",
+    "state": "PA"
+  },
+  {
+    "id": 150201,
+    "name": "Santarém",
+    "city": "Santarém",
+    "state": "PA"
+  },
+  {
+    "id": 160101,
+    "name": "Macapá",
+    "city": "Macapá",
+    "state": "AP"
+  },
+  {
+    "id": 170101,
+    "name": "Palmas",
+    "city": "Palmas",
+    "state": "TO"
+  },
+  {
+    "id": 170201,
+    "name": "Gurupi",
+    "city": "Gurupi",
+    "state": "TO"
+  },
+  {
+    "id": 210101,
+    "name": "Grande São Luís",
+    "city": "Grande São Luís",
+    "state": "MA"
+  },
+  {
+    "id": 210201,
+    "name": "Sudoeste Maranhense",
+    "city": "Sudoeste Maranhense",
+    "state": "MA"
+  },
+  {
+    "id": 230101,
+    "name": "Fortaleza",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 230201,
+    "name": "Cariri",
+    "city": "Cariri",
+    "state": "CE"
+  },
+  {
+    "id": 230301,
+    "name": "Sobral",
+    "city": "Sobral",
+    "state": "CE"
+  },
+  {
+    "id": 240101,
+    "name": "Natal",
+    "city": "Natal",
+    "state": "RN"
+  },
+  {
+    "id": 250101,
+    "name": "João Pessoa",
+    "city": "João Pessoa",
+    "state": "PB"
+  },
+  {
+    "id": 250201,
+    "name": "Campina Grande",
+    "city": "Campina Grande",
+    "state": "PB"
+  },
+  {
+    "id": 250301,
+    "name": "Guarabira",
+    "city": "Guarabira",
+    "state": "PB"
+  },
+  {
+    "id": 250401,
+    "name": "Patos",
+    "city": "Patos",
+    "state": "PB"
+  },
+  {
+    "id": 250501,
+    "name": "Cajazeiras",
+    "city": "Cajazeiras",
+    "state": "PB"
+  },
+  {
+    "id": 250601,
+    "name": "Esperança",
+    "city": "Esperança",
+    "state": "PB"
+  },
+  {
+    "id": 250701,
+    "name": "Vale do Piancó",
+    "city": "Vale do Piancó",
+    "state": "PB"
+  },
+  {
+    "id": 250801,
+    "name": "Barra de Santa Rosa",
+    "city": "Barra de Santa Rosa",
+    "state": "PB"
+  },
+  {
+    "id": 250901,
+    "name": "Araruna",
+    "city": "Araruna",
+    "state": "PB"
+  },
+  {
+    "id": 251001,
+    "name": "Itabaiana",
+    "city": "Itabaiana",
+    "state": "PB"
+  },
+  {
+    "id": 251101,
+    "name": "Sousa",
+    "city": "Sousa",
+    "state": "PB"
+  },
+  {
+    "id": 251201,
+    "name": "Vale do Mamanguape",
+    "city": "Vale do Mamanguape",
+    "state": "PB"
+  },
+  {
+    "id": 260101,
+    "name": "Recife",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 270101,
+    "name": "Maceió",
+    "city": "Maceió",
+    "state": "AL"
+  },
+  {
+    "id": 270201,
+    "name": "Agreste",
+    "city": "Agreste",
+    "state": "AL"
+  },
+  {
+    "id": 270301,
+    "name": "Vale do Paraíba",
+    "city": "Vale do Paraíba",
+    "state": "AL"
+  },
+  {
+    "id": 270401,
+    "name": "Zona da Mata",
+    "city": "Zona da Mata",
+    "state": "AL"
+  },
+  {
+    "id": 270501,
+    "name": "Palmeira dos Índios",
+    "city": "Palmeira dos Índios",
+    "state": "AL"
+  },
+  {
+    "id": 270601,
+    "name": "Caetés",
+    "city": "Caetés",
+    "state": "AL"
+  },
+  {
+    "id": 270701,
+    "name": "Sertão",
+    "city": "Sertão",
+    "state": "AL"
+  },
+  {
+    "id": 270801,
+    "name": "Médio Sertão",
+    "city": "Médio Sertão",
+    "state": "AL"
+  },
+  {
+    "id": 270901,
+    "name": "São Francisco",
+    "city": "São Francisco",
+    "state": "AL"
+  },
+  {
+    "id": 280101,
+    "name": "Aracaju",
+    "city": "Aracaju",
+    "state": "SE"
+  },
+  {
+    "id": 290101,
+    "name": "Salvador",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 290201,
+    "name": "Núcleo Metropolitano",
+    "city": "Feira de Santana",
+    "state": "BA"
+  },
+  {
+    "id": 290202,
+    "name": "Área de Expansão Metropolitana",
+    "city": "Feira de Santana",
+    "state": "BA"
+  },
+  {
+    "id": 310101,
+    "name": "Núcleo Metropolitano",
+    "city": "Belo Horizonte",
+    "state": "MG"
+  },
+  {
+    "id": 310102,
+    "name": "Colar Metropolitano",
+    "city": "Belo Horizonte",
+    "state": "MG"
+  },
+  {
+    "id": 310201,
+    "name": "Núcleo Metropolitano",
+    "city": "Vale do Aço",
+    "state": "MG"
+  },
+  {
+    "id": 310202,
+    "name": "Colar Metropolitano",
+    "city": "Vale do Aço",
+    "state": "MG"
+  },
+  {
+    "id": 320101,
+    "name": "Grande Vitória",
+    "city": "Grande Vitória",
+    "state": "ES"
+  },
+  {
+    "id": 330101,
+    "name": "Rio de Janeiro",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 350101,
+    "name": "Cidade de São Paulo",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 350102,
+    "name": "Sub-região Leste",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 350103,
+    "name": "Sub-região Norte",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 350104,
+    "name": "Sub-região Oeste",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 350105,
+    "name": "Sub-região Sudeste",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 350106,
+    "name": "Sub-região Sudoeste",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 350201,
+    "name": "Baixada Santista",
+    "city": "Baixada Santista",
+    "state": "SP"
+  },
+  {
+    "id": 350301,
+    "name": "Campinas",
+    "city": "Campinas",
+    "state": "SP"
+  },
+  {
+    "id": 350401,
+    "name": "Sub-região 1",
+    "city": "Vale do Paraíba e Litoral Norte",
+    "state": "SP"
+  },
+  {
+    "id": 350402,
+    "name": "Sub-região 2",
+    "city": "Vale do Paraíba e Litoral Norte",
+    "state": "SP"
+  },
+  {
+    "id": 350403,
+    "name": "Sub-região 3",
+    "city": "Vale do Paraíba e Litoral Norte",
+    "state": "SP"
+  },
+  {
+    "id": 350404,
+    "name": "Sub-região 4",
+    "city": "Vale do Paraíba e Litoral Norte",
+    "state": "SP"
+  },
+  {
+    "id": 350405,
+    "name": "Sub-região 5",
+    "city": "Vale do Paraíba e Litoral Norte",
+    "state": "SP"
+  },
+  {
+    "id": 350501,
+    "name": "Sub-região 1",
+    "city": "Sorocaba",
+    "state": "SP"
+  },
+  {
+    "id": 350502,
+    "name": "Sub-região 2",
+    "city": "Sorocaba",
+    "state": "SP"
+  },
+  {
+    "id": 350503,
+    "name": "Sub-região 3",
+    "city": "Sorocaba",
+    "state": "SP"
+  },
+  {
+    "id": 350601,
+    "name": "Sub-região 1",
+    "city": "Ribeirão Preto",
+    "state": "SP"
+  },
+  {
+    "id": 350602,
+    "name": "Sub-região 2",
+    "city": "Ribeirão Preto",
+    "state": "SP"
+  },
+  {
+    "id": 350603,
+    "name": "Sub-região 3",
+    "city": "Ribeirão Preto",
+    "state": "SP"
+  },
+  {
+    "id": 350604,
+    "name": "Sub-região 4",
+    "city": "Ribeirão Preto",
+    "state": "SP"
+  },
+  {
+    "id": 410101,
+    "name": "Curitiba",
+    "city": "Curitiba",
+    "state": "PR"
+  },
+  {
+    "id": 410201,
+    "name": "Londrina",
+    "city": "Londrina",
+    "state": "PR"
+  },
+  {
+    "id": 410301,
+    "name": "Maringá",
+    "city": "Maringá",
+    "state": "PR"
+  },
+  {
+    "id": 410401,
+    "name": "Umuarama",
+    "city": "Umuarama",
+    "state": "PR"
+  },
+  {
+    "id": 410501,
+    "name": "Apucarana",
+    "city": "Apucarana",
+    "state": "PR"
+  },
+  {
+    "id": 410601,
+    "name": "Campo Mourão",
+    "city": "Campo Mourão",
+    "state": "PR"
+  },
+  {
+    "id": 410701,
+    "name": "Cascavel",
+    "city": "Cascavel",
+    "state": "PR"
+  },
+  {
+    "id": 410801,
+    "name": "Toledo",
+    "city": "Toledo",
+    "state": "PR"
+  },
+  {
+    "id": 420101,
+    "name": "Núcleo Metropolitano",
+    "city": "Florianópolis",
+    "state": "SC"
+  },
+  {
+    "id": 420102,
+    "name": "Área de Expansão Metropolitana",
+    "city": "Florianópolis",
+    "state": "SC"
+  },
+  {
+    "id": 420201,
+    "name": "Núcleo Metropolitano",
+    "city": "Norte/Nordeste Catarinense",
+    "state": "SC"
+  },
+  {
+    "id": 420202,
+    "name": "Área de Expansão Metropolitana",
+    "city": "Norte/Nordeste Catarinense",
+    "state": "SC"
+  },
+  {
+    "id": 420301,
+    "name": "Núcleo Metropolitano",
+    "city": "Vale do Itajaí",
+    "state": "SC"
+  },
+  {
+    "id": 420302,
+    "name": "Área de Expansão Metropolitana",
+    "city": "Vale do Itajaí",
+    "state": "SC"
+  },
+  {
+    "id": 420401,
+    "name": "Núcleo Metropolitano",
+    "city": "Carbonífera",
+    "state": "SC"
+  },
+  {
+    "id": 420402,
+    "name": "Área de Expansão Metropolitana",
+    "city": "Carbonífera",
+    "state": "SC"
+  },
+  {
+    "id": 420501,
+    "name": "Núcleo Metropolitano",
+    "city": "Foz do Rio Itajaí",
+    "state": "SC"
+  },
+  {
+    "id": 420502,
+    "name": "Área de Expansão Metropolitana",
+    "city": "Foz do Rio Itajaí",
+    "state": "SC"
+  },
+  {
+    "id": 420601,
+    "name": "Núcleo Metropolitano",
+    "city": "Tubarão",
+    "state": "SC"
+  },
+  {
+    "id": 420602,
+    "name": "Área de Expansão Metropolitana",
+    "city": "Tubarão",
+    "state": "SC"
+  },
+  {
+    "id": 420701,
+    "name": "Núcleo Metropolitano",
+    "city": "Alto Vale do Itajaí",
+    "state": "SC"
+  },
+  {
+    "id": 420702,
+    "name": "Área de Expansão Metropolitana",
+    "city": "Alto Vale do Itajaí",
+    "state": "SC"
+  },
+  {
+    "id": 420801,
+    "name": "Núcleo Metropolitano",
+    "city": "Chapecó",
+    "state": "SC"
+  },
+  {
+    "id": 420802,
+    "name": "Área de Expansão Metropolitana",
+    "city": "Chapecó",
+    "state": "SC"
+  },
+  {
+    "id": 420901,
+    "name": "Núcleo Metropolitano",
+    "city": "Lages",
+    "state": "SC"
+  },
+  {
+    "id": 420902,
+    "name": "Área de Expansão Metropolitana",
+    "city": "Lages",
+    "state": "SC"
+  },
+  {
+    "id": 421001,
+    "name": "Contestado",
+    "city": "Contestado",
+    "state": "SC"
+  },
+  {
+    "id": 421101,
+    "name": "Núcleo Metropolitano",
+    "city": "Extremo Oeste",
+    "state": "SC"
+  },
+  {
+    "id": 421102,
+    "name": "Área de Expansão Metropolitana",
+    "city": "Extremo Oeste",
+    "state": "SC"
+  },
+  {
+    "id": 430101,
+    "name": "Porto Alegre",
+    "city": "Porto Alegre",
+    "state": "RS"
+  },
+  {
+    "id": 430201,
+    "name": "Serra Gaúcha",
+    "city": "Serra Gaúcha",
+    "state": "RS"
+  },
+  {
+    "id": 510101,
+    "name": "Núcleo Metropolitano",
+    "city": "Vale do Rio Cuiabá",
+    "state": "MT"
+  },
+  {
+    "id": 510102,
+    "name": "Entorno Metropolitano",
+    "city": "Vale do Rio Cuiabá",
+    "state": "MT"
+  },
+  {
+    "id": 520101,
+    "name": "Goiânia",
+    "city": "Goiânia",
+    "state": "GO"
+  }
+]

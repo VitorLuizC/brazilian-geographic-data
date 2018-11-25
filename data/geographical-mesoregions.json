@@ -1,0 +1,687 @@
+[
+  {
+    "id": 1101,
+    "name": "Madeira-Guaporé",
+    "state": "RO"
+  },
+  {
+    "id": 1102,
+    "name": "Leste Rondoniense",
+    "state": "RO"
+  },
+  {
+    "id": 1201,
+    "name": "Vale do Juruá",
+    "state": "AC"
+  },
+  {
+    "id": 1202,
+    "name": "Vale do Acre",
+    "state": "AC"
+  },
+  {
+    "id": 1301,
+    "name": "Norte Amazonense",
+    "state": "AM"
+  },
+  {
+    "id": 1302,
+    "name": "Sudoeste Amazonense",
+    "state": "AM"
+  },
+  {
+    "id": 1303,
+    "name": "Centro Amazonense",
+    "state": "AM"
+  },
+  {
+    "id": 1304,
+    "name": "Sul Amazonense",
+    "state": "AM"
+  },
+  {
+    "id": 1401,
+    "name": "Norte de Roraima",
+    "state": "RR"
+  },
+  {
+    "id": 1402,
+    "name": "Sul de Roraima",
+    "state": "RR"
+  },
+  {
+    "id": 1501,
+    "name": "Baixo Amazonas",
+    "state": "PA"
+  },
+  {
+    "id": 1502,
+    "name": "Marajó",
+    "state": "PA"
+  },
+  {
+    "id": 1503,
+    "name": "Metropolitana de Belém",
+    "state": "PA"
+  },
+  {
+    "id": 1504,
+    "name": "Nordeste Paraense",
+    "state": "PA"
+  },
+  {
+    "id": 1505,
+    "name": "Sudoeste Paraense",
+    "state": "PA"
+  },
+  {
+    "id": 1506,
+    "name": "Sudeste Paraense",
+    "state": "PA"
+  },
+  {
+    "id": 1601,
+    "name": "Norte do Amapá",
+    "state": "AP"
+  },
+  {
+    "id": 1602,
+    "name": "Sul do Amapá",
+    "state": "AP"
+  },
+  {
+    "id": 1701,
+    "name": "Ocidental do Tocantins",
+    "state": "TO"
+  },
+  {
+    "id": 1702,
+    "name": "Oriental do Tocantins",
+    "state": "TO"
+  },
+  {
+    "id": 2101,
+    "name": "Norte Maranhense",
+    "state": "MA"
+  },
+  {
+    "id": 2102,
+    "name": "Oeste Maranhense",
+    "state": "MA"
+  },
+  {
+    "id": 2103,
+    "name": "Centro Maranhense",
+    "state": "MA"
+  },
+  {
+    "id": 2104,
+    "name": "Leste Maranhense",
+    "state": "MA"
+  },
+  {
+    "id": 2105,
+    "name": "Sul Maranhense",
+    "state": "MA"
+  },
+  {
+    "id": 2201,
+    "name": "Norte Piauiense",
+    "state": "PI"
+  },
+  {
+    "id": 2202,
+    "name": "Centro-Norte Piauiense",
+    "state": "PI"
+  },
+  {
+    "id": 2203,
+    "name": "Sudoeste Piauiense",
+    "state": "PI"
+  },
+  {
+    "id": 2204,
+    "name": "Sudeste Piauiense",
+    "state": "PI"
+  },
+  {
+    "id": 2301,
+    "name": "Noroeste Cearense",
+    "state": "CE"
+  },
+  {
+    "id": 2302,
+    "name": "Norte Cearense",
+    "state": "CE"
+  },
+  {
+    "id": 2303,
+    "name": "Metropolitana de Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 2304,
+    "name": "Sertões Cearenses",
+    "state": "CE"
+  },
+  {
+    "id": 2305,
+    "name": "Jaguaribe",
+    "state": "CE"
+  },
+  {
+    "id": 2306,
+    "name": "Centro-Sul Cearense",
+    "state": "CE"
+  },
+  {
+    "id": 2307,
+    "name": "Sul Cearense",
+    "state": "CE"
+  },
+  {
+    "id": 2401,
+    "name": "Oeste Potiguar",
+    "state": "RN"
+  },
+  {
+    "id": 2402,
+    "name": "Central Potiguar",
+    "state": "RN"
+  },
+  {
+    "id": 2403,
+    "name": "Agreste Potiguar",
+    "state": "RN"
+  },
+  {
+    "id": 2404,
+    "name": "Leste Potiguar",
+    "state": "RN"
+  },
+  {
+    "id": 2501,
+    "name": "Sertão Paraibano",
+    "state": "PB"
+  },
+  {
+    "id": 2502,
+    "name": "Borborema",
+    "state": "PB"
+  },
+  {
+    "id": 2503,
+    "name": "Agreste Paraibano",
+    "state": "PB"
+  },
+  {
+    "id": 2504,
+    "name": "Mata Paraibana",
+    "state": "PB"
+  },
+  {
+    "id": 2601,
+    "name": "Sertão Pernambucano",
+    "state": "PE"
+  },
+  {
+    "id": 2602,
+    "name": "São Francisco Pernambucano",
+    "state": "PE"
+  },
+  {
+    "id": 2603,
+    "name": "Agreste Pernambucano",
+    "state": "PE"
+  },
+  {
+    "id": 2604,
+    "name": "Mata Pernambucana",
+    "state": "PE"
+  },
+  {
+    "id": 2605,
+    "name": "Metropolitana de Recife",
+    "state": "PE"
+  },
+  {
+    "id": 2701,
+    "name": "Sertão Alagoano",
+    "state": "AL"
+  },
+  {
+    "id": 2702,
+    "name": "Agreste Alagoano",
+    "state": "AL"
+  },
+  {
+    "id": 2703,
+    "name": "Leste Alagoano",
+    "state": "AL"
+  },
+  {
+    "id": 2801,
+    "name": "Sertão Sergipano",
+    "state": "SE"
+  },
+  {
+    "id": 2802,
+    "name": "Agreste Sergipano",
+    "state": "SE"
+  },
+  {
+    "id": 2803,
+    "name": "Leste Sergipano",
+    "state": "SE"
+  },
+  {
+    "id": 2901,
+    "name": "Extremo Oeste Baiano",
+    "state": "BA"
+  },
+  {
+    "id": 2902,
+    "name": "Vale São-Franciscano da Bahia",
+    "state": "BA"
+  },
+  {
+    "id": 2903,
+    "name": "Centro Norte Baiano",
+    "state": "BA"
+  },
+  {
+    "id": 2904,
+    "name": "Nordeste Baiano",
+    "state": "BA"
+  },
+  {
+    "id": 2905,
+    "name": "Metropolitana de Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2906,
+    "name": "Centro Sul Baiano",
+    "state": "BA"
+  },
+  {
+    "id": 2907,
+    "name": "Sul Baiano",
+    "state": "BA"
+  },
+  {
+    "id": 3101,
+    "name": "Noroeste de Minas",
+    "state": "MG"
+  },
+  {
+    "id": 3102,
+    "name": "Norte de Minas",
+    "state": "MG"
+  },
+  {
+    "id": 3103,
+    "name": "Jequitinhonha",
+    "state": "MG"
+  },
+  {
+    "id": 3104,
+    "name": "Vale do Mucuri",
+    "state": "MG"
+  },
+  {
+    "id": 3105,
+    "name": "Triângulo Mineiro/Alto Paranaíba",
+    "state": "MG"
+  },
+  {
+    "id": 3106,
+    "name": "Central Mineira",
+    "state": "MG"
+  },
+  {
+    "id": 3107,
+    "name": "Metropolitana de Belo Horizonte",
+    "state": "MG"
+  },
+  {
+    "id": 3108,
+    "name": "Vale do Rio Doce",
+    "state": "MG"
+  },
+  {
+    "id": 3109,
+    "name": "Oeste de Minas",
+    "state": "MG"
+  },
+  {
+    "id": 3110,
+    "name": "Sul/Sudoeste de Minas",
+    "state": "MG"
+  },
+  {
+    "id": 3111,
+    "name": "Campo das Vertentes",
+    "state": "MG"
+  },
+  {
+    "id": 3112,
+    "name": "Zona da Mata",
+    "state": "MG"
+  },
+  {
+    "id": 3201,
+    "name": "Noroeste Espírito-santense",
+    "state": "ES"
+  },
+  {
+    "id": 3202,
+    "name": "Litoral Norte Espírito-santense",
+    "state": "ES"
+  },
+  {
+    "id": 3203,
+    "name": "Central Espírito-santense",
+    "state": "ES"
+  },
+  {
+    "id": 3204,
+    "name": "Sul Espírito-santense",
+    "state": "ES"
+  },
+  {
+    "id": 3301,
+    "name": "Noroeste Fluminense",
+    "state": "RJ"
+  },
+  {
+    "id": 3302,
+    "name": "Norte Fluminense",
+    "state": "RJ"
+  },
+  {
+    "id": 3303,
+    "name": "Centro Fluminense",
+    "state": "RJ"
+  },
+  {
+    "id": 3304,
+    "name": "Baixadas",
+    "state": "RJ"
+  },
+  {
+    "id": 3305,
+    "name": "Sul Fluminense",
+    "state": "RJ"
+  },
+  {
+    "id": 3306,
+    "name": "Metropolitana do Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3501,
+    "name": "São José do Rio Preto",
+    "state": "SP"
+  },
+  {
+    "id": 3502,
+    "name": "Ribeirão Preto",
+    "state": "SP"
+  },
+  {
+    "id": 3503,
+    "name": "Araçatuba",
+    "state": "SP"
+  },
+  {
+    "id": 3504,
+    "name": "Bauru",
+    "state": "SP"
+  },
+  {
+    "id": 3505,
+    "name": "Araraquara",
+    "state": "SP"
+  },
+  {
+    "id": 3506,
+    "name": "Piracicaba",
+    "state": "SP"
+  },
+  {
+    "id": 3507,
+    "name": "Campinas",
+    "state": "SP"
+  },
+  {
+    "id": 3508,
+    "name": "Presidente Prudente",
+    "state": "SP"
+  },
+  {
+    "id": 3509,
+    "name": "Marília",
+    "state": "SP"
+  },
+  {
+    "id": 3510,
+    "name": "Assis",
+    "state": "SP"
+  },
+  {
+    "id": 3511,
+    "name": "Itapetininga",
+    "state": "SP"
+  },
+  {
+    "id": 3512,
+    "name": "Macro Metropolitana Paulista",
+    "state": "SP"
+  },
+  {
+    "id": 3513,
+    "name": "Vale do Paraíba Paulista",
+    "state": "SP"
+  },
+  {
+    "id": 3514,
+    "name": "Litoral Sul Paulista",
+    "state": "SP"
+  },
+  {
+    "id": 3515,
+    "name": "Metropolitana de São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 4101,
+    "name": "Noroeste Paranaense",
+    "state": "PR"
+  },
+  {
+    "id": 4102,
+    "name": "Centro Ocidental Paranaense",
+    "state": "PR"
+  },
+  {
+    "id": 4103,
+    "name": "Norte Central Paranaense",
+    "state": "PR"
+  },
+  {
+    "id": 4104,
+    "name": "Norte Pioneiro Paranaense",
+    "state": "PR"
+  },
+  {
+    "id": 4105,
+    "name": "Centro Oriental Paranaense",
+    "state": "PR"
+  },
+  {
+    "id": 4106,
+    "name": "Oeste Paranaense",
+    "state": "PR"
+  },
+  {
+    "id": 4107,
+    "name": "Sudoeste Paranaense",
+    "state": "PR"
+  },
+  {
+    "id": 4108,
+    "name": "Centro-Sul Paranaense",
+    "state": "PR"
+  },
+  {
+    "id": 4109,
+    "name": "Sudeste Paranaense",
+    "state": "PR"
+  },
+  {
+    "id": 4110,
+    "name": "Metropolitana de Curitiba",
+    "state": "PR"
+  },
+  {
+    "id": 4201,
+    "name": "Oeste Catarinense",
+    "state": "SC"
+  },
+  {
+    "id": 4202,
+    "name": "Norte Catarinense",
+    "state": "SC"
+  },
+  {
+    "id": 4203,
+    "name": "Serrana",
+    "state": "SC"
+  },
+  {
+    "id": 4204,
+    "name": "Vale do Itajaí",
+    "state": "SC"
+  },
+  {
+    "id": 4205,
+    "name": "Grande Florianópolis",
+    "state": "SC"
+  },
+  {
+    "id": 4206,
+    "name": "Sul Catarinense",
+    "state": "SC"
+  },
+  {
+    "id": 4301,
+    "name": "Noroeste Rio-grandense",
+    "state": "RS"
+  },
+  {
+    "id": 4302,
+    "name": "Nordeste Rio-grandense",
+    "state": "RS"
+  },
+  {
+    "id": 4303,
+    "name": "Centro Ocidental Rio-grandense",
+    "state": "RS"
+  },
+  {
+    "id": 4304,
+    "name": "Centro Oriental Rio-grandense",
+    "state": "RS"
+  },
+  {
+    "id": 4305,
+    "name": "Metropolitana de Porto Alegre",
+    "state": "RS"
+  },
+  {
+    "id": 4306,
+    "name": "Sudoeste Rio-grandense",
+    "state": "RS"
+  },
+  {
+    "id": 4307,
+    "name": "Sudeste Rio-grandense",
+    "state": "RS"
+  },
+  {
+    "id": 5001,
+    "name": "Pantanais Sul Mato-grossense",
+    "state": "MS"
+  },
+  {
+    "id": 5002,
+    "name": "Centro Norte de Mato Grosso do Sul",
+    "state": "MS"
+  },
+  {
+    "id": 5003,
+    "name": "Leste de Mato Grosso do Sul",
+    "state": "MS"
+  },
+  {
+    "id": 5004,
+    "name": "Sudoeste de Mato Grosso do Sul",
+    "state": "MS"
+  },
+  {
+    "id": 5101,
+    "name": "Norte Mato-grossense",
+    "state": "MT"
+  },
+  {
+    "id": 5102,
+    "name": "Nordeste Mato-grossense",
+    "state": "MT"
+  },
+  {
+    "id": 5103,
+    "name": "Sudoeste Mato-grossense",
+    "state": "MT"
+  },
+  {
+    "id": 5104,
+    "name": "Centro-Sul Mato-grossense",
+    "state": "MT"
+  },
+  {
+    "id": 5105,
+    "name": "Sudeste Mato-grossense",
+    "state": "MT"
+  },
+  {
+    "id": 5201,
+    "name": "Noroeste Goiano",
+    "state": "GO"
+  },
+  {
+    "id": 5202,
+    "name": "Norte Goiano",
+    "state": "GO"
+  },
+  {
+    "id": 5203,
+    "name": "Centro Goiano",
+    "state": "GO"
+  },
+  {
+    "id": 5204,
+    "name": "Leste Goiano",
+    "state": "GO"
+  },
+  {
+    "id": 5205,
+    "name": "Sul Goiano",
+    "state": "GO"
+  },
+  {
+    "id": 5301,
+    "name": "Distrito Federal",
+    "state": "DF"
+  }
+]

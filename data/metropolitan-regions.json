@@ -1,0 +1,372 @@
+[
+  {
+    "id": 1101,
+    "name": "Porto Velho",
+    "state": "RO"
+  },
+  {
+    "id": 1301,
+    "name": "Manaus",
+    "state": "AM"
+  },
+  {
+    "id": 1401,
+    "name": "Capital",
+    "state": "RR"
+  },
+  {
+    "id": 1402,
+    "name": "Central",
+    "state": "RR"
+  },
+  {
+    "id": 1403,
+    "name": "Sul do Estado",
+    "state": "RR"
+  },
+  {
+    "id": 1501,
+    "name": "Belém",
+    "state": "PA"
+  },
+  {
+    "id": 1502,
+    "name": "Santarém",
+    "state": "PA"
+  },
+  {
+    "id": 1601,
+    "name": "Macapá",
+    "state": "AP"
+  },
+  {
+    "id": 1701,
+    "name": "Palmas",
+    "state": "TO"
+  },
+  {
+    "id": 1702,
+    "name": "Gurupi",
+    "state": "TO"
+  },
+  {
+    "id": 2101,
+    "name": "Grande São Luís",
+    "state": "MA"
+  },
+  {
+    "id": 2102,
+    "name": "Sudoeste Maranhense",
+    "state": "MA"
+  },
+  {
+    "id": 2301,
+    "name": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 2302,
+    "name": "Cariri",
+    "state": "CE"
+  },
+  {
+    "id": 2303,
+    "name": "Sobral",
+    "state": "CE"
+  },
+  {
+    "id": 2401,
+    "name": "Natal",
+    "state": "RN"
+  },
+  {
+    "id": 2501,
+    "name": "João Pessoa",
+    "state": "PB"
+  },
+  {
+    "id": 2502,
+    "name": "Campina Grande",
+    "state": "PB"
+  },
+  {
+    "id": 2503,
+    "name": "Guarabira",
+    "state": "PB"
+  },
+  {
+    "id": 2504,
+    "name": "Patos",
+    "state": "PB"
+  },
+  {
+    "id": 2505,
+    "name": "Cajazeiras",
+    "state": "PB"
+  },
+  {
+    "id": 2506,
+    "name": "Esperança",
+    "state": "PB"
+  },
+  {
+    "id": 2507,
+    "name": "Vale do Piancó",
+    "state": "PB"
+  },
+  {
+    "id": 2508,
+    "name": "Barra de Santa Rosa",
+    "state": "PB"
+  },
+  {
+    "id": 2509,
+    "name": "Araruna",
+    "state": "PB"
+  },
+  {
+    "id": 2510,
+    "name": "Itabaiana",
+    "state": "PB"
+  },
+  {
+    "id": 2511,
+    "name": "Sousa",
+    "state": "PB"
+  },
+  {
+    "id": 2512,
+    "name": "Vale do Mamanguape",
+    "state": "PB"
+  },
+  {
+    "id": 2601,
+    "name": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 2701,
+    "name": "Maceió",
+    "state": "AL"
+  },
+  {
+    "id": 2702,
+    "name": "Agreste",
+    "state": "AL"
+  },
+  {
+    "id": 2703,
+    "name": "Vale do Paraíba",
+    "state": "AL"
+  },
+  {
+    "id": 2704,
+    "name": "Zona da Mata",
+    "state": "AL"
+  },
+  {
+    "id": 2705,
+    "name": "Palmeira dos Índios",
+    "state": "AL"
+  },
+  {
+    "id": 2706,
+    "name": "Caetés",
+    "state": "AL"
+  },
+  {
+    "id": 2707,
+    "name": "Sertão",
+    "state": "AL"
+  },
+  {
+    "id": 2708,
+    "name": "Médio Sertão",
+    "state": "AL"
+  },
+  {
+    "id": 2709,
+    "name": "São Francisco",
+    "state": "AL"
+  },
+  {
+    "id": 2801,
+    "name": "Aracaju",
+    "state": "SE"
+  },
+  {
+    "id": 2901,
+    "name": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2902,
+    "name": "Feira de Santana",
+    "state": "BA"
+  },
+  {
+    "id": 3101,
+    "name": "Belo Horizonte",
+    "state": "MG"
+  },
+  {
+    "id": 3102,
+    "name": "Vale do Aço",
+    "state": "MG"
+  },
+  {
+    "id": 3201,
+    "name": "Grande Vitória",
+    "state": "ES"
+  },
+  {
+    "id": 3301,
+    "name": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3501,
+    "name": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3502,
+    "name": "Baixada Santista",
+    "state": "SP"
+  },
+  {
+    "id": 3503,
+    "name": "Campinas",
+    "state": "SP"
+  },
+  {
+    "id": 3504,
+    "name": "Vale do Paraíba e Litoral Norte",
+    "state": "SP"
+  },
+  {
+    "id": 3505,
+    "name": "Sorocaba",
+    "state": "SP"
+  },
+  {
+    "id": 3506,
+    "name": "Ribeirão Preto",
+    "state": "SP"
+  },
+  {
+    "id": 4101,
+    "name": "Curitiba",
+    "state": "PR"
+  },
+  {
+    "id": 4102,
+    "name": "Londrina",
+    "state": "PR"
+  },
+  {
+    "id": 4103,
+    "name": "Maringá",
+    "state": "PR"
+  },
+  {
+    "id": 4104,
+    "name": "Umuarama",
+    "state": "PR"
+  },
+  {
+    "id": 4105,
+    "name": "Apucarana",
+    "state": "PR"
+  },
+  {
+    "id": 4106,
+    "name": "Campo Mourão",
+    "state": "PR"
+  },
+  {
+    "id": 4107,
+    "name": "Cascavel",
+    "state": "PR"
+  },
+  {
+    "id": 4108,
+    "name": "Toledo",
+    "state": "PR"
+  },
+  {
+    "id": 4201,
+    "name": "Florianópolis",
+    "state": "SC"
+  },
+  {
+    "id": 4202,
+    "name": "Norte/Nordeste Catarinense",
+    "state": "SC"
+  },
+  {
+    "id": 4203,
+    "name": "Vale do Itajaí",
+    "state": "SC"
+  },
+  {
+    "id": 4204,
+    "name": "Carbonífera",
+    "state": "SC"
+  },
+  {
+    "id": 4205,
+    "name": "Foz do Rio Itajaí",
+    "state": "SC"
+  },
+  {
+    "id": 4206,
+    "name": "Tubarão",
+    "state": "SC"
+  },
+  {
+    "id": 4207,
+    "name": "Alto Vale do Itajaí",
+    "state": "SC"
+  },
+  {
+    "id": 4208,
+    "name": "Chapecó",
+    "state": "SC"
+  },
+  {
+    "id": 4209,
+    "name": "Lages",
+    "state": "SC"
+  },
+  {
+    "id": 4210,
+    "name": "Contestado",
+    "state": "SC"
+  },
+  {
+    "id": 4211,
+    "name": "Extremo Oeste",
+    "state": "SC"
+  },
+  {
+    "id": 4301,
+    "name": "Porto Alegre",
+    "state": "RS"
+  },
+  {
+    "id": 4302,
+    "name": "Serra Gaúcha",
+    "state": "RS"
+  },
+  {
+    "id": 5101,
+    "name": "Vale do Rio Cuiabá",
+    "state": "MT"
+  },
+  {
+    "id": 5201,
+    "name": "Goiânia",
+    "state": "GO"
+  }
+]

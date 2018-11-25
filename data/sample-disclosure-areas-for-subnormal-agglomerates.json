@@ -1,0 +1,1928 @@
+[
+  {
+    "id": 1100205001,
+    "name": "Porto Velho 1",
+    "city": "Porto Velho",
+    "state": "RO"
+  },
+  {
+    "id": 1100205002,
+    "name": "Porto Velho 2",
+    "city": "Porto Velho",
+    "state": "RO"
+  },
+  {
+    "id": 1100205003,
+    "name": "Porto Velho 3",
+    "city": "Porto Velho",
+    "state": "RO"
+  },
+  {
+    "id": 1200401001,
+    "name": "Rio Branco 1",
+    "city": "Rio Branco",
+    "state": "AC"
+  },
+  {
+    "id": 1200401002,
+    "name": "Rio Branco 2",
+    "city": "Rio Branco",
+    "state": "AC"
+  },
+  {
+    "id": 1302603001,
+    "name": "Manaus 1",
+    "city": "Manaus",
+    "state": "AM"
+  },
+  {
+    "id": 1302603002,
+    "name": "Manaus 2",
+    "city": "Manaus",
+    "state": "AM"
+  },
+  {
+    "id": 1302603003,
+    "name": "Manaus 3",
+    "city": "Manaus",
+    "state": "AM"
+  },
+  {
+    "id": 1302603004,
+    "name": "Manaus 4",
+    "city": "Manaus",
+    "state": "AM"
+  },
+  {
+    "id": 1302603005,
+    "name": "Manaus 5",
+    "city": "Manaus",
+    "state": "AM"
+  },
+  {
+    "id": 1500800001,
+    "name": "Ananindeua 1",
+    "city": "Ananindeua",
+    "state": "PA"
+  },
+  {
+    "id": 1500800002,
+    "name": "Ananindeua 2",
+    "city": "Ananindeua",
+    "state": "PA"
+  },
+  {
+    "id": 1500800003,
+    "name": "Ananindeua 3",
+    "city": "Ananindeua",
+    "state": "PA"
+  },
+  {
+    "id": 1500800004,
+    "name": "Ananindeua 4",
+    "city": "Ananindeua",
+    "state": "PA"
+  },
+  {
+    "id": 1501402001,
+    "name": "Belém 1",
+    "city": "Belém",
+    "state": "PA"
+  },
+  {
+    "id": 1501402002,
+    "name": "Belém 2",
+    "city": "Belém",
+    "state": "PA"
+  },
+  {
+    "id": 1501402003,
+    "name": "Belém 3",
+    "city": "Belém",
+    "state": "PA"
+  },
+  {
+    "id": 1501402004,
+    "name": "Belém 4",
+    "city": "Belém",
+    "state": "PA"
+  },
+  {
+    "id": 1501402005,
+    "name": "Belém 5",
+    "city": "Belém",
+    "state": "PA"
+  },
+  {
+    "id": 1501402006,
+    "name": "Belém 6",
+    "city": "Belém",
+    "state": "PA"
+  },
+  {
+    "id": 1501402007,
+    "name": "Belém 7",
+    "city": "Belém",
+    "state": "PA"
+  },
+  {
+    "id": 1501402008,
+    "name": "Belém 8",
+    "city": "Belém",
+    "state": "PA"
+  },
+  {
+    "id": 1501402009,
+    "name": "Belém 9",
+    "city": "Belém",
+    "state": "PA"
+  },
+  {
+    "id": 1501402010,
+    "name": "Belém 10",
+    "city": "Belém",
+    "state": "PA"
+  },
+  {
+    "id": 1501402011,
+    "name": "Belém 11",
+    "city": "Belém",
+    "state": "PA"
+  },
+  {
+    "id": 1501402012,
+    "name": "Belém 12",
+    "city": "Belém",
+    "state": "PA"
+  },
+  {
+    "id": 1504208001,
+    "name": "Marabá 1",
+    "city": "Marabá",
+    "state": "PA"
+  },
+  {
+    "id": 1504422001,
+    "name": "Marituba 1",
+    "city": "Marituba",
+    "state": "PA"
+  },
+  {
+    "id": 1506807001,
+    "name": "Santarém 1",
+    "city": "Santarém",
+    "state": "PA"
+  },
+  {
+    "id": 1506807002,
+    "name": "Santarém 2",
+    "city": "Santarém",
+    "state": "PA"
+  },
+  {
+    "id": 1506807003,
+    "name": "Santarém 3",
+    "city": "Santarém",
+    "state": "PA"
+  },
+  {
+    "id": 1508100001,
+    "name": "Tucuruí 1",
+    "city": "Tucuruí",
+    "state": "PA"
+  },
+  {
+    "id": 1600303001,
+    "name": "Macapá 1",
+    "city": "Macapá",
+    "state": "AP"
+  },
+  {
+    "id": 1600303002,
+    "name": "Macapá 2",
+    "city": "Macapá",
+    "state": "AP"
+  },
+  {
+    "id": 1600303003,
+    "name": "Macapá 3",
+    "city": "Macapá",
+    "state": "AP"
+  },
+  {
+    "id": 2111201001,
+    "name": "São José de Ribamar 1",
+    "city": "São José de Ribamar",
+    "state": "MA"
+  },
+  {
+    "id": 2111201002,
+    "name": "São José de Ribamar 2",
+    "city": "São José de Ribamar",
+    "state": "MA"
+  },
+  {
+    "id": 2111300001,
+    "name": "São Luís 1",
+    "city": "São Luís",
+    "state": "MA"
+  },
+  {
+    "id": 2111300002,
+    "name": "São Luís 2",
+    "city": "São Luís",
+    "state": "MA"
+  },
+  {
+    "id": 2111300003,
+    "name": "São Luís 3",
+    "city": "São Luís",
+    "state": "MA"
+  },
+  {
+    "id": 2111300004,
+    "name": "São Luís 4",
+    "city": "São Luís",
+    "state": "MA"
+  },
+  {
+    "id": 2111300005,
+    "name": "São Luís 5",
+    "city": "São Luís",
+    "state": "MA"
+  },
+  {
+    "id": 2112209001,
+    "name": "Timon 1",
+    "city": "Timon",
+    "state": "MA"
+  },
+  {
+    "id": 2211001001,
+    "name": "Teresina 1",
+    "city": "Teresina",
+    "state": "PI"
+  },
+  {
+    "id": 2211001002,
+    "name": "Teresina 2",
+    "city": "Teresina",
+    "state": "PI"
+  },
+  {
+    "id": 2211001003,
+    "name": "Teresina 3",
+    "city": "Teresina",
+    "state": "PI"
+  },
+  {
+    "id": 2211001004,
+    "name": "Teresina 4",
+    "city": "Teresina",
+    "state": "PI"
+  },
+  {
+    "id": 2303709001,
+    "name": "Caucaia 1",
+    "city": "Caucaia",
+    "state": "CE"
+  },
+  {
+    "id": 2304400001,
+    "name": "Fortaleza 1",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 2304400002,
+    "name": "Fortaleza 2",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 2304400003,
+    "name": "Fortaleza 3",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 2304400004,
+    "name": "Fortaleza 4",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 2304400005,
+    "name": "Fortaleza 5",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 2304400006,
+    "name": "Fortaleza 6",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 2304400007,
+    "name": "Fortaleza 7",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 2304400008,
+    "name": "Fortaleza 8",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 2304400009,
+    "name": "Fortaleza 9",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 2304400010,
+    "name": "Fortaleza 10",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 2408102001,
+    "name": "Natal 1",
+    "city": "Natal",
+    "state": "RN"
+  },
+  {
+    "id": 2408102002,
+    "name": "Natal 2",
+    "city": "Natal",
+    "state": "RN"
+  },
+  {
+    "id": 2504009001,
+    "name": "Campina Grande 1",
+    "city": "Campina Grande",
+    "state": "PB"
+  },
+  {
+    "id": 2507507001,
+    "name": "João Pessoa 1",
+    "city": "João Pessoa",
+    "state": "PB"
+  },
+  {
+    "id": 2507507002,
+    "name": "João Pessoa 2",
+    "city": "João Pessoa",
+    "state": "PB"
+  },
+  {
+    "id": 2602902001,
+    "name": "Cabo de Santo Agostinho 1",
+    "city": "Cabo de Santo Agostinho",
+    "state": "PE"
+  },
+  {
+    "id": 2602902002,
+    "name": "Cabo de Santo Agostinho 2",
+    "city": "Cabo de Santo Agostinho",
+    "state": "PE"
+  },
+  {
+    "id": 2602902003,
+    "name": "Cabo de Santo Agostinho 3",
+    "city": "Cabo de Santo Agostinho",
+    "state": "PE"
+  },
+  {
+    "id": 2602902004,
+    "name": "Cabo de Santo Agostinho 4",
+    "city": "Cabo de Santo Agostinho",
+    "state": "PE"
+  },
+  {
+    "id": 2604106001,
+    "name": "Caruaru 1",
+    "city": "Caruaru",
+    "state": "PE"
+  },
+  {
+    "id": 2607901001,
+    "name": "Jaboatão dos Guararapes 1",
+    "city": "Jaboatão dos Guararapes",
+    "state": "PE"
+  },
+  {
+    "id": 2607901002,
+    "name": "Jaboatão dos Guararapes 2",
+    "city": "Jaboatão dos Guararapes",
+    "state": "PE"
+  },
+  {
+    "id": 2607901003,
+    "name": "Jaboatão dos Guararapes 3",
+    "city": "Jaboatão dos Guararapes",
+    "state": "PE"
+  },
+  {
+    "id": 2607901004,
+    "name": "Jaboatão dos Guararapes 4",
+    "city": "Jaboatão dos Guararapes",
+    "state": "PE"
+  },
+  {
+    "id": 2607901005,
+    "name": "Jaboatão dos Guararapes 5",
+    "city": "Jaboatão dos Guararapes",
+    "state": "PE"
+  },
+  {
+    "id": 2609600001,
+    "name": "Olinda 1",
+    "city": "Olinda",
+    "state": "PE"
+  },
+  {
+    "id": 2609600002,
+    "name": "Olinda 2",
+    "city": "Olinda",
+    "state": "PE"
+  },
+  {
+    "id": 2609600003,
+    "name": "Olinda 3",
+    "city": "Olinda",
+    "state": "PE"
+  },
+  {
+    "id": 2609600004,
+    "name": "Olinda 4",
+    "city": "Olinda",
+    "state": "PE"
+  },
+  {
+    "id": 2609600005,
+    "name": "Olinda 5",
+    "city": "Olinda",
+    "state": "PE"
+  },
+  {
+    "id": 2610707001,
+    "name": "Paulista 1",
+    "city": "Paulista",
+    "state": "PE"
+  },
+  {
+    "id": 2610707002,
+    "name": "Paulista 2",
+    "city": "Paulista",
+    "state": "PE"
+  },
+  {
+    "id": 2611606001,
+    "name": "Recife 1",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 2611606002,
+    "name": "Recife 2",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 2611606003,
+    "name": "Recife 3",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 2611606004,
+    "name": "Recife 4",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 2611606005,
+    "name": "Recife 5",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 2611606006,
+    "name": "Recife 6",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 2611606007,
+    "name": "Recife 7",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 2611606008,
+    "name": "Recife 8",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 2704302001,
+    "name": "Maceió 1",
+    "city": "Maceió",
+    "state": "AL"
+  },
+  {
+    "id": 2704302002,
+    "name": "Maceió 2",
+    "city": "Maceió",
+    "state": "AL"
+  },
+  {
+    "id": 2704302003,
+    "name": "Maceió 3",
+    "city": "Maceió",
+    "state": "AL"
+  },
+  {
+    "id": 2800308001,
+    "name": "Aracaju 1",
+    "city": "Aracaju",
+    "state": "SE"
+  },
+  {
+    "id": 2800308002,
+    "name": "Aracaju 2",
+    "city": "Aracaju",
+    "state": "SE"
+  },
+  {
+    "id": 2804805001,
+    "name": "Nossa Senhora do Socorro 1",
+    "city": "Nossa Senhora do Socorro",
+    "state": "SE"
+  },
+  {
+    "id": 2905701001,
+    "name": "Camaçari 1",
+    "city": "Camaçari",
+    "state": "BA"
+  },
+  {
+    "id": 2913606001,
+    "name": "Ilhéus 1",
+    "city": "Ilhéus",
+    "state": "BA"
+  },
+  {
+    "id": 2913606002,
+    "name": "Ilhéus 2",
+    "city": "Ilhéus",
+    "state": "BA"
+  },
+  {
+    "id": 2927408001,
+    "name": "Salvador 1",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408002,
+    "name": "Salvador 2",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408003,
+    "name": "Salvador 3",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408004,
+    "name": "Salvador 4",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408005,
+    "name": "Salvador 5",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408006,
+    "name": "Salvador 6",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408007,
+    "name": "Salvador 7",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408008,
+    "name": "Salvador 8",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408009,
+    "name": "Salvador 9",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408010,
+    "name": "Salvador 10",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408011,
+    "name": "Salvador 11",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408012,
+    "name": "Salvador 12",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408013,
+    "name": "Salvador 13",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408014,
+    "name": "Salvador 14",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408015,
+    "name": "Salvador 15",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408016,
+    "name": "Salvador 16",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408017,
+    "name": "Salvador 17",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408018,
+    "name": "Salvador 18",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408019,
+    "name": "Salvador 19",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408020,
+    "name": "Salvador 20",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408021,
+    "name": "Salvador 21",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 2927408022,
+    "name": "Salvador 22",
+    "city": "Salvador",
+    "state": "BA"
+  },
+  {
+    "id": 3106200001,
+    "name": "Belo Horizonte 1",
+    "city": "Belo Horizonte",
+    "state": "MG"
+  },
+  {
+    "id": 3106200002,
+    "name": "Belo Horizonte 2",
+    "city": "Belo Horizonte",
+    "state": "MG"
+  },
+  {
+    "id": 3106200003,
+    "name": "Belo Horizonte 3",
+    "city": "Belo Horizonte",
+    "state": "MG"
+  },
+  {
+    "id": 3106200004,
+    "name": "Belo Horizonte 4",
+    "city": "Belo Horizonte",
+    "state": "MG"
+  },
+  {
+    "id": 3106200005,
+    "name": "Belo Horizonte 5",
+    "city": "Belo Horizonte",
+    "state": "MG"
+  },
+  {
+    "id": 3106200006,
+    "name": "Belo Horizonte 6",
+    "city": "Belo Horizonte",
+    "state": "MG"
+  },
+  {
+    "id": 3106200007,
+    "name": "Belo Horizonte 7",
+    "city": "Belo Horizonte",
+    "state": "MG"
+  },
+  {
+    "id": 3106200008,
+    "name": "Belo Horizonte 8",
+    "city": "Belo Horizonte",
+    "state": "MG"
+  },
+  {
+    "id": 3106705001,
+    "name": "Betim 1",
+    "city": "Betim",
+    "state": "MG"
+  },
+  {
+    "id": 3106705002,
+    "name": "Betim 2",
+    "city": "Betim",
+    "state": "MG"
+  },
+  {
+    "id": 3113404001,
+    "name": "Caratinga 1",
+    "city": "Caratinga",
+    "state": "MG"
+  },
+  {
+    "id": 3118601001,
+    "name": "Contagem 1",
+    "city": "Contagem",
+    "state": "MG"
+  },
+  {
+    "id": 3118601002,
+    "name": "Contagem 2",
+    "city": "Contagem",
+    "state": "MG"
+  },
+  {
+    "id": 3119401001,
+    "name": "Coronel Fabriciano 1",
+    "city": "Coronel Fabriciano",
+    "state": "MG"
+  },
+  {
+    "id": 3129806001,
+    "name": "Ibirité 1",
+    "city": "Ibirité",
+    "state": "MG"
+  },
+  {
+    "id": 3143302001,
+    "name": "Montes Claros 1",
+    "city": "Montes Claros",
+    "state": "MG"
+  },
+  {
+    "id": 3154606001,
+    "name": "Ribeirão das Neves 1",
+    "city": "Ribeirão das Neves",
+    "state": "MG"
+  },
+  {
+    "id": 3157807001,
+    "name": "Santa Luzia 1",
+    "city": "Santa Luzia",
+    "state": "MG"
+  },
+  {
+    "id": 3171204001,
+    "name": "Vespasiano 1",
+    "city": "Vespasiano",
+    "state": "MG"
+  },
+  {
+    "id": 3201209001,
+    "name": "Cachoeiro de Itapemirim 1",
+    "city": "Cachoeiro de Itapemirim",
+    "state": "ES"
+  },
+  {
+    "id": 3201308001,
+    "name": "Cariacica 1",
+    "city": "Cariacica",
+    "state": "ES"
+  },
+  {
+    "id": 3202405001,
+    "name": "Guarapari 1",
+    "city": "Guarapari",
+    "state": "ES"
+  },
+  {
+    "id": 3203205001,
+    "name": "Linhares 1",
+    "city": "Linhares",
+    "state": "ES"
+  },
+  {
+    "id": 3204906001,
+    "name": "São Mateus 1",
+    "city": "São Mateus",
+    "state": "ES"
+  },
+  {
+    "id": 3205002001,
+    "name": "Serra 1",
+    "city": "Serra",
+    "state": "ES"
+  },
+  {
+    "id": 3205002002,
+    "name": "Serra 2",
+    "city": "Serra",
+    "state": "ES"
+  },
+  {
+    "id": 3205200001,
+    "name": "Vila Velha 1",
+    "city": "Vila Velha",
+    "state": "ES"
+  },
+  {
+    "id": 3205200002,
+    "name": "Vila Velha 2",
+    "city": "Vila Velha",
+    "state": "ES"
+  },
+  {
+    "id": 3205200003,
+    "name": "Vila Velha 3",
+    "city": "Vila Velha",
+    "state": "ES"
+  },
+  {
+    "id": 3205309001,
+    "name": "Vitória 1",
+    "city": "Vitória",
+    "state": "ES"
+  },
+  {
+    "id": 3300100001,
+    "name": "Angra dos Reis 1",
+    "city": "Angra dos Reis",
+    "state": "RJ"
+  },
+  {
+    "id": 3300100002,
+    "name": "Angra dos Reis 2",
+    "city": "Angra dos Reis",
+    "state": "RJ"
+  },
+  {
+    "id": 3300100003,
+    "name": "Angra dos Reis 3",
+    "city": "Angra dos Reis",
+    "state": "RJ"
+  },
+  {
+    "id": 3300209001,
+    "name": "Araruama 1",
+    "city": "Araruama",
+    "state": "RJ"
+  },
+  {
+    "id": 3300456001,
+    "name": "Belford Roxo 1",
+    "city": "Belford Roxo",
+    "state": "RJ"
+  },
+  {
+    "id": 3300704001,
+    "name": "Cabo Frio 1",
+    "city": "Cabo Frio",
+    "state": "RJ"
+  },
+  {
+    "id": 3300704002,
+    "name": "Cabo Frio 2",
+    "city": "Cabo Frio",
+    "state": "RJ"
+  },
+  {
+    "id": 3301009001,
+    "name": "Campos dos Goytacazes 1",
+    "city": "Campos dos Goytacazes",
+    "state": "RJ"
+  },
+  {
+    "id": 3301702001,
+    "name": "Duque de Caxias 1",
+    "city": "Duque de Caxias",
+    "state": "RJ"
+  },
+  {
+    "id": 3301702002,
+    "name": "Duque de Caxias 2",
+    "city": "Duque de Caxias",
+    "state": "RJ"
+  },
+  {
+    "id": 3302403001,
+    "name": "Macaé 1",
+    "city": "Macaé",
+    "state": "RJ"
+  },
+  {
+    "id": 3302403002,
+    "name": "Macaé 2",
+    "city": "Macaé",
+    "state": "RJ"
+  },
+  {
+    "id": 3302403003,
+    "name": "Macaé 3",
+    "city": "Macaé",
+    "state": "RJ"
+  },
+  {
+    "id": 3302502001,
+    "name": "Magé 1",
+    "city": "Magé",
+    "state": "RJ"
+  },
+  {
+    "id": 3303302001,
+    "name": "Niterói 1",
+    "city": "Niterói",
+    "state": "RJ"
+  },
+  {
+    "id": 3303302002,
+    "name": "Niterói 2",
+    "city": "Niterói",
+    "state": "RJ"
+  },
+  {
+    "id": 3303302003,
+    "name": "Niterói 3",
+    "city": "Niterói",
+    "state": "RJ"
+  },
+  {
+    "id": 3303302004,
+    "name": "Niterói 4",
+    "city": "Niterói",
+    "state": "RJ"
+  },
+  {
+    "id": 3303906001,
+    "name": "Petrópolis 1",
+    "city": "Petrópolis",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557001,
+    "name": "Rio de Janeiro 1",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557002,
+    "name": "Rio de Janeiro 2",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557003,
+    "name": "Rio de Janeiro 3",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557004,
+    "name": "Rio de Janeiro 4",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557005,
+    "name": "Rio de Janeiro 5",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557006,
+    "name": "Rio de Janeiro 6",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557007,
+    "name": "Rio de Janeiro 7",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557008,
+    "name": "Rio de Janeiro 8",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557009,
+    "name": "Rio de Janeiro 9",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557010,
+    "name": "Rio de Janeiro 10",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557011,
+    "name": "Rio de Janeiro 11",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557012,
+    "name": "Rio de Janeiro 12",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557013,
+    "name": "Rio de Janeiro 13",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557014,
+    "name": "Rio de Janeiro 14",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557015,
+    "name": "Rio de Janeiro 15",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557016,
+    "name": "Rio de Janeiro 16",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557017,
+    "name": "Rio de Janeiro 17",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557018,
+    "name": "Rio de Janeiro 18",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557019,
+    "name": "Rio de Janeiro 19",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557020,
+    "name": "Rio de Janeiro 20",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557021,
+    "name": "Rio de Janeiro 21",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557022,
+    "name": "Rio de Janeiro 22",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557023,
+    "name": "Rio de Janeiro 23",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557024,
+    "name": "Rio de Janeiro 24",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557025,
+    "name": "Rio de Janeiro 25",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557026,
+    "name": "Rio de Janeiro 26",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557027,
+    "name": "Rio de Janeiro 27",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557028,
+    "name": "Rio de Janeiro 28",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557029,
+    "name": "Rio de Janeiro 29",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557030,
+    "name": "Rio de Janeiro 30",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557031,
+    "name": "Rio de Janeiro 31",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557032,
+    "name": "Rio de Janeiro 32",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557033,
+    "name": "Rio de Janeiro 33",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557034,
+    "name": "Rio de Janeiro 34",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557035,
+    "name": "Rio de Janeiro 35",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557036,
+    "name": "Rio de Janeiro 36",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3304557037,
+    "name": "Rio de Janeiro 37",
+    "city": "Rio de Janeiro",
+    "state": "RJ"
+  },
+  {
+    "id": 3305109001,
+    "name": "São João de Meriti 1",
+    "city": "São João de Meriti",
+    "state": "RJ"
+  },
+  {
+    "id": 3305109002,
+    "name": "São João de Meriti 2",
+    "city": "São João de Meriti",
+    "state": "RJ"
+  },
+  {
+    "id": 3305802001,
+    "name": "Teresópolis 1",
+    "city": "Teresópolis",
+    "state": "RJ"
+  },
+  {
+    "id": 3305802002,
+    "name": "Teresópolis 2",
+    "city": "Teresópolis",
+    "state": "RJ"
+  },
+  {
+    "id": 3306305001,
+    "name": "Volta Redonda 1",
+    "city": "Volta Redonda",
+    "state": "RJ"
+  },
+  {
+    "id": 3306305002,
+    "name": "Volta Redonda 2",
+    "city": "Volta Redonda",
+    "state": "RJ"
+  },
+  {
+    "id": 3509502001,
+    "name": "Campinas 1",
+    "city": "Campinas",
+    "state": "SP"
+  },
+  {
+    "id": 3509502002,
+    "name": "Campinas 2",
+    "city": "Campinas",
+    "state": "SP"
+  },
+  {
+    "id": 3509502003,
+    "name": "Campinas 3",
+    "city": "Campinas",
+    "state": "SP"
+  },
+  {
+    "id": 3509502004,
+    "name": "Campinas 4",
+    "city": "Campinas",
+    "state": "SP"
+  },
+  {
+    "id": 3509502005,
+    "name": "Campinas 5",
+    "city": "Campinas",
+    "state": "SP"
+  },
+  {
+    "id": 3509502006,
+    "name": "Campinas 6",
+    "city": "Campinas",
+    "state": "SP"
+  },
+  {
+    "id": 3509502007,
+    "name": "Campinas 7",
+    "city": "Campinas",
+    "state": "SP"
+  },
+  {
+    "id": 3509502008,
+    "name": "Campinas 8",
+    "city": "Campinas",
+    "state": "SP"
+  },
+  {
+    "id": 3509502009,
+    "name": "Campinas 9",
+    "city": "Campinas",
+    "state": "SP"
+  },
+  {
+    "id": 3509502010,
+    "name": "Campinas 10",
+    "city": "Campinas",
+    "state": "SP"
+  },
+  {
+    "id": 3510609001,
+    "name": "Carapicuíba 1",
+    "city": "Carapicuíba",
+    "state": "SP"
+  },
+  {
+    "id": 3513504001,
+    "name": "Cubatão 1",
+    "city": "Cubatão",
+    "state": "SP"
+  },
+  {
+    "id": 3513504002,
+    "name": "Cubatão 2",
+    "city": "Cubatão",
+    "state": "SP"
+  },
+  {
+    "id": 3513504003,
+    "name": "Cubatão 3",
+    "city": "Cubatão",
+    "state": "SP"
+  },
+  {
+    "id": 3513801001,
+    "name": "Diadema 1",
+    "city": "Diadema",
+    "state": "SP"
+  },
+  {
+    "id": 3513801002,
+    "name": "Diadema 2",
+    "city": "Diadema",
+    "state": "SP"
+  },
+  {
+    "id": 3513801003,
+    "name": "Diadema 3",
+    "city": "Diadema",
+    "state": "SP"
+  },
+  {
+    "id": 3513801004,
+    "name": "Diadema 4",
+    "city": "Diadema",
+    "state": "SP"
+  },
+  {
+    "id": 3513801005,
+    "name": "Diadema 5",
+    "city": "Diadema",
+    "state": "SP"
+  },
+  {
+    "id": 3515004001,
+    "name": "Embu 1",
+    "city": "Embu das Artes",
+    "state": "SP"
+  },
+  {
+    "id": 3515004002,
+    "name": "Embu 2",
+    "city": "Embu das Artes",
+    "state": "SP"
+  },
+  {
+    "id": 3518701001,
+    "name": "Guarujá 1",
+    "city": "Guarujá",
+    "state": "SP"
+  },
+  {
+    "id": 3518701002,
+    "name": "Guarujá 2",
+    "city": "Guarujá",
+    "state": "SP"
+  },
+  {
+    "id": 3518701003,
+    "name": "Guarujá 3",
+    "city": "Guarujá",
+    "state": "SP"
+  },
+  {
+    "id": 3518800001,
+    "name": "Guarulhos 1",
+    "city": "Guarulhos",
+    "state": "SP"
+  },
+  {
+    "id": 3518800002,
+    "name": "Guarulhos 2",
+    "city": "Guarulhos",
+    "state": "SP"
+  },
+  {
+    "id": 3518800003,
+    "name": "Guarulhos 3",
+    "city": "Guarulhos",
+    "state": "SP"
+  },
+  {
+    "id": 3518800004,
+    "name": "Guarulhos 4",
+    "city": "Guarulhos",
+    "state": "SP"
+  },
+  {
+    "id": 3518800005,
+    "name": "Guarulhos 5",
+    "city": "Guarulhos",
+    "state": "SP"
+  },
+  {
+    "id": 3518800006,
+    "name": "Guarulhos 6",
+    "city": "Guarulhos",
+    "state": "SP"
+  },
+  {
+    "id": 3523107001,
+    "name": "Itaquaquecetuba 1",
+    "city": "Itaquaquecetuba",
+    "state": "SP"
+  },
+  {
+    "id": 3525904001,
+    "name": "Jundiaí 1",
+    "city": "Jundiaí",
+    "state": "SP"
+  },
+  {
+    "id": 3529401001,
+    "name": "Mauá 1",
+    "city": "Mauá",
+    "state": "SP"
+  },
+  {
+    "id": 3529401002,
+    "name": "Mauá 2",
+    "city": "Mauá",
+    "state": "SP"
+  },
+  {
+    "id": 3529401003,
+    "name": "Mauá 3",
+    "city": "Mauá",
+    "state": "SP"
+  },
+  {
+    "id": 3529401004,
+    "name": "Mauá 4",
+    "city": "Mauá",
+    "state": "SP"
+  },
+  {
+    "id": 3534401001,
+    "name": "Osasco 1",
+    "city": "Osasco",
+    "state": "SP"
+  },
+  {
+    "id": 3534401002,
+    "name": "Osasco 2",
+    "city": "Osasco",
+    "state": "SP"
+  },
+  {
+    "id": 3541000001,
+    "name": "Praia Grande 1",
+    "city": "Praia Grande",
+    "state": "SP"
+  },
+  {
+    "id": 3547809001,
+    "name": "Santo André 1",
+    "city": "Santo André",
+    "state": "SP"
+  },
+  {
+    "id": 3547809002,
+    "name": "Santo André 2",
+    "city": "Santo André",
+    "state": "SP"
+  },
+  {
+    "id": 3548500001,
+    "name": "Santos 1",
+    "city": "Santos",
+    "state": "SP"
+  },
+  {
+    "id": 3548500002,
+    "name": "Santos 2",
+    "city": "Santos",
+    "state": "SP"
+  },
+  {
+    "id": 3548500003,
+    "name": "Santos 3",
+    "city": "Santos",
+    "state": "SP"
+  },
+  {
+    "id": 3548500004,
+    "name": "Santos 4",
+    "city": "Santos",
+    "state": "SP"
+  },
+  {
+    "id": 3548708001,
+    "name": "São Bernardo do Campo 1",
+    "city": "São Bernardo do Campo",
+    "state": "SP"
+  },
+  {
+    "id": 3548708002,
+    "name": "São Bernardo do Campo 2",
+    "city": "São Bernardo do Campo",
+    "state": "SP"
+  },
+  {
+    "id": 3548708003,
+    "name": "São Bernardo do Campo 3",
+    "city": "São Bernardo do Campo",
+    "state": "SP"
+  },
+  {
+    "id": 3548708004,
+    "name": "São Bernardo do Campo 4",
+    "city": "São Bernardo do Campo",
+    "state": "SP"
+  },
+  {
+    "id": 3548708005,
+    "name": "São Bernardo do Campo 5",
+    "city": "São Bernardo do Campo",
+    "state": "SP"
+  },
+  {
+    "id": 3548708006,
+    "name": "São Bernardo do Campo 6",
+    "city": "São Bernardo do Campo",
+    "state": "SP"
+  },
+  {
+    "id": 3548708007,
+    "name": "São Bernardo do Campo 7",
+    "city": "São Bernardo do Campo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308001,
+    "name": "São Paulo 1",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308002,
+    "name": "São Paulo 2",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308003,
+    "name": "São Paulo 3",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308004,
+    "name": "São Paulo 4",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308005,
+    "name": "São Paulo 5",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308006,
+    "name": "São Paulo 6",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308007,
+    "name": "São Paulo 7",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308008,
+    "name": "São Paulo 8",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308009,
+    "name": "São Paulo 9",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308010,
+    "name": "São Paulo 10",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308011,
+    "name": "São Paulo 11",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308012,
+    "name": "São Paulo 12",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308013,
+    "name": "São Paulo 13",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308014,
+    "name": "São Paulo 14",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308015,
+    "name": "São Paulo 15",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308016,
+    "name": "São Paulo 16",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308017,
+    "name": "São Paulo 17",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308018,
+    "name": "São Paulo 18",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308019,
+    "name": "São Paulo 19",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308020,
+    "name": "São Paulo 20",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308021,
+    "name": "São Paulo 21",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308022,
+    "name": "São Paulo 22",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308023,
+    "name": "São Paulo 23",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308024,
+    "name": "São Paulo 24",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308025,
+    "name": "São Paulo 25",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308026,
+    "name": "São Paulo 26",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308027,
+    "name": "São Paulo 27",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3550308028,
+    "name": "São Paulo 28",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 3551009001,
+    "name": "São Vicente 1",
+    "city": "São Vicente",
+    "state": "SP"
+  },
+  {
+    "id": 3551009002,
+    "name": "São Vicente 2",
+    "city": "São Vicente",
+    "state": "SP"
+  },
+  {
+    "id": 3551009003,
+    "name": "São Vicente 3",
+    "city": "São Vicente",
+    "state": "SP"
+  },
+  {
+    "id": 3552809001,
+    "name": "Taboão da Serra 1",
+    "city": "Taboão da Serra",
+    "state": "SP"
+  },
+  {
+    "id": 4106902001,
+    "name": "Curitiba 1",
+    "city": "Curitiba",
+    "state": "PR"
+  },
+  {
+    "id": 4106902002,
+    "name": "Curitiba 2",
+    "city": "Curitiba",
+    "state": "PR"
+  },
+  {
+    "id": 4106902003,
+    "name": "Curitiba 3",
+    "city": "Curitiba",
+    "state": "PR"
+  },
+  {
+    "id": 4106902004,
+    "name": "Curitiba 4",
+    "city": "Curitiba",
+    "state": "PR"
+  },
+  {
+    "id": 4106902005,
+    "name": "Curitiba 5",
+    "city": "Curitiba",
+    "state": "PR"
+  },
+  {
+    "id": 4202404001,
+    "name": "Blumenau 1",
+    "city": "Blumenau",
+    "state": "SC"
+  },
+  {
+    "id": 4205407001,
+    "name": "Florianópolis 1",
+    "city": "Florianópolis",
+    "state": "SC"
+  },
+  {
+    "id": 4305108001,
+    "name": "Caxias do Sul 1",
+    "city": "Caxias do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 4305108002,
+    "name": "Caxias do Sul 2",
+    "city": "Caxias do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 4305108003,
+    "name": "Caxias do Sul 3",
+    "city": "Caxias do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 4305108004,
+    "name": "Caxias do Sul 4",
+    "city": "Caxias do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 4305108005,
+    "name": "Caxias do Sul 5",
+    "city": "Caxias do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 4305108006,
+    "name": "Caxias do Sul 6",
+    "city": "Caxias do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 4305108007,
+    "name": "Caxias do Sul 7",
+    "city": "Caxias do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 4305108008,
+    "name": "Caxias do Sul 8",
+    "city": "Caxias do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 4305108009,
+    "name": "Caxias do Sul 9",
+    "city": "Caxias do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 4305108010,
+    "name": "Caxias do Sul 10",
+    "city": "Caxias do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 4313409001,
+    "name": "Novo Hamburgo 1",
+    "city": "Novo Hamburgo",
+    "state": "RS"
+  },
+  {
+    "id": 4314902001,
+    "name": "Porto Alegre 1",
+    "city": "Porto Alegre",
+    "state": "RS"
+  },
+  {
+    "id": 4314902002,
+    "name": "Porto Alegre 2",
+    "city": "Porto Alegre",
+    "state": "RS"
+  },
+  {
+    "id": 4314902003,
+    "name": "Porto Alegre 3",
+    "city": "Porto Alegre",
+    "state": "RS"
+  },
+  {
+    "id": 4314902004,
+    "name": "Porto Alegre 4",
+    "city": "Porto Alegre",
+    "state": "RS"
+  },
+  {
+    "id": 4314902005,
+    "name": "Porto Alegre 5",
+    "city": "Porto Alegre",
+    "state": "RS"
+  },
+  {
+    "id": 5103403001,
+    "name": "Cuiabá 1",
+    "city": "Cuiabá",
+    "state": "MT"
+  },
+  {
+    "id": 5300108001,
+    "name": "Brasília 1",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 5300108002,
+    "name": "Brasília 2",
+    "city": "Brasília",
+    "state": "DF"
+  }
+]
