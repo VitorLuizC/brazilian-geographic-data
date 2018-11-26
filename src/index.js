@@ -1,5 +1,5 @@
 import { createFolder } from './file';
-import { generateLevels } from './level';
+import { generateRawModules } from './raw';
 import { generateDataModules } from './data';
 
 (async () => {
@@ -9,7 +9,7 @@ import { generateDataModules } from './data';
       await createFolder('data')
     ]);
 
-    // await generateLevels();
+    await generateRawModules();
     await generateDataModules();
   } catch (error) {
     console.warn('Error: ' + (error && error.message));

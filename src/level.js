@@ -12,25 +12,7 @@ import { saveRawByLevel } from './raw';
  */
 
 /**
- * Map data to Level model.
- * @param {import('./raw').Raw} raw
- * @returns {Level}
+ * Open the level index file.
+ * @returns {Promise<Level[]>}
  */
-const mapToLevel = (raw) => ({
-  name: raw.Nivel.Nome,
-  level: raw.Nivel.Id,
-});
-
-/**
- * Sequentially save raw by levels and create levels file.
- * @returns {Promise<void>}
- */
-export const generateLevels = async () => {
-  const saves = Array(135).fill((level) =>
-    saveRawByLevel(level)
-      .then(mapToLevel)
-      .catch((error) => console.warn('Error: ' + (error && error.message)))
-  );
-  const levels = await sequentially(saves);
-  await createJSON('../index', levels.filter(identity));
-};
+export const openLevelIndex = async () => (await import('../index.json')).default;

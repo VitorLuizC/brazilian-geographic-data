@@ -1,6 +1,7 @@
 import { fetch } from './fetch';
-import { sleep } from './async';
+import { sleep, sequentially } from './async';
 import { createJSON } from './file';
+import { openLevelIndex } from './level';
 
 /**
  * URL of the geographic data source.
@@ -52,3 +53,13 @@ export const saveRawByLevel = async (level) => {
  * @returns {Promise<Raw>}
  */
 export const openRawByLevel = async (level) => import(`../raw/${level}.json`);
+
+/**
+ * Sequentially save raw by levels and create levels file.
+ * @returns {Promise<void>}
+ */
+export const generateRawModules = async () => {
+  const index = await openLevelIndex();
+  const requests = index.map((_) => saveRawByLevel.bind(null, _.level));
+  await sequentially(requests);
+};

@@ -1,6 +1,7 @@
 import { createJSON } from './file';
 import { isNotEmpty } from './string';
 import { openRawByLevel } from './raw';
+import { openLevelIndex } from './level';
 
 /**
  * Generate geographic data module from Level.
@@ -19,8 +20,8 @@ const generateFromLevel = async ({ name, level, module }) => {
  * @returns {Promise<void>}
  */
 export const generateDataModules = async () => {
-  const { default: modules } = await import('../index.json');
-  await Promise.all(modules.map(generateFromLevel));
+  const index = await openLevelIndex();
+  await Promise.all(index.map(generateFromLevel));
 };
 
 /**
