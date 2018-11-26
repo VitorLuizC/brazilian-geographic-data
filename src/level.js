@@ -6,8 +6,9 @@ import { saveRawByLevel } from './raw';
 /**
  * Level model.
  * @typedef {object} Level
- * @property {number} id
  * @property {string} name
+ * @property {number} level
+ * @property {string} [module]
  */
 
 /**
@@ -16,8 +17,8 @@ import { saveRawByLevel } from './raw';
  * @returns {Level}
  */
 const mapToLevel = (raw) => ({
-  id: raw.Nivel.Id,
-  name: raw.Nivel.Nome
+  name: raw.Nivel.Nome,
+  level: raw.Nivel.Id,
 });
 
 /**
@@ -31,5 +32,5 @@ export const generateLevels = async () => {
       .catch((error) => console.warn('Error: ' + (error && error.message)))
   );
   const levels = await sequentially(saves);
-  await createJSON('data/levels', levels.filter(identity));
+  await createJSON('../index', levels.filter(identity));
 };

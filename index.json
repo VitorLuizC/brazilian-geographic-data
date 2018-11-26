@@ -1,0 +1,199 @@
+[
+  {
+    "name": "Brasil",
+    "level": 1
+  },
+  {
+    "name": "Grande Região",
+    "level": 2,
+    "module": "regions"
+  },
+  {
+    "name": "Unidade da Federação",
+    "level": 3,
+    "module": "states"
+  },
+  {
+    "name": "Município",
+    "level": 6,
+    "module": "cities"
+  },
+  {
+    "name": "Região Metropolitana",
+    "level": 7,
+    "module": "metropolitan-regions"
+  },
+  {
+    "name": "Mesorregião Geográfica",
+    "level": 8,
+    "module": "geographic-mesoregions"
+  },
+  {
+    "name": "Microrregião Geográfica",
+    "level": 9,
+    "module": "geographic-microregions"
+  },
+  {
+    "name": "Distrito",
+    "level": 10,
+    "module": "districts"
+  },
+  {
+    "name": "Subdistrito",
+    "level": 11,
+    "module": "subdistricts"
+  },
+  {
+    "name": "Região Metropolitana e Subdivisão",
+    "level": 13,
+    "module": "metropolitan-subdivisions"
+  },
+  {
+    "name": "Região Integrada de Desenvolvimento",
+    "level": 14,
+    "module": "integrated-development-regions"
+  },
+  {
+    "name": "Aglomeração Urbana",
+    "level": 15,
+    "module": "urban-agglomerations"
+  },
+  {
+    "name": "Aglomerado Subnormal",
+    "level": 17,
+    "module": "subnormal-agglomerations"
+  },
+  {
+    "name": "Área de Ponderação",
+    "level": 18,
+    "module": "weighting-areas"
+  },
+  {
+    "name": "Área de Ponderação Recalculada",
+    "level": 19,
+    "module": "recalculated-weighting-areas"
+  },
+  {
+    "name": "Área de Divulgação da Amostra para Aglomerados Subnormais",
+    "level": 20,
+    "module": "sample-disclosure-areas-for-subnormal-agglomerates"
+  },
+  {
+    "name": "Total dos municípios das capitais da Grande Região",
+    "level": 21
+  },
+  {
+    "name": "Total dos municípios das capitais",
+    "level": 22
+  },
+  {
+    "name": "Arranjo Populacional",
+    "level": 23,
+    "module": "population-arrangements"
+  },
+  {
+    "name": "País do Mercosul, Bolívia e Chile",
+    "level": 101
+  },
+  {
+    "name": "Bairro",
+    "level": 102,
+    "module": "neighborhoods"
+  },
+  {
+    "name": "Total das áreas - POF",
+    "level": 103
+  },
+  {
+    "name": "Argentina",
+    "level": 104
+  },
+  {
+    "name": "Uruguai",
+    "level": 105
+  },
+  {
+    "name": "Paraguai",
+    "level": 106
+  },
+  {
+    "name": "Departamento - Paraguai",
+    "level": 107
+  },
+  {
+    "name": "Departamento - Uruguai",
+    "level": 108
+  },
+  {
+    "name": "Província",
+    "level": 109
+  },
+  {
+    "name": "Total das áreas - PME",
+    "level": 110
+  },
+  {
+    "name": "Unidade Federativa do Mercosul, Bolívia e Chile",
+    "level": 111
+  },
+  {
+    "name": "Grande Região - PIMES",
+    "level": 122
+  },
+  {
+    "name": "Bioma",
+    "level": 123
+  },
+  {
+    "name": "Corpo d'água",
+    "level": 124,
+    "module": "water-bodies"
+  },
+  {
+    "name": "Terra Indígena",
+    "level": 125,
+    "module": "indigenous-lands"
+  },
+  {
+    "name": "Unidade de Conservação Ambiental",
+    "level": 126,
+    "module": "environmental-conservation-units"
+  },
+  {
+    "name": "Núcleo de desertificação",
+    "level": 127,
+    "module": "desertification-nucleus"
+  },
+  {
+    "name": "Praia",
+    "level": 128,
+    "module": "beaches"
+  },
+  {
+    "name": "Território da Cidadania",
+    "level": 129,
+    "module": "citizenship-territories"
+  },
+  {
+    "name": "Capital/não capital de Unidade da Federação",
+    "level": 130
+  },
+  {
+    "name": "Amazônia Legal",
+    "level": 131
+  },
+  {
+    "name": "Semiárido",
+    "level": 132
+  },
+  {
+    "name": "Semiárido de Unidade da Federação",
+    "level": 133,
+    "module": "semiarid-federative-units"
+  },
+  {
+    "name": "Amazônia Legal de Unidade da Federação",
+    "level": 134,
+    "module": "legal-amazon-federation-units"
+  }
+]

@@ -3,15 +3,24 @@ import { isNotEmpty } from './string';
 import { openRawByLevel } from './raw';
 
 /**
- * Create geographic data module from raw.
- * @param {number} level Geographic data level.
- * @param {string} name Module name.
+ * Generate geographic data module from Level.
+ * @param {import('./level').Level} level
+ * @returns {Promise<void>}
  */
-export const createDataFromRaw = async (level, name) => {
+const generateFromLevel = async ({ name, level, module }) => {
+  if (!isNotEmpty(module))
+    return;
   const raw = await openRawByLevel(level);
-  if (raw.Nivel.Id !== level)
-    throw new Error(`Raw geographic data doesn't match info.`)
-  await createJSON('data/' + name, transformToData(raw));
+  await createJSON('data/' + module, transformToData(raw));
+};
+
+/**
+ * Generate geographic data modules using raw data.
+ * @returns {Promise<void>}
+ */
+export const generateDataModules = async () => {
+  const { default: modules } = await import('../index.json');
+  await Promise.all(modules.map(generateFromLevel));
 };
 
 /**
