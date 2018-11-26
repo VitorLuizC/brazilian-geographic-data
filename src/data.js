@@ -1,5 +1,6 @@
-import { openRawByLevel } from "./raw";
-import { createJSON } from "./file";
+import { createJSON } from './file';
+import { isNotEmpty } from './string';
+import { openRawByLevel } from './raw';
 
 /**
  * Create geographic data module from raw.
@@ -28,8 +29,6 @@ export const createDataFromRaw = async (level, name) => {
  * @returns {Data[]}
  */
 export const transformToData = (raw) => {
-  const isNotEmpty = value => !!(typeof value === 'string' && value.trim());
-
   return raw.Codigos.map((_, index) => {
     const city = raw.Complementos1[index];
     const state = raw.SiglasUF[index];
