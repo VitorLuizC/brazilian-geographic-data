@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "description": "Regions, states, cities, neighborhoods and other brazilian geographic data.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node -r esm src/index.js",
+    "test": "yarn check-types",
+    "start": "yarn test && node -r esm src/index.js",
     "check-types": "tsc -p jsconfig.json"
   },
   "repository": {
