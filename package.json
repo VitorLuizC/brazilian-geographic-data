@@ -1,7 +1,8 @@
 {
   "name": "brazilian-geographic-data",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Regions, states, cities, neighborhoods and other brazilian geographic data.",
+  "files": ["data/"],
   "scripts": {
     "test": "yarn check-types",
     "start": "yarn test && node -r esm src/index.js",
