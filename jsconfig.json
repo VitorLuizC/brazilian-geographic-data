@@ -1,15 +1,9 @@
 {
   "compilerOptions": {
-    "noEmit": true,
     "checkJs": true,
-
-    // Lib and "output" target.
     "lib": [ "es2018" ],
     "target": "esnext",
-
-    // Module definitions.
-    "module": "esnext",
-    "esModuleInterop": true,
+    "module": "esnext"
   },
   "include": [
     "src/",
