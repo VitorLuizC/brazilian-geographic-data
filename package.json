@@ -26,8 +26,8 @@
   },
   "homepage": "https://github.com/VitorLuizC/brazilian-geographic-data#readme",
   "devDependencies": {
-    "@types/node": "^10.12.10",
-    "esm": "^3.0.84",
-    "typescript": "^3.1.6"
+    "@types/node": "^12.7.1",
+    "esm": "^3.2.25",
+    "typescript": "^3.5.3"
   }
 }
