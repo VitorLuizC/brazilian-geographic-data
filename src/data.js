@@ -8,7 +8,7 @@ import { openLevelIndex } from './level';
  * @param {import('./level').Level} level
  * @returns {Promise<void>}
  */
-const generateFromLevel = async ({ name, level, module }) => {
+const generateFromLevel = async ({ level, module }) => {
   if (!isNotEmpty(module))
     return;
   const raw = await openRawByLevel(level);
