@@ -19,10 +19,15 @@ export const sleep = (time) => new Promise((resolve) => setTimeout(resolve, time
  * @returns {Promise<T[]>}
  */
 export const sequentially = (λs) => {
+  /**
+   * Sequentially accumulator.
+   * @type {Promise<T[]>}
+   */
+  const accumulator = Promise.resolve([])
   return λs.reduce((promise, λ, index) => {
     return promise.then((items) => {
       return Promise.resolve(λ(index))
         .then((item) => [ ...items, item ])
     });
-  }, Promise.resolve([]));
+  }, accumulator);
 };

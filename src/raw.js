@@ -50,6 +50,7 @@ export const saveRawByLevel = async (level) => {
 
 /**
  * Open raw geographic data by level.
+ * @param {number} level
  * @returns {Promise<Raw>}
  */
 export const openRawByLevel = async (level) => import(`../raw/${level}.json`);
