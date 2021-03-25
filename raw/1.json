@@ -3,6 +3,9 @@
     "Id": 1,
     "Nome": "Brasil"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     1
   ],

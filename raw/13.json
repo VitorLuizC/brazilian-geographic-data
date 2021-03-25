@@ -3,6 +3,22 @@
     "Id": 13,
     "Nome": "Região Metropolitana e Subdivisão"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [
+    {
+      "Id": 2,
+      "Nome": "Grande Região"
+    },
+    {
+      "Id": 3,
+      "Nome": "Unidade da Federação"
+    },
+    {
+      "Id": 7,
+      "Nome": "Região Metropolitana"
+    }
+  ],
   "Codigos": [
     110101,
     130101,

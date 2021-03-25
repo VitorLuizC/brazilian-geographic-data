@@ -3,6 +3,58 @@
     "Id": 10,
     "Nome": "Distrito"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [
+    {
+      "Id": 2,
+      "Nome": "Grande Região"
+    },
+    {
+      "Id": 3,
+      "Nome": "Unidade da Federação"
+    },
+    {
+      "Id": 24,
+      "Nome": "Região Geográfica Intermediária"
+    },
+    {
+      "Id": 25,
+      "Nome": "Região Geográfica Imediata"
+    },
+    {
+      "Id": 8,
+      "Nome": "Mesorregião Geográfica"
+    },
+    {
+      "Id": 9,
+      "Nome": "Microrregião Geográfica"
+    },
+    {
+      "Id": 7,
+      "Nome": "Região Metropolitana"
+    },
+    {
+      "Id": 13,
+      "Nome": "Região Metropolitana e Subdivisão"
+    },
+    {
+      "Id": 14,
+      "Nome": "Região Integrada de Desenvolvimento"
+    },
+    {
+      "Id": 15,
+      "Nome": "Aglomeração Urbana"
+    },
+    {
+      "Id": 6,
+      "Nome": "Município"
+    },
+    {
+      "Id": 31,
+      "Nome": "Região Rural"
+    }
+  ],
   "Codigos": [
     110001505,
     110001515,
@@ -13252,7 +13304,7 @@
     "Rocha Cavalcante",
     "Viçosa",
     "Anel",
-    "Amparo de São Francisco",
+    "Amparo do São Francisco",
     "Aquidabã",
     "Aracaju",
     "Arauá",
@@ -15866,7 +15918,7 @@
     "Jacupemba",
     "Riacho",
     "Santa Cruz",
-    "Atilio Vivacqua",
+    "Atilio Vivácqua",
     "Baixo Guandu",
     "Alto Mutum Preto",
     "Ibituba",
@@ -33860,7 +33912,7 @@
     "União dos Palmares",
     "Viçosa",
     "Viçosa",
-    "Amparo de São Francisco",
+    "Amparo do São Francisco",
     "Aquidabã",
     "Aracaju",
     "Arauá",
@@ -36474,7 +36526,7 @@
     "Aracruz",
     "Aracruz",
     "Aracruz",
-    "Atílio Vivacqua",
+    "Atílio Vivácqua",
     "Baixo Guandu",
     "Baixo Guandu",
     "Baixo Guandu",
@@ -38955,9 +39007,9 @@
     "Garuva",
     "Gaspar",
     "Governador Celso Ramos",
-    "Grão Pará",
-    "Grão Pará",
-    "Grão Pará",
+    "Grão-Pará",
+    "Grão-Pará",
+    "Grão-Pará",
     "Gravatal",
     "Guabiruba",
     "Guaraciaba",

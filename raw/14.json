@@ -3,6 +3,9 @@
     "Id": 14,
     "Nome": "Região Integrada de Desenvolvimento"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     510,
     520,

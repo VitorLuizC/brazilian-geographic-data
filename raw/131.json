@@ -3,6 +3,9 @@
     "Id": 131,
     "Nome": "Amazônia Legal"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     131
   ],

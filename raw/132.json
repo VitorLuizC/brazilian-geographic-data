@@ -3,6 +3,9 @@
     "Id": 132,
     "Nome": "Semiárido"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     132
   ],

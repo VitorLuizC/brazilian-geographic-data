@@ -3,6 +3,54 @@
     "Id": 6,
     "Nome": "Município"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [
+    {
+      "Id": 2,
+      "Nome": "Grande Região"
+    },
+    {
+      "Id": 3,
+      "Nome": "Unidade da Federação"
+    },
+    {
+      "Id": 24,
+      "Nome": "Região Geográfica Intermediária"
+    },
+    {
+      "Id": 25,
+      "Nome": "Região Geográfica Imediata"
+    },
+    {
+      "Id": 8,
+      "Nome": "Mesorregião Geográfica"
+    },
+    {
+      "Id": 9,
+      "Nome": "Microrregião Geográfica"
+    },
+    {
+      "Id": 7,
+      "Nome": "Região Metropolitana"
+    },
+    {
+      "Id": 13,
+      "Nome": "Região Metropolitana e Subdivisão"
+    },
+    {
+      "Id": 14,
+      "Nome": "Região Integrada de Desenvolvimento"
+    },
+    {
+      "Id": 15,
+      "Nome": "Aglomeração Urbana"
+    },
+    {
+      "Id": 31,
+      "Nome": "Região Rural"
+    }
+  ],
   "Codigos": [
     1100015,
     1100023,
@@ -7328,7 +7376,7 @@
     "Traipu",
     "União dos Palmares",
     "Viçosa",
-    "Amparo de São Francisco",
+    "Amparo do São Francisco",
     "Aquidabã",
     "Aracaju",
     "Arauá",
@@ -8682,7 +8730,7 @@
     "Anchieta",
     "Apiacá",
     "Aracruz",
-    "Atílio Vivacqua",
+    "Atílio Vivácqua",
     "Baixo Guandu",
     "Barra de São Francisco",
     "Boa Esperança",
@@ -9984,7 +10032,7 @@
     "Garuva",
     "Gaspar",
     "Governador Celso Ramos",
-    "Grão Pará",
+    "Grão-Pará",
     "Gravatal",
     "Guabiruba",
     "Guaraciaba",

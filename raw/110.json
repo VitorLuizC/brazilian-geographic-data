@@ -3,6 +3,9 @@
     "Id": 110,
     "Nome": "Total das áreas - PME"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     1
   ],

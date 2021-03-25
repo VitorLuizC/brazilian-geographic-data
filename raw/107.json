@@ -3,6 +3,9 @@
     "Id": 107,
     "Nome": "Departamento - Paraguai"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     1,
     2,

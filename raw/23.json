@@ -3,6 +3,9 @@
     "Id": 23,
     "Nome": "Arranjo Populacional"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     1100106,
     1100205,

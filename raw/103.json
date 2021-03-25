@@ -3,6 +3,9 @@
     "Id": 103,
     "Nome": "Total das áreas - POF"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     1
   ],

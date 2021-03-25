@@ -3,6 +3,9 @@
     "Id": 130,
     "Nome": "Capital/não capital de Unidade da Federação"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     1,
     2

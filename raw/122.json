@@ -3,6 +3,9 @@
     "Id": 122,
     "Nome": "Grande Região - PIMES"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     2,
     3,

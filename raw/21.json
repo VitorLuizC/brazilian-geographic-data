@@ -3,6 +3,9 @@
     "Id": 21,
     "Nome": "Total dos municípios das capitais da Grande Região"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     1,
     2,

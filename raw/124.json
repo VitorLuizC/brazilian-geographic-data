@@ -3,6 +3,18 @@
     "Id": 124,
     "Nome": "Corpo d'água"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [
+    {
+      "Id": 2,
+      "Nome": "Grande Região"
+    },
+    {
+      "Id": 3,
+      "Nome": "Unidade da Federação"
+    }
+  ],
   "Codigos": [
     26030,
     26060,

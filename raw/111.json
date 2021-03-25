@@ -3,6 +3,9 @@
     "Id": 111,
     "Nome": "Unidade Federativa do Mercosul, Bolívia e Chile"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     3311,
     3312,

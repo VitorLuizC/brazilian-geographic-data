@@ -3,6 +3,9 @@
     "Id": 104,
     "Nome": "Argentina"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     1
   ],

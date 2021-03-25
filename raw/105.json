@@ -3,6 +3,9 @@
     "Id": 105,
     "Nome": "Uruguai"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     1
   ],

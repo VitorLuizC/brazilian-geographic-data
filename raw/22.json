@@ -3,6 +3,9 @@
     "Id": 22,
     "Nome": "Total dos municípios das capitais"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     1
   ],

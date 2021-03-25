@@ -3,6 +3,9 @@
     "Id": 129,
     "Nome": "Território da Cidadania"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     1101,
     1102,

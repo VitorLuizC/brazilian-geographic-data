@@ -3,7 +3,11 @@
     "Id": 133,
     "Nome": "Semiárido de Unidade da Federação"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
+    21,
     22,
     23,
     24,
@@ -15,6 +19,7 @@
     31
   ],
   "Nomes": [
+    "Semiárido do Maranhão",
     "Semiárido do Piauí",
     "Semiárido do Ceará",
     "Semiárido do Rio Grande do Norte",
@@ -26,6 +31,7 @@
     "Semiárido de Minas Gerais"
   ],
   "SiglasUF": [
+    "MA",
     "PI",
     "CE",
     "RN",
@@ -45,9 +51,11 @@
     "",
     "",
     "",
+    "",
     ""
   ],
   "Complementos2": [
+    "",
     "",
     "",
     "",

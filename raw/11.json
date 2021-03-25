@@ -3,6 +3,62 @@
     "Id": 11,
     "Nome": "Subdistrito"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [
+    {
+      "Id": 2,
+      "Nome": "Grande Região"
+    },
+    {
+      "Id": 3,
+      "Nome": "Unidade da Federação"
+    },
+    {
+      "Id": 24,
+      "Nome": "Região Geográfica Intermediária"
+    },
+    {
+      "Id": 25,
+      "Nome": "Região Geográfica Imediata"
+    },
+    {
+      "Id": 8,
+      "Nome": "Mesorregião Geográfica"
+    },
+    {
+      "Id": 9,
+      "Nome": "Microrregião Geográfica"
+    },
+    {
+      "Id": 7,
+      "Nome": "Região Metropolitana"
+    },
+    {
+      "Id": 13,
+      "Nome": "Região Metropolitana e Subdivisão"
+    },
+    {
+      "Id": 14,
+      "Nome": "Região Integrada de Desenvolvimento"
+    },
+    {
+      "Id": 15,
+      "Nome": "Aglomeração Urbana"
+    },
+    {
+      "Id": 6,
+      "Nome": "Município"
+    },
+    {
+      "Id": 10,
+      "Nome": "Distrito"
+    },
+    {
+      "Id": 31,
+      "Nome": "Região Rural"
+    }
+  ],
   "Codigos": [
     11002050506,
     11002050507,

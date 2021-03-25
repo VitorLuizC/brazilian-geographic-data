@@ -3,6 +3,22 @@
     "Id": 9,
     "Nome": "Microrregião Geográfica"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [
+    {
+      "Id": 2,
+      "Nome": "Grande Região"
+    },
+    {
+      "Id": 3,
+      "Nome": "Unidade da Federação"
+    },
+    {
+      "Id": 8,
+      "Nome": "Mesorregião Geográfica"
+    }
+  ],
   "Codigos": [
     11001,
     11002,

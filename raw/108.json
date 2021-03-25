@@ -3,6 +3,9 @@
     "Id": 108,
     "Nome": "Departamento - Uruguai"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     1,
     2,

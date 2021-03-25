@@ -3,6 +3,9 @@
     "Id": 106,
     "Nome": "Paraguai"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     1
   ],

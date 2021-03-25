@@ -1,5 +1,10 @@
 [
   {
+    "id": 21,
+    "name": "Semiárido do Maranhão",
+    "state": "MA"
+  },
+  {
     "id": 22,
     "name": "Semiárido do Piauí",
     "state": "PI"

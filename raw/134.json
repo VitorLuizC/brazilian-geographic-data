@@ -3,6 +3,9 @@
     "Id": 134,
     "Nome": "Amazônia Legal de Unidade da Federação"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     11,
     12,

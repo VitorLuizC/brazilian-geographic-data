@@ -3,6 +3,9 @@
     "Id": 101,
     "Nome": "País do Mercosul, Bolívia e Chile"
   },
+  "CodNivelAbrangente": 0,
+  "CodUnidadeAbrangente": 0,
+  "NiveisSuperiores": [],
   "Codigos": [
     1,
     2,
