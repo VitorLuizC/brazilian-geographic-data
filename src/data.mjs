@@ -1,17 +1,18 @@
-import { createJSON } from './file';
-import { isNotEmpty } from './string';
-import { openRawByLevel } from './raw';
-import { openLevelIndex } from './level';
+import { createJSON } from './file.mjs';
+import { isNotEmpty } from './string.mjs';
+import { openRawByLevel } from './raw.mjs';
+import { openLevelIndex } from './level.mjs';
 
 /**
  * Generate geographic data module from Level.
- * @param {import('./level').Level} level
+ * @param {import('./level.mjs').Level} level
  * @returns {Promise<void>}
  */
 const generateFromLevel = async ({ level, module }) => {
   if (!isNotEmpty(module))
     return;
   const raw = await openRawByLevel(level);
+  console.log('raw', raw)
   await createJSON('data/' + module, transformToData(raw));
 };
 
@@ -35,7 +36,7 @@ export const generateDataModules = async () => {
 
 /**
  * Map raw geographic data into an array.
- * @param {import('./raw').Raw} raw
+ * @param {import('./raw.mjs').Raw} raw
  * @returns {Data[]}
  */
 export const transformToData = (raw) => {

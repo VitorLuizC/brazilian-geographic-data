@@ -1,6 +1,6 @@
-import { createFolder } from './file';
-import { generateRawModules } from './raw';
-import { generateDataModules } from './data';
+import { createFolder } from './file.mjs';
+import { generateRawModules } from './raw.mjs';
+import { generateDataModules } from './data.mjs';
 
 (async () => {
   try {
@@ -12,6 +12,6 @@ import { generateDataModules } from './data';
     await generateRawModules();
     await generateDataModules();
   } catch (error) {
-    console.warn('Error: ' + (error && error.message));
+    console.error(error);
   }
 })();

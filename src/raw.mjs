@@ -1,7 +1,7 @@
-import { fetch } from './fetch';
-import { sleep, sequentially } from './async';
-import { createJSON } from './file';
-import { openLevelIndex } from './level';
+import { fetch } from './fetch.mjs';
+import { sleep, sequentially } from './async.mjs';
+import { createJSON } from './file.mjs';
+import { openLevelIndex } from './level.mjs';
 
 /**
  * URL of the geographic data source.
@@ -23,7 +23,7 @@ export const URL = 'https://sidra.ibge.gov.br/Territorio/Unidades';
 /**
  * Fetches raw geographic data by level.
  * @param {number} level
- * @returns {Promise<>}
+ * @returns {Promise<Raw>}
  */
 export const fetchRawByLevel = async (level) => {
   /**
@@ -53,7 +53,11 @@ export const saveRawByLevel = async (level) => {
  * @param {number} level
  * @returns {Promise<Raw>}
  */
-export const openRawByLevel = async (level) => import(`../raw/${level}.json`);
+export const openRawByLevel = async (level) => import(`../raw/${level}.json`, {
+  with: {
+    type: 'json'
+  }
+});
 
 /**
  * Sequentially save raw by levels and create levels file.

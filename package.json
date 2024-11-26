@@ -1,11 +1,14 @@
 {
   "name": "brazilian-geographic-data",
+  "type": "module",
   "version": "1.0.0",
   "description": "Regions, states, cities, neighborhoods and other brazilian geographic data.",
-  "files": ["data/"],
+  "files": [
+    "data/"
+  ],
   "scripts": {
     "test": "yarn check-types",
-    "start": "yarn test && node -r esm src/index.js",
+    "start": "yarn test && node ./src/index.mjs",
     "check-types": "tsc -p jsconfig.json"
   },
   "repository": {
@@ -26,8 +29,7 @@
   },
   "homepage": "https://github.com/VitorLuizC/brazilian-geographic-data#readme",
   "devDependencies": {
-    "@types/node": "^12.7.1",
-    "esm": "^3.2.25",
-    "typescript": "^3.5.3"
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.2"
   }
 }

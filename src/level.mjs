@@ -10,4 +10,8 @@
  * Open the level index file.
  * @returns {Promise<Level[]>}
  */
-export const openLevelIndex = async () => (await import('../index.json')).default;
+export const openLevelIndex = async () => (await import('../index.json', {
+  with: {
+    type: 'json'
+  }
+})).default;

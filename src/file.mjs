@@ -1,6 +1,6 @@
-import { URL } from 'url';
-import * as fs from 'fs';
-import * as path from 'path';
+import { URL } from 'node:url';
+import * as fs from 'node:fs';
+import * as path from 'node:path';
 
 /**
  * Get module current path using `import.meta` and return to root.
