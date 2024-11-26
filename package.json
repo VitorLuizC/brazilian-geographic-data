@@ -1,7 +1,7 @@
 {
   "name": "brazilian-geographic-data",
   "type": "module",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Regions, states, cities, neighborhoods and other brazilian geographic data.",
   "files": [
     "data/"
