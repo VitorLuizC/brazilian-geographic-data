@@ -138,6 +138,78 @@
     "state": "CE"
   },
   {
+    "id": 23044000513,
+    "name": "Região administrativa I",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 23044000514,
+    "name": "Região administrativa II",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 23044000515,
+    "name": "Região administrativa III",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 23044000516,
+    "name": "Região administrativa IV",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 23044000517,
+    "name": "Região administrativa V",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 23044000518,
+    "name": "Região administrativa VI",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 23044000519,
+    "name": "Região administrativa VII",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 23044000520,
+    "name": "Região administrativa VIII",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 23044000521,
+    "name": "Região administrativa IX",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 23044000522,
+    "name": "Região administrativa X",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 23044000523,
+    "name": "Região administrativa XI",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
+    "id": 23044000524,
+    "name": "Região administrativa XII",
+    "city": "Fortaleza",
+    "state": "CE"
+  },
+  {
     "id": 23044006006,
     "name": "Antônio Bezerra",
     "city": "Fortaleza",
@@ -255,6 +327,78 @@
     "id": 26111010509,
     "name": "RA Leste",
     "city": "Petrolina",
+    "state": "PE"
+  },
+  {
+    "id": 26116060506,
+    "name": "RPA 01",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 26116060507,
+    "name": "RPA 02",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 26116060508,
+    "name": "RPA 03",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 26116060509,
+    "name": "RPA 04",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 26116060510,
+    "name": "RPA 05",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 26116060511,
+    "name": "RPA 06",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 26116060512,
+    "name": "RPA 07",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 26116060513,
+    "name": "RPA 08",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 26116060514,
+    "name": "RPA 09",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 26116060515,
+    "name": "RPA 10",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 26116060516,
+    "name": "RPA 11",
+    "city": "Recife",
+    "state": "PE"
+  },
+  {
+    "id": 26116060517,
+    "name": "RPA 12",
+    "city": "Recife",
     "state": "PE"
   },
   {
@@ -516,6 +660,12 @@
     "state": "MG"
   },
   {
+    "id": 31062000561,
+    "name": "Barreiro",
+    "city": "Belo Horizonte",
+    "state": "MG"
+  },
+  {
     "id": 31062000562,
     "name": "Centro-Sul",
     "city": "Belo Horizonte",
@@ -536,6 +686,12 @@
   {
     "id": 31062000565,
     "name": "Noroeste",
+    "city": "Belo Horizonte",
+    "state": "MG"
+  },
+  {
+    "id": 31062000566,
+    "name": "Norte",
     "city": "Belo Horizonte",
     "state": "MG"
   },
@@ -595,49 +751,61 @@
   },
   {
     "id": 31067050501,
-    "name": "Ar. Centro",
+    "name": "Sede",
     "city": "Betim",
     "state": "MG"
   },
   {
     "id": 31067050502,
-    "name": "Ar. Norte",
+    "name": "Norte",
     "city": "Betim",
     "state": "MG"
   },
   {
     "id": 31067050503,
-    "name": "Ar. Jardim das Alterosas",
+    "name": "Alterosas",
     "city": "Betim",
     "state": "MG"
   },
   {
     "id": 31067050504,
-    "name": "Ar. Santa Cruz",
+    "name": "PTB",
     "city": "Betim",
     "state": "MG"
   },
   {
     "id": 31067050505,
-    "name": "Ar. Imbiruçu",
+    "name": "Imbiruçu",
     "city": "Betim",
     "state": "MG"
   },
   {
     "id": 31067050506,
-    "name": "Ar. Jardim Terezópolis",
+    "name": "Teresópolis",
     "city": "Betim",
     "state": "MG"
   },
   {
     "id": 31067050507,
-    "name": "Ar. Citrolândia",
+    "name": "Citrolândia",
     "city": "Betim",
     "state": "MG"
   },
   {
     "id": 31067050508,
-    "name": "Ar. Vianópolis",
+    "name": "Vianópolis",
+    "city": "Betim",
+    "state": "MG"
+  },
+  {
+    "id": 31067050509,
+    "name": "Icaivera",
+    "city": "Betim",
+    "state": "MG"
+  },
+  {
+    "id": 31067050510,
+    "name": "Petrovale",
     "city": "Betim",
     "state": "MG"
   },
@@ -984,6 +1152,18 @@
     "state": "MG"
   },
   {
+    "id": 31371060506,
+    "name": "Primeiro Subdistrito",
+    "city": "Lagamar",
+    "state": "MG"
+  },
+  {
+    "id": 31371060507,
+    "name": "Segundo Subdistrito",
+    "city": "Lagamar",
+    "state": "MG"
+  },
+  {
     "id": 31521050506,
     "name": "1 Subdistrito",
     "city": "Ponte Nova",
@@ -1171,7 +1351,7 @@
   },
   {
     "id": 31701070506,
-    "name": "Fabricio",
+    "name": "Fabrício",
     "city": "Uberaba",
     "state": "MG"
   },
@@ -1297,7 +1477,7 @@
   },
   {
     "id": 31701070527,
-    "name": "Jochey Park",
+    "name": "Jockey Park",
     "city": "Uberaba",
     "state": "MG"
   },
@@ -1327,7 +1507,7 @@
   },
   {
     "id": 31701070532,
-    "name": "2000",
+    "name": "Residencial 2000",
     "city": "Uberaba",
     "state": "MG"
   },
@@ -1351,7 +1531,37 @@
   },
   {
     "id": 31701070536,
-    "name": "Vila Real",
+    "name": "Villa Real",
+    "city": "Uberaba",
+    "state": "MG"
+  },
+  {
+    "id": 31701070537,
+    "name": "Buriti",
+    "city": "Uberaba",
+    "state": "MG"
+  },
+  {
+    "id": 31701070538,
+    "name": "Marajó",
+    "city": "Uberaba",
+    "state": "MG"
+  },
+  {
+    "id": 31701070541,
+    "name": "Santa Cecília",
+    "city": "Uberaba",
+    "state": "MG"
+  },
+  {
+    "id": 31701070544,
+    "name": "Parque do Café",
+    "city": "Uberaba",
+    "state": "MG"
+  },
+  {
+    "id": 31701070546,
+    "name": "Campo Verde",
     "city": "Uberaba",
     "state": "MG"
   },
@@ -1495,7 +1705,7 @@
   },
   {
     "id": 32053090508,
-    "name": "Região Administrativa III - Bento Ferreira/Jucutuquara",
+    "name": "Região Administrativa III - Jucutuquara",
     "city": "Vitória",
     "state": "ES"
   },
@@ -1524,86 +1734,134 @@
     "state": "ES"
   },
   {
+    "id": 32053091013,
+    "name": "Região Administrativa VI - Goiabeiras",
+    "city": "Vitória",
+    "state": "ES"
+  },
+  {
+    "id": 32053091014,
+    "name": "Região Administrativa VIII - Jardim Camburi",
+    "city": "Vitória",
+    "state": "ES"
+  },
+  {
+    "id": 32053091015,
+    "name": "Região Administrativa IX - Jardim da Penha",
+    "city": "Vitória",
+    "state": "ES"
+  },
+  {
     "id": 33004070501,
-    "name": "Região Administrativa I",
+    "name": "Região Administrativa 01 - Centro",
     "city": "Barra Mansa",
     "state": "RJ"
   },
   {
     "id": 33004070502,
-    "name": "Região Administrativa II",
+    "name": "Região Administrativa 02 - Vista Alegre",
     "city": "Barra Mansa",
     "state": "RJ"
   },
   {
     "id": 33004070503,
-    "name": "Região Administrativa III",
+    "name": "Região Administrativa 03 - Vila Nova",
     "city": "Barra Mansa",
     "state": "RJ"
   },
   {
     "id": 33004070504,
-    "name": "Região Administrativa IV",
+    "name": "Região Administrativa 04 - Ano Bom",
     "city": "Barra Mansa",
     "state": "RJ"
   },
   {
     "id": 33004070505,
-    "name": "Região Administrativa V",
+    "name": "Região Administrativa 05 - Vila Elmira",
     "city": "Barra Mansa",
     "state": "RJ"
   },
   {
     "id": 33004070506,
-    "name": "Região Administrativa VI",
+    "name": "Região Administrativa 06 - Nove de Abril",
     "city": "Barra Mansa",
     "state": "RJ"
   },
   {
     "id": 33004070507,
-    "name": "Região Administrativa VII",
+    "name": "Região Administrativa 07 - Boa Vista",
     "city": "Barra Mansa",
     "state": "RJ"
   },
   {
     "id": 33004070508,
-    "name": "Região Administrativa VIII",
+    "name": "Região Administrativa 08 - Boa Sorte",
     "city": "Barra Mansa",
     "state": "RJ"
   },
   {
     "id": 33004070509,
-    "name": "Região Administrativa IX",
+    "name": "Região Administrativa 09 - Rozelândia",
     "city": "Barra Mansa",
     "state": "RJ"
   },
   {
     "id": 33004070510,
-    "name": "Região Administrativa X",
+    "name": "Região Administrativa 10 - Santa Clara",
     "city": "Barra Mansa",
     "state": "RJ"
   },
   {
     "id": 33004070511,
-    "name": "Região Administrativa XI",
+    "name": "Região Administrativa 11 - Vila Independência",
     "city": "Barra Mansa",
     "state": "RJ"
   },
   {
     "id": 33004070512,
-    "name": "Região Administrativa XII",
+    "name": "Região Administrativa 12 - Siderlândia",
     "city": "Barra Mansa",
     "state": "RJ"
   },
   {
     "id": 33004070513,
-    "name": "Região Administrativa XIII",
+    "name": "Região Administrativa 13 - Colônia Santo Antônio",
     "city": "Barra Mansa",
     "state": "RJ"
   },
   {
     "id": 33004070514,
-    "name": "Região Administrativa XIV",
+    "name": "Região Administrativa 14 - Saudade",
+    "city": "Barra Mansa",
+    "state": "RJ"
+  },
+  {
+    "id": 33004070950,
+    "name": "Região Administrativa 50 - Antônio Rocha",
+    "city": "Barra Mansa",
+    "state": "RJ"
+  },
+  {
+    "id": 33004071520,
+    "name": "Região Administrativa 20 - Floriano",
+    "city": "Barra Mansa",
+    "state": "RJ"
+  },
+  {
+    "id": 33004072040,
+    "name": "Região Administrativa 40 - Nossa Senhora do Amparo",
+    "city": "Barra Mansa",
+    "state": "RJ"
+  },
+  {
+    "id": 33004073030,
+    "name": "Região Administrativa 30 - Rialto",
+    "city": "Barra Mansa",
+    "state": "RJ"
+  },
+  {
+    "id": 33004074060,
+    "name": "Região Administrativa 60 - Santa Rita de Cássia",
     "city": "Barra Mansa",
     "state": "RJ"
   },
@@ -2094,6 +2352,294 @@
     "state": "RJ"
   },
   {
+    "id": 35503080506,
+    "name": "Aclimação",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080507,
+    "name": "Alto da Moóca",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080508,
+    "name": "Barra Funda",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080509,
+    "name": "Bela Vista",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080510,
+    "name": "Belenzinho",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080511,
+    "name": "Bom Retiro",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080512,
+    "name": "Brás",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080513,
+    "name": "Brasilândia",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080514,
+    "name": "Butantã",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080515,
+    "name": "Cambuci",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080516,
+    "name": "Cangaiba",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080517,
+    "name": "Capela do Socorro",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080518,
+    "name": "Casa Verde",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080519,
+    "name": "Cerqueira Cesar",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080520,
+    "name": "Consolação",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080521,
+    "name": "Ibirapuera",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080522,
+    "name": "Indianópolis",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080523,
+    "name": "Ipiranga",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080524,
+    "name": "Jabaquara",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080525,
+    "name": "Jaguará",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080526,
+    "name": "Jardim América",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080527,
+    "name": "Jardim Paulista",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080528,
+    "name": "Lapa",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080529,
+    "name": "Liberdade",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080530,
+    "name": "Limão",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080531,
+    "name": "Moóca",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080532,
+    "name": "Nossa Senhora do Ó",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080533,
+    "name": "PARI",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080534,
+    "name": "PENHA DE FRANCA",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080535,
+    "name": "PERDIZES",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080536,
+    "name": "PINHEIROS",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080537,
+    "name": "PIRITUBA",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080538,
+    "name": "SANTA CECILIA",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080539,
+    "name": "SANTA IFIGENIA",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080540,
+    "name": "SANTANA",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080541,
+    "name": "SANTO AMARO",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080542,
+    "name": "SAUDE",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080543,
+    "name": "Sé",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080544,
+    "name": "TATUAPé",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080545,
+    "name": "TUCURUVI",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080546,
+    "name": "VILA FORMOSA",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080547,
+    "name": "VILA GUILHERME",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080548,
+    "name": "VILA MADALENA",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080549,
+    "name": "VILA MARIA",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080550,
+    "name": "VILA MARIANA",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080551,
+    "name": "VILA MATILDE",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080552,
+    "name": "VILA NOVA CACHOEIRINHA",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
+    "id": 35503080553,
+    "name": "VILA PRUDENTE",
+    "city": "São Paulo",
+    "state": "SP"
+  },
+  {
     "id": 41043030501,
     "name": "Zona 1",
     "city": "Campo Mourão",
@@ -2125,49 +2671,61 @@
   },
   {
     "id": 41069020501,
-    "name": "Administração Regional da Matriz (R.1.MZ)",
+    "name": "Administração Regional da Matriz",
     "city": "Curitiba",
     "state": "PR"
   },
   {
     "id": 41069020502,
-    "name": "Administração Regional do Boqueirão (R.2.BQ)",
+    "name": "Administração Regional do Boqueirão",
     "city": "Curitiba",
     "state": "PR"
   },
   {
     "id": 41069020503,
-    "name": "Administração Regional do Cajuru (R.3.CJ)",
+    "name": "Administração Regional do Cajuru",
     "city": "Curitiba",
     "state": "PR"
   },
   {
     "id": 41069020504,
-    "name": "Administração Regional da Boa Vista (R.4.BV)",
+    "name": "Administração Regional da Boa Vista",
     "city": "Curitiba",
     "state": "PR"
   },
   {
     "id": 41069020505,
-    "name": "Administração Regional de Santa Felicidade (R.5.SF)",
+    "name": "Administração Regional de Santa Felicidade",
     "city": "Curitiba",
     "state": "PR"
   },
   {
     "id": 41069020506,
-    "name": "Administração Regional do Portão (R.7.PR)",
+    "name": "Administração Regional do Portão",
     "city": "Curitiba",
     "state": "PR"
   },
   {
     "id": 41069020507,
-    "name": "Administração Regional Pinheirinho (R.8.PN)",
+    "name": "Administraçao Regional Pinheirinho",
     "city": "Curitiba",
     "state": "PR"
   },
   {
     "id": 41069020508,
-    "name": "Administração Regional do Bairro Novo (R.10.BN)",
+    "name": "Administração Regional do Bairro Novo",
+    "city": "Curitiba",
+    "state": "PR"
+  },
+  {
+    "id": 41069020509,
+    "name": "Administração Regional da Cidade Industrial de Curitiba",
+    "city": "Curitiba",
+    "state": "PR"
+  },
+  {
+    "id": 41069020510,
+    "name": "Administração Regional do Tatuquara",
     "city": "Curitiba",
     "state": "PR"
   },
@@ -2520,6 +3078,54 @@
     "state": "RS"
   },
   {
+    "id": 43004060512,
+    "name": "Alegrete",
+    "city": "Alegrete",
+    "state": "RS"
+  },
+  {
+    "id": 43004060513,
+    "name": "Catimbaú",
+    "city": "Alegrete",
+    "state": "RS"
+  },
+  {
+    "id": 43004060514,
+    "name": "Durasnal",
+    "city": "Alegrete",
+    "state": "RS"
+  },
+  {
+    "id": 43004060515,
+    "name": "Guassu-Boi",
+    "city": "Alegrete",
+    "state": "RS"
+  },
+  {
+    "id": 43004060516,
+    "name": "Inhanduí",
+    "city": "Alegrete",
+    "state": "RS"
+  },
+  {
+    "id": 43004060517,
+    "name": "Itaporó",
+    "city": "Alegrete",
+    "state": "RS"
+  },
+  {
+    "id": 43004060518,
+    "name": "Rincão de São Miguel",
+    "city": "Alegrete",
+    "state": "RS"
+  },
+  {
+    "id": 43004060519,
+    "name": "Vasco Alves",
+    "city": "Alegrete",
+    "state": "RS"
+  },
+  {
     "id": 43006040501,
     "name": "MZ1- Centro",
     "city": "Alvorada",
@@ -2715,6 +3321,42 @@
     "id": 43066010510,
     "name": "Fontouras",
     "city": "Dom Pedrito",
+    "state": "RS"
+  },
+  {
+    "id": 43069080506,
+    "name": "Capitão Noronha",
+    "city": "Encruzilhada do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 43069080507,
+    "name": "Cerro Partido",
+    "city": "Encruzilhada do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 43069080508,
+    "name": "Coronel Prestes",
+    "city": "Encruzilhada do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 43069080509,
+    "name": "Maria Santa",
+    "city": "Encruzilhada do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 43069080511,
+    "name": "Pompeu Machado",
+    "city": "Encruzilhada do Sul",
+    "state": "RS"
+  },
+  {
+    "id": 43069080512,
+    "name": "Santa Bárbara",
+    "city": "Encruzilhada do Sul",
     "state": "RS"
   },
   {
@@ -3324,6 +3966,102 @@
     "state": "RS"
   },
   {
+    "id": 43183090501,
+    "name": "REGIONAL CENTRO",
+    "city": "São Gabriel",
+    "state": "RS"
+  },
+  {
+    "id": 43183090502,
+    "name": "REGIONAL NORDESTE",
+    "city": "São Gabriel",
+    "state": "RS"
+  },
+  {
+    "id": 43183090503,
+    "name": "REGIONAL LESTE",
+    "city": "São Gabriel",
+    "state": "RS"
+  },
+  {
+    "id": 43183090504,
+    "name": "REGIONAL EXTREMO-LESTE",
+    "city": "São Gabriel",
+    "state": "RS"
+  },
+  {
+    "id": 43183090505,
+    "name": "REGIONAL SUDESTE",
+    "city": "São Gabriel",
+    "state": "RS"
+  },
+  {
+    "id": 43183090506,
+    "name": "REGIONAL SUL",
+    "city": "São Gabriel",
+    "state": "RS"
+  },
+  {
+    "id": 43183090507,
+    "name": "REGIONAL EXTREMO-SUL",
+    "city": "São Gabriel",
+    "state": "RS"
+  },
+  {
+    "id": 43183090508,
+    "name": "REGIONAL EXTREMO-SUDOESTE",
+    "city": "São Gabriel",
+    "state": "RS"
+  },
+  {
+    "id": 43183090509,
+    "name": "REGIONAL SUDOESTE",
+    "city": "São Gabriel",
+    "state": "RS"
+  },
+  {
+    "id": 43183090510,
+    "name": "REGIONAL CENTRO-SUDOESTE",
+    "city": "São Gabriel",
+    "state": "RS"
+  },
+  {
+    "id": 43183090511,
+    "name": "REGIONAL OESTE",
+    "city": "São Gabriel",
+    "state": "RS"
+  },
+  {
+    "id": 43183090512,
+    "name": "REGIONAL EXTREMO-OESTE",
+    "city": "São Gabriel",
+    "state": "RS"
+  },
+  {
+    "id": 43183090513,
+    "name": "REGIONAL CENTRO-OESTE",
+    "city": "São Gabriel",
+    "state": "RS"
+  },
+  {
+    "id": 43183090514,
+    "name": "REGIONAL NOROESTE",
+    "city": "São Gabriel",
+    "state": "RS"
+  },
+  {
+    "id": 43183090515,
+    "name": "REGIONAL EXTREMO-NORTE",
+    "city": "São Gabriel",
+    "state": "RS"
+  },
+  {
+    "id": 43183090516,
+    "name": "REGIONAL NORTE",
+    "city": "São Gabriel",
+    "state": "RS"
+  },
+  {
     "id": 43185070501,
     "name": "Núcleo Cidade Baixa",
     "city": "São José do Norte",
@@ -3847,7 +4585,7 @@
   },
   {
     "id": 52087070562,
-    "name": "U.T.P. Jardim Primavera (Área Urbana Isolada)",
+    "name": "U.T.P. Jardim Primavera",
     "city": "Goiânia",
     "state": "GO"
   },
@@ -3858,8 +4596,20 @@
     "state": "GO"
   },
   {
+    "id": 52087070564,
+    "name": "U.T.P. Baliza-Itaipu",
+    "city": "Goiânia",
+    "state": "GO"
+  },
+  {
+    "id": 52087070565,
+    "name": "U.T.P. São Domingos",
+    "city": "Goiânia",
+    "state": "GO"
+  },
+  {
     "id": 53001080506,
-    "name": "Brasília",
+    "name": "Plano Piloto",
     "city": "Brasília",
     "state": "DF"
   },
@@ -3968,6 +4718,102 @@
   {
     "id": 53001080530,
     "name": "São Sebastião",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 53001080531,
+    "name": "Sol Nascente/Pôr do Sol",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 53001080532,
+    "name": "Arniqueira",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 53001080533,
+    "name": "SIA",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 53001080534,
+    "name": "SCIA",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 53001080535,
+    "name": "Sudoeste/Octogonal",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 53001080536,
+    "name": "Águas Claras",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 53001080537,
+    "name": "Vicente Pires",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 53001080538,
+    "name": "Itapoã",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 53001080539,
+    "name": "Fercal",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 53001080540,
+    "name": "Jardim Botânico",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 53001080541,
+    "name": "Riacho Fundo II",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 53001080542,
+    "name": "Park Way",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 53001080543,
+    "name": "Varjão",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 53001080544,
+    "name": "Sobradinho II",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 53001080545,
+    "name": "Arapoanga",
+    "city": "Brasília",
+    "state": "DF"
+  },
+  {
+    "id": 53001080546,
+    "name": "Água Quente",
     "city": "Brasília",
     "state": "DF"
   }

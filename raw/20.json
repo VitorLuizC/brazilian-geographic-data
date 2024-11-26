@@ -31,6 +31,18 @@
       "Nome": "Microrregião Geográfica"
     },
     {
+      "Id": 70,
+      "Nome": "Recortes Metropolitanos"
+    },
+    {
+      "Id": 71,
+      "Nome": "Categoria Metropolitana"
+    },
+    {
+      "Id": 72,
+      "Nome": "Subcategoria Metropolitana"
+    },
+    {
       "Id": 7,
       "Nome": "Região Metropolitana"
     },
@@ -41,6 +53,18 @@
     {
       "Id": 14,
       "Nome": "Região Integrada de Desenvolvimento"
+    },
+    {
+      "Id": 150,
+      "Nome": "Recortes da Aglomeração Urbana"
+    },
+    {
+      "Id": 151,
+      "Nome": "Categoria da Aglomeração Urbana"
+    },
+    {
+      "Id": 152,
+      "Nome": "Subcategoria da Aglomeração Urbana"
     },
     {
       "Id": 15,

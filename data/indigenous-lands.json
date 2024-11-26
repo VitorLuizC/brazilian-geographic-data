@@ -5,6 +5,11 @@
     "state": "RO"
   },
   {
+    "id": 1106785,
+    "name": "Vale do Guaporé",
+    "state": "RO"
+  },
+  {
     "id": 1107340,
     "name": "Sete de Setembro",
     "state": "RO"
@@ -56,7 +61,7 @@
   },
   {
     "id": 1107587,
-    "name": "Pacaás Novas",
+    "name": "Pacaas Novas",
     "state": "RO"
   },
   {
@@ -72,6 +77,11 @@
   {
     "id": 1107625,
     "name": "Rio Guaporé",
+    "state": "RO"
+  },
+  {
+    "id": 1108460,
+    "name": "Tenharim Marmelos",
     "state": "RO"
   },
   {
@@ -97,6 +107,16 @@
   {
     "id": 1150007,
     "name": "Rio Omerê",
+    "state": "RO"
+  },
+  {
+    "id": 1150749,
+    "name": "Rio Negro Ocaia",
+    "state": "RO"
+  },
+  {
+    "id": 1150783,
+    "name": "Uty-Xunaty",
     "state": "RO"
   },
   {
@@ -131,12 +151,12 @@
   },
   {
     "id": 1209423,
-    "name": "Campinas / Katukina",
+    "name": "Campinas/Katukina",
     "state": "AC"
   },
   {
     "id": 1209431,
-    "name": "Katukina / Kaxinawá",
+    "name": "Katukina/Kaxinawá",
     "state": "AC"
   },
   {
@@ -176,7 +196,7 @@
   },
   {
     "id": 1209555,
-    "name": "Kampa do Rio Amonea",
+    "name": "Kampa do Rio Amônia",
     "state": "AC"
   },
   {
@@ -216,7 +236,7 @@
   },
   {
     "id": 1250011,
-    "name": "Jaminawa / Envira",
+    "name": "Jaminaua/Envira",
     "state": "AC"
   },
   {
@@ -246,7 +266,12 @@
   },
   {
     "id": 1250671,
-    "name": "Arara do Rio Amonia",
+    "name": "Arara do Rio Amônia",
+    "state": "AC"
+  },
+  {
+    "id": 1250799,
+    "name": "Rio Gregório",
     "state": "AC"
   },
   {
@@ -276,7 +301,7 @@
   },
   {
     "id": 1307846,
-    "name": "Tikuna Santo Antônio",
+    "name": "Tikuna de Santo Antônio",
     "state": "AM"
   },
   {
@@ -311,7 +336,7 @@
   },
   {
     "id": 1307935,
-    "name": "Apurinã km 124 BR-317",
+    "name": "Apurinã Km 124 BR-317",
     "state": "AM"
   },
   {
@@ -326,7 +351,7 @@
   },
   {
     "id": 1307960,
-    "name": "Água Preta / Inari",
+    "name": "Água Preta/Inari",
     "state": "AM"
   },
   {
@@ -336,7 +361,7 @@
   },
   {
     "id": 1307994,
-    "name": "Catipari / Mamoria",
+    "name": "Catipari/Mamoria",
     "state": "AM"
   },
   {
@@ -396,7 +421,7 @@
   },
   {
     "id": 1308168,
-    "name": "Jarawara / Jamamadi / Kanamati",
+    "name": "Jarawara/Jamamadi/Kanamati",
     "state": "AM"
   },
   {
@@ -441,7 +466,7 @@
   },
   {
     "id": 1308290,
-    "name": "Natal / Felicidade",
+    "name": "Natal/Felicidade",
     "state": "AM"
   },
   {
@@ -476,7 +501,7 @@
   },
   {
     "id": 1308389,
-    "name": "Peneri / Tacaquiri",
+    "name": "Peneri/Tacaquiri",
     "state": "AM"
   },
   {
@@ -491,7 +516,7 @@
   },
   {
     "id": 1308435,
-    "name": "Seruini / Mariene",
+    "name": "Seruini/Mariene",
     "state": "AM"
   },
   {
@@ -516,12 +541,12 @@
   },
   {
     "id": 1308508,
-    "name": "Trombetas / Mapuera",
+    "name": "Trombetas/Mapuera",
     "state": "AM"
   },
   {
     "id": 1308524,
-    "name": "Andirá / Marau",
+    "name": "Andirá-Marau",
     "state": "AM"
   },
   {
@@ -551,7 +576,7 @@
   },
   {
     "id": 1308583,
-    "name": "Boa Vista",
+    "name": "Boa Vista - AM",
     "state": "AM"
   },
   {
@@ -596,7 +621,7 @@
   },
   {
     "id": 1308788,
-    "name": "Inauini / Teuini",
+    "name": "Inauini/Teuini",
     "state": "AM"
   },
   {
@@ -646,7 +671,7 @@
   },
   {
     "id": 1309369,
-    "name": "Vui-Uatá-In",
+    "name": "Vui-Uata-In",
     "state": "AM"
   },
   {
@@ -656,7 +681,7 @@
   },
   {
     "id": 1309989,
-    "name": "Nhamundá / Mapuera",
+    "name": "Nhamundá/Mapuera",
     "state": "AM"
   },
   {
@@ -761,7 +786,7 @@
   },
   {
     "id": 1350049,
-    "name": "Miguel / Josefa",
+    "name": "Miguel/Josefa",
     "state": "AM"
   },
   {
@@ -811,7 +836,7 @@
   },
   {
     "id": 1350065,
-    "name": "Recreio / São Félix",
+    "name": "Recreio/São Félix",
     "state": "AM"
   },
   {
@@ -841,7 +866,7 @@
   },
   {
     "id": 1350073,
-    "name": "São Francisco do Canamari",
+    "name": "São Francisco do Canimari",
     "state": "AM"
   },
   {
@@ -930,6 +955,56 @@
     "state": "AM"
   },
   {
+    "id": 1350700,
+    "name": "Cué Cué/Marabitanas",
+    "state": "AM"
+  },
+  {
+    "id": 1350702,
+    "name": "Sissaíma",
+    "state": "AM"
+  },
+  {
+    "id": 1350703,
+    "name": "Ponciano",
+    "state": "AM"
+  },
+  {
+    "id": 1350704,
+    "name": "Murutinga/Tracaja",
+    "state": "AM"
+  },
+  {
+    "id": 1350707,
+    "name": "Guanabara",
+    "state": "AM"
+  },
+  {
+    "id": 1350708,
+    "name": "Lago do Limão",
+    "state": "AM"
+  },
+  {
+    "id": 1350748,
+    "name": "Uneiuxi",
+    "state": "AM"
+  },
+  {
+    "id": 1350765,
+    "name": "Kaxuyana-Tunayana",
+    "state": "AM"
+  },
+  {
+    "id": 1350789,
+    "name": "Jurubaxi-téa",
+    "state": "AM"
+  },
+  {
+    "id": 1350794,
+    "name": "Riozinho",
+    "state": "AM"
+  },
+  {
     "id": 1403182,
     "name": "Waimiri-Atroari",
     "state": "RR"
@@ -996,7 +1071,7 @@
   },
   {
     "id": 1406980,
-    "name": "Manoa / Pium",
+    "name": "Manoa/Pium",
     "state": "RR"
   },
   {
@@ -1046,7 +1121,7 @@
   },
   {
     "id": 1408508,
-    "name": "Trombetas / Mapuera",
+    "name": "Trombetas/Mapuera",
     "state": "RR"
   },
   {
@@ -1061,7 +1136,7 @@
   },
   {
     "id": 1409733,
-    "name": "São Marcos",
+    "name": "São Marcos - RR",
     "state": "RR"
   },
   {
@@ -1121,7 +1196,7 @@
   },
   {
     "id": 1505924,
-    "name": "Zo' E",
+    "name": "Zo'é",
     "state": "PA"
   },
   {
@@ -1140,13 +1215,18 @@
     "state": "PA"
   },
   {
+    "id": 1506831,
+    "name": "Waiãpi",
+    "state": "PA"
+  },
+  {
     "id": 1508508,
-    "name": "Trombetas / Mapuera",
+    "name": "Trombetas/Mapuera",
     "state": "PA"
   },
   {
     "id": 1508524,
-    "name": "Andirá / Marau",
+    "name": "Andirá-Marau",
     "state": "PA"
   },
   {
@@ -1236,7 +1316,7 @@
   },
   {
     "id": 1509989,
-    "name": "Nhamundá / Mapuera",
+    "name": "Nhamundá/Mapuera",
     "state": "PA"
   },
   {
@@ -1261,7 +1341,7 @@
   },
   {
     "id": 1514931,
-    "name": "Turé / Mariquita",
+    "name": "Turé/Mariquita",
     "state": "PA"
   },
   {
@@ -1276,7 +1356,12 @@
   },
   {
     "id": 1550098,
-    "name": "Turé / Mariquita II",
+    "name": "Turé/Mariquita II",
+    "state": "PA"
+  },
+  {
+    "id": 1550101,
+    "name": "Alto Turiaçu",
     "state": "PA"
   },
   {
@@ -1305,6 +1390,41 @@
     "state": "PA"
   },
   {
+    "id": 1550712,
+    "name": "Munduruku-Taquara",
+    "state": "PA"
+  },
+  {
+    "id": 1550713,
+    "name": "Bragança-Marituba",
+    "state": "PA"
+  },
+  {
+    "id": 1550714,
+    "name": "Maracaxi",
+    "state": "PA"
+  },
+  {
+    "id": 1550736,
+    "name": "Paquiçamba",
+    "state": "PA"
+  },
+  {
+    "id": 1550758,
+    "name": "Juruna do Km 17",
+    "state": "PA"
+  },
+  {
+    "id": 1550765,
+    "name": "Kaxuyana-Tunayana",
+    "state": "PA"
+  },
+  {
+    "id": 1550808,
+    "name": "Amanayé",
+    "state": "PA"
+  },
+  {
     "id": 1601392,
     "name": "Parque do Tumucumaque",
     "state": "AP"
@@ -1316,7 +1436,7 @@
   },
   {
     "id": 1606840,
-    "name": "Uaça",
+    "name": "Uaçá",
     "state": "AP"
   },
   {
@@ -1345,6 +1465,11 @@
     "state": "TO"
   },
   {
+    "id": 1705091,
+    "name": "Maranduba",
+    "state": "TO"
+  },
+  {
     "id": 1705533,
     "name": "Xambioá",
     "state": "TO"
@@ -1370,13 +1495,23 @@
     "state": "TO"
   },
   {
+    "id": 1750685,
+    "name": "Utaria Wyhyna/Iròdu Iràna",
+    "state": "TO"
+  },
+  {
+    "id": 1750686,
+    "name": "Taego Ãwa",
+    "state": "TO"
+  },
+  {
     "id": 2102832,
-    "name": "Urucu / Jurua",
+    "name": "Urucu/Juruá",
     "state": "MA"
   },
   {
     "id": 2103816,
-    "name": "Cana Brava / Guajajara",
+    "name": "Cana Brava/Guajajara",
     "state": "MA"
   },
   {
@@ -1396,7 +1531,7 @@
   },
   {
     "id": 2106610,
-    "name": "Awá",
+    "name": "Awa",
     "state": "MA"
   },
   {
@@ -1430,6 +1565,11 @@
     "state": "MA"
   },
   {
+    "id": 2109938,
+    "name": "Alto Rio Guamá",
+    "state": "MA"
+  },
+  {
     "id": 2150101,
     "name": "Alto Turiaçu",
     "state": "MA"
@@ -1450,6 +1590,26 @@
     "state": "MA"
   },
   {
+    "id": 2150720,
+    "name": "Bacurizinho",
+    "state": "MA"
+  },
+  {
+    "id": 2150774,
+    "name": "Krenyê",
+    "state": "MA"
+  },
+  {
+    "id": 2250807,
+    "name": "Kariri de Serra Grande",
+    "state": "PI"
+  },
+  {
+    "id": 2306262,
+    "name": "Tapeba",
+    "state": "CE"
+  },
+  {
     "id": 2350659,
     "name": "Pitaguary",
     "state": "CE"
@@ -1457,6 +1617,26 @@
   {
     "id": 2350660,
     "name": "Córrego João Pereira",
+    "state": "CE"
+  },
+  {
+    "id": 2350661,
+    "name": "Lagoa Encantada",
+    "state": "CE"
+  },
+  {
+    "id": 2350687,
+    "name": "Taba dos Anacé",
+    "state": "CE"
+  },
+  {
+    "id": 2350759,
+    "name": "Tremembé da Barra do Mundaú",
+    "state": "CE"
+  },
+  {
+    "id": 2350771,
+    "name": "Tremembé de Queimadas",
     "state": "CE"
   },
   {
@@ -1486,7 +1666,7 @@
   },
   {
     "id": 2606327,
-    "name": "Fulni-Ô",
+    "name": "Fulni-ô",
     "state": "PE"
   },
   {
@@ -1525,9 +1705,24 @@
     "state": "PE"
   },
   {
-    "id": 2705819,
-    "name": "Wassu-Cocal",
-    "state": "AL"
+    "id": 2650751,
+    "name": "Truká",
+    "state": "PE"
+  },
+  {
+    "id": 2650766,
+    "name": "Fazenda Cristo Rei",
+    "state": "PE"
+  },
+  {
+    "id": 2650804,
+    "name": "Ilhas da Tapera/São Félix/Porto",
+    "state": "PE"
+  },
+  {
+    "id": 2650807,
+    "name": "Kariri de Serra Grande",
+    "state": "PE"
   },
   {
     "id": 2705827,
@@ -1551,7 +1746,7 @@
   },
   {
     "id": 2705860,
-    "name": "Jeripancó",
+    "name": "Geripancó",
     "state": "AL"
   },
   {
@@ -1565,13 +1760,28 @@
     "state": "AL"
   },
   {
+    "id": 2750752,
+    "name": "Xukuru-Kariri",
+    "state": "AL"
+  },
+  {
+    "id": 2750773,
+    "name": "Kariri-Xocó",
+    "state": "AL"
+  },
+  {
+    "id": 2750809,
+    "name": "Wassu Cocal",
+    "state": "AL"
+  },
+  {
     "id": 2801880,
-    "name": "Caiçara / Ilha de São Pedro",
+    "name": "Caiçara/Ilha de São Pedro",
     "state": "SE"
   },
   {
     "id": 2905681,
-    "name": "Caramuru / Paraguassu",
+    "name": "Caramuru/Paraguassu",
     "state": "BA"
   },
   {
@@ -1660,6 +1870,31 @@
     "state": "BA"
   },
   {
+    "id": 2950751,
+    "name": "Truká",
+    "state": "BA"
+  },
+  {
+    "id": 2950798,
+    "name": "Quixaba",
+    "state": "BA"
+  },
+  {
+    "id": 2950801,
+    "name": "Fazenda Jenipapeiro",
+    "state": "BA"
+  },
+  {
+    "id": 2950802,
+    "name": "Fazenda Sempre Verde",
+    "state": "BA"
+  },
+  {
+    "id": 2950807,
+    "name": "Kariri de Serra Grande",
+    "state": "BA"
+  },
+  {
     "id": 3105592,
     "name": "Krenak",
     "state": "MG"
@@ -1686,7 +1921,7 @@
   },
   {
     "id": 3150669,
-    "name": "Mundo Verde / Cachoeirinha",
+    "name": "Mundo Verde/Cachoeirinha",
     "state": "MG"
   },
   {
@@ -1695,23 +1930,28 @@
     "state": "MG"
   },
   {
+    "id": 3150787,
+    "name": "Fazenda Boa Vista - MG",
+    "state": "MG"
+  },
+  {
+    "id": 3150803,
+    "name": "Muã Mimatxi (Fazenda Modelo Diniz)",
+    "state": "MG"
+  },
+  {
     "id": 3205657,
     "name": "Comboios",
     "state": "ES"
   },
   {
-    "id": 3205665,
-    "name": "Caieiras Velha",
-    "state": "ES"
-  },
-  {
-    "id": 3205673,
-    "name": "Pau Brasil",
-    "state": "ES"
-  },
-  {
     "id": 3250360,
     "name": "Caieiras Velha II",
+    "state": "ES"
+  },
+  {
+    "id": 3250725,
+    "name": "Tupiniquim",
     "state": "ES"
   },
   {
@@ -1721,7 +1961,7 @@
   },
   {
     "id": 3305525,
-    "name": "Guarani de Bracui",
+    "name": "Guarani de Bracuí",
     "state": "RJ"
   },
   {
@@ -1730,13 +1970,18 @@
     "state": "RJ"
   },
   {
+    "id": 3505517,
+    "name": "Guarani Araponga",
+    "state": "SP"
+  },
+  {
     "id": 3509865,
     "name": "Araribá",
     "state": "SP"
   },
   {
     "id": 3510430,
-    "name": "Guarani do Ribeirão Silveira",
+    "name": "Ribeirão Silveira",
     "state": "SP"
   },
   {
@@ -1795,6 +2040,36 @@
     "state": "SP"
   },
   {
+    "id": 3550665,
+    "name": "Piaçaguera",
+    "state": "SP"
+  },
+  {
+    "id": 3550728,
+    "name": "Jaraguá",
+    "state": "SP"
+  },
+  {
+    "id": 3550732,
+    "name": "Tenondé Porã",
+    "state": "SP"
+  },
+  {
+    "id": 3550742,
+    "name": "Takuari",
+    "state": "SP"
+  },
+  {
+    "id": 3550768,
+    "name": "Tekoa Gwyra Pepo",
+    "state": "SP"
+  },
+  {
+    "id": 3550806,
+    "name": "Guarani do Ribeirão Silveira",
+    "state": "SP"
+  },
+  {
     "id": 4105282,
     "name": "Avá-Guarani do Ocoí",
     "state": "PR"
@@ -1841,7 +2116,7 @@
   },
   {
     "id": 4105452,
-    "name": "Tibagy / Mococa",
+    "name": "Tibagy/Mococa",
     "state": "PR"
   },
   {
@@ -1886,7 +2161,12 @@
   },
   {
     "id": 4150672,
-    "name": "Boa Vista",
+    "name": "Boa Vista - PR",
+    "state": "PR"
+  },
+  {
+    "id": 4150693,
+    "name": "Tekoha Itamarã",
     "state": "PR"
   },
   {
@@ -1941,12 +2221,22 @@
   },
   {
     "id": 4250634,
-    "name": "Guarani do Araça'i",
+    "name": "Guarani de Araçaí",
     "state": "SC"
   },
   {
     "id": 4250635,
     "name": "Morro dos Cavalos",
+    "state": "SC"
+  },
+  {
+    "id": 4250636,
+    "name": "Pirai",
+    "state": "SC"
+  },
+  {
+    "id": 4250637,
+    "name": "Morro Alto",
     "state": "SC"
   },
   {
@@ -1957,6 +2247,51 @@
   {
     "id": 4250640,
     "name": "Xapecó (Pinhalzinho-Canhadão)",
+    "state": "SC"
+  },
+  {
+    "id": 4250641,
+    "name": "Pindoty",
+    "state": "SC"
+  },
+  {
+    "id": 4250663,
+    "name": "Tarumã",
+    "state": "SC"
+  },
+  {
+    "id": 4250694,
+    "name": "Águas Claras",
+    "state": "SC"
+  },
+  {
+    "id": 4250695,
+    "name": "Amaral/Tekoá Kuriy",
+    "state": "SC"
+  },
+  {
+    "id": 4250696,
+    "name": "Morro da Palha",
+    "state": "SC"
+  },
+  {
+    "id": 4250726,
+    "name": "Ibirama-La Klãnô",
+    "state": "SC"
+  },
+  {
+    "id": 4250737,
+    "name": "Pinhal",
+    "state": "SC"
+  },
+  {
+    "id": 4250763,
+    "name": "Canelinha",
+    "state": "SC"
+  },
+  {
+    "id": 4250769,
+    "name": "Barragem Norte",
     "state": "SC"
   },
   {
@@ -1995,11 +2330,6 @@
     "state": "RS"
   },
   {
-    "id": 4307706,
-    "name": "Nonoai",
-    "state": "RS"
-  },
-  {
     "id": 4307722,
     "name": "Votouro",
     "state": "RS"
@@ -2031,7 +2361,7 @@
   },
   {
     "id": 4350145,
-    "name": "Nonoai / Rio da Várzea",
+    "name": "Nonoai/Rio da Várzea",
     "state": "RS"
   },
   {
@@ -2065,8 +2395,33 @@
     "state": "RS"
   },
   {
+    "id": 4350727,
+    "name": "Irapuá",
+    "state": "RS"
+  },
+  {
+    "id": 4350745,
+    "name": "Passo Grande do Rio Forquilha",
+    "state": "RS"
+  },
+  {
+    "id": 4350753,
+    "name": "Estrada do Mar",
+    "state": "RS"
+  },
+  {
+    "id": 4350755,
+    "name": "Campo Bonito",
+    "state": "RS"
+  },
+  {
+    "id": 4350805,
+    "name": "Riozinho - RS",
+    "state": "RS"
+  },
+  {
     "id": 5003328,
-    "name": "Kadiweu",
+    "name": "Kadiwéu",
     "state": "MS"
   },
   {
@@ -2081,17 +2436,12 @@
   },
   {
     "id": 5006475,
-    "name": "Jarará",
+    "name": "Jarara",
     "state": "MS"
   },
   {
     "id": 5006491,
     "name": "Panambizinho",
-    "state": "MS"
-  },
-  {
-    "id": 5006505,
-    "name": "Panambi",
     "state": "MS"
   },
   {
@@ -2101,7 +2451,7 @@
   },
   {
     "id": 5006530,
-    "name": "Takuaraty / Yvykuarusu",
+    "name": "Takuaraty/Yvykuarusu",
     "state": "MS"
   },
   {
@@ -2230,6 +2580,11 @@
     "state": "MS"
   },
   {
+    "id": 5050643,
+    "name": "Jatayvari",
+    "state": "MS"
+  },
+  {
     "id": 5050644,
     "name": "Arroio-Korá",
     "state": "MS"
@@ -2257,6 +2612,31 @@
   {
     "id": 5050673,
     "name": "Nossa Senhora de Fátima",
+    "state": "MS"
+  },
+  {
+    "id": 5050724,
+    "name": "Cachoeirinha",
+    "state": "MS"
+  },
+  {
+    "id": 5050735,
+    "name": "Ofayé-Xavante",
+    "state": "MS"
+  },
+  {
+    "id": 5050739,
+    "name": "Yvy-Katu",
+    "state": "MS"
+  },
+  {
+    "id": 5050750,
+    "name": "Taunay/Ipegue",
+    "state": "MS"
+  },
+  {
+    "id": 5050781,
+    "name": "Buriti",
     "state": "MS"
   },
   {
@@ -2321,7 +2701,7 @@
   },
   {
     "id": 5103263,
-    "name": "São Marcos",
+    "name": "São Marcos - MT",
     "state": "MT"
   },
   {
@@ -2336,7 +2716,7 @@
   },
   {
     "id": 5103298,
-    "name": "Erikbaktsa",
+    "name": "Erikpatsá",
     "state": "MT"
   },
   {
@@ -2351,12 +2731,17 @@
   },
   {
     "id": 5105495,
-    "name": "Sangradouro / Volta Grande",
+    "name": "Sangradouro/Volta Grande",
     "state": "MT"
   },
   {
     "id": 5105894,
     "name": "Menkragnoti",
+    "state": "MT"
+  },
+  {
+    "id": 5106289,
+    "name": "Guató",
     "state": "MT"
   },
   {
@@ -2366,7 +2751,7 @@
   },
   {
     "id": 5106769,
-    "name": "Apiaka / Kayabi",
+    "name": "Apiaka/Kayabi",
     "state": "MT"
   },
   {
@@ -2391,7 +2776,7 @@
   },
   {
     "id": 5106823,
-    "name": "Menku",
+    "name": "Menkü",
     "state": "MT"
   },
   {
@@ -2411,7 +2796,7 @@
   },
   {
     "id": 5107358,
-    "name": "Tapirapé / Karajá",
+    "name": "Tapirapé/Karajá",
     "state": "MT"
   },
   {
@@ -2431,12 +2816,12 @@
   },
   {
     "id": 5107390,
-    "name": "São Domingos",
+    "name": "São Domingos - MT",
     "state": "MT"
   },
   {
     "id": 5107404,
-    "name": "Capoto / Jarina",
+    "name": "Capoto/Jarina",
     "state": "MT"
   },
   {
@@ -2472,6 +2857,11 @@
   {
     "id": 5107501,
     "name": "Roosevelt",
+    "state": "MT"
+  },
+  {
+    "id": 5107579,
+    "name": "Igarapé Lourdes",
     "state": "MT"
   },
   {
@@ -2556,7 +2946,12 @@
   },
   {
     "id": 5150654,
-    "name": "Baia do Guató",
+    "name": "Baía dos Guató",
+    "state": "MT"
+  },
+  {
+    "id": 5150655,
+    "name": "Kawahiva do Rio Pardo",
     "state": "MT"
   },
   {
@@ -2580,8 +2975,18 @@
     "state": "MT"
   },
   {
+    "id": 5150697,
+    "name": "Manoki",
+    "state": "MT"
+  },
+  {
+    "id": 5150698,
+    "name": "Estação Parecis",
+    "state": "MT"
+  },
+  {
     "id": 5250361,
-    "name": "Ava-Canoeiro",
+    "name": "Avá-Canoeiro",
     "state": "GO"
   },
   {

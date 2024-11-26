@@ -31,6 +31,18 @@
       "Nome": "Microrregião Geográfica"
     },
     {
+      "Id": 70,
+      "Nome": "Recortes Metropolitanos"
+    },
+    {
+      "Id": 71,
+      "Nome": "Categoria Metropolitana"
+    },
+    {
+      "Id": 72,
+      "Nome": "Subcategoria Metropolitana"
+    },
+    {
       "Id": 7,
       "Nome": "Região Metropolitana"
     },
@@ -41,6 +53,18 @@
     {
       "Id": 14,
       "Nome": "Região Integrada de Desenvolvimento"
+    },
+    {
+      "Id": 150,
+      "Nome": "Recortes da Aglomeração Urbana"
+    },
+    {
+      "Id": 151,
+      "Nome": "Categoria da Aglomeração Urbana"
+    },
+    {
+      "Id": 152,
+      "Nome": "Subcategoria da Aglomeração Urbana"
     },
     {
       "Id": 15,
@@ -31190,7 +31214,7 @@
     "Figueirópolis",
     "Filadélfia",
     "Formoso do Araguaia",
-    "Fortaleza do Tabocão",
+    "Tabocão",
     "Goianorte",
     "Goiatins",
     "Guaraí",
@@ -31957,7 +31981,7 @@
     "Croatá",
     "Cruz",
     "Deputado Irapuan Pinheiro",
-    "Ererê",
+    "Ereré",
     "Eusébio",
     "Eusébio",
     "Farias Brito",
@@ -32241,7 +32265,7 @@
     "Apodi",
     "Areia Branca",
     "Arês",
-    "Augusto Severo",
+    "Campo Grande",
     "Baía Formosa",
     "Baraúna",
     "Barcelona",
@@ -34475,7 +34499,7 @@
     "Dom Joaquim",
     "Dom Silvério",
     "Dom Viçoso",
-    "Dona Eusébia",
+    "Dona Euzébia",
     "Dores de Campos",
     "Dores de Guanhães",
     "Dores do Indaiá",
@@ -34961,7 +34985,7 @@
     "Piedade do Rio Grande",
     "Piedade dos Gerais",
     "Pimenta",
-    "Pingo d'Água",
+    "Pingo-d'Água",
     "Pintópolis",
     "Piracema",
     "Pirajuba",
@@ -35201,7 +35225,7 @@
     "São Sebastião do Rio Verde",
     "São Tiago",
     "São Tomás de Aquino",
-    "São Thomé das Letras",
+    "São Tomé das Letras",
     "São Vicente de Minas",
     "Sapucaí-Mirim",
     "Sardoá",
@@ -40221,7 +40245,7 @@
     "Santa Rita do Trivelato",
     "Santa Terezinha",
     "Santo Antônio do Leste",
-    "Santo Antônio do Leverger",
+    "Santo Antônio de Leverger",
     "São Félix do Araguaia",
     "Sapezal",
     "Serra Nova Dourada",

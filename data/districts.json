@@ -60,6 +60,12 @@
     "state": "RO"
   },
   {
+    "id": 110004915,
+    "name": "Divinópolis",
+    "city": "Cacoal",
+    "state": "RO"
+  },
+  {
     "id": 110005605,
     "name": "Cerejeiras",
     "city": "Cerejeiras",
@@ -85,7 +91,13 @@
   },
   {
     "id": 110008015,
-    "name": "Príncipe da Beira",
+    "name": "Real Forte Príncipe da Beira",
+    "city": "Costa Marques",
+    "state": "RO"
+  },
+  {
+    "id": 110008035,
+    "name": "São Domingos do Guaporé",
     "city": "Costa Marques",
     "state": "RO"
   },
@@ -230,6 +242,12 @@
   {
     "id": 110018915,
     "name": "Marco Rondon",
+    "city": "Pimenta Bueno",
+    "state": "RO"
+  },
+  {
+    "id": 110018920,
+    "name": "Itaporanga",
     "city": "Pimenta Bueno",
     "state": "RO"
   },
@@ -402,6 +420,12 @@
     "state": "RO"
   },
   {
+    "id": 110033825,
+    "name": "Nova Marechal Rondon",
+    "city": "Nova Mamoré",
+    "state": "RO"
+  },
+  {
     "id": 110034605,
     "name": "Alvorada D'Oeste",
     "city": "Alvorada D'Oeste",
@@ -440,6 +464,12 @@
   {
     "id": 110050205,
     "name": "Novo Horizonte do Oeste",
+    "city": "Novo Horizonte do Oeste",
+    "state": "RO"
+  },
+  {
+    "id": 110050210,
+    "name": "Migrantinópolis",
     "city": "Novo Horizonte do Oeste",
     "state": "RO"
   },
@@ -554,6 +584,24 @@
   {
     "id": 110149205,
     "name": "São Francisco do Guaporé",
+    "city": "São Francisco do Guaporé",
+    "state": "RO"
+  },
+  {
+    "id": 110149210,
+    "name": "Porto Murtinho",
+    "city": "São Francisco do Guaporé",
+    "state": "RO"
+  },
+  {
+    "id": 110149215,
+    "name": "Pedras Negras",
+    "city": "São Francisco do Guaporé",
+    "state": "RO"
+  },
+  {
+    "id": 110149220,
+    "name": "Santo Antônio do Guaporé",
     "city": "São Francisco do Guaporé",
     "state": "RO"
   },
@@ -780,6 +828,12 @@
     "state": "AM"
   },
   {
+    "id": 130014410,
+    "name": "Sucunduri",
+    "city": "Apuí",
+    "state": "AM"
+  },
+  {
     "id": 130020105,
     "name": "Atalaia do Norte",
     "city": "Atalaia do Norte",
@@ -864,6 +918,12 @@
     "state": "AM"
   },
   {
+    "id": 130068020,
+    "name": "Do Rio Urubu",
+    "city": "Boa Vista do Ramos",
+    "state": "AM"
+  },
+  {
     "id": 130070605,
     "name": "Boca do Acre",
     "city": "Boca do Acre",
@@ -882,6 +942,18 @@
     "state": "AM"
   },
   {
+    "id": 130080520,
+    "name": "Canumã",
+    "city": "Borba",
+    "state": "AM"
+  },
+  {
+    "id": 130080525,
+    "name": "Axinin",
+    "city": "Borba",
+    "state": "AM"
+  },
+  {
     "id": 130083905,
     "name": "Caapiranga",
     "city": "Caapiranga",
@@ -894,6 +966,18 @@
     "state": "AM"
   },
   {
+    "id": 130090410,
+    "name": "Belo Monte",
+    "city": "Canutama",
+    "state": "AM"
+  },
+  {
+    "id": 130090415,
+    "name": "Açuanópolis",
+    "city": "Canutama",
+    "state": "AM"
+  },
+  {
     "id": 130100105,
     "name": "Carauari",
     "city": "Carauari",
@@ -902,6 +986,18 @@
   {
     "id": 130110005,
     "name": "Careiro",
+    "city": "Careiro",
+    "state": "AM"
+  },
+  {
+    "id": 130110010,
+    "name": "Purupuru",
+    "city": "Careiro",
+    "state": "AM"
+  },
+  {
+    "id": 130110015,
+    "name": "Janauacá",
     "city": "Careiro",
     "state": "AM"
   },
@@ -925,7 +1021,7 @@
   },
   {
     "id": 130130810,
-    "name": "Badajos",
+    "name": "Badajós",
     "city": "Codajás",
     "state": "AM"
   },
@@ -956,6 +1052,12 @@
   {
     "id": 130170405,
     "name": "Humaitá",
+    "city": "Humaitá",
+    "state": "AM"
+  },
+  {
+    "id": 130170410,
+    "name": "Realidade",
     "city": "Humaitá",
     "state": "AM"
   },
@@ -1026,6 +1128,12 @@
     "state": "AM"
   },
   {
+    "id": 130210810,
+    "name": "Vila Bitencourt",
+    "city": "Japurá",
+    "state": "AM"
+  },
+  {
     "id": 130220705,
     "name": "Juruá",
     "city": "Juruá",
@@ -1064,6 +1172,12 @@
   {
     "id": 130270205,
     "name": "Manicoré",
+    "city": "Manicoré",
+    "state": "AM"
+  },
+  {
+    "id": 130270210,
+    "name": "Santo Antônio do Matupi",
     "city": "Manicoré",
     "state": "AM"
   },
@@ -1128,6 +1242,30 @@
     "state": "AM"
   },
   {
+    "id": 130340315,
+    "name": "Caburi",
+    "city": "Parintins",
+    "state": "AM"
+  },
+  {
+    "id": 130340320,
+    "name": "Vila Amazônia",
+    "city": "Parintins",
+    "state": "AM"
+  },
+  {
+    "id": 130340325,
+    "name": "Tracajá",
+    "city": "Parintins",
+    "state": "AM"
+  },
+  {
+    "id": 130340330,
+    "name": "Uaicurapá",
+    "city": "Parintins",
+    "state": "AM"
+  },
+  {
     "id": 130350205,
     "name": "Pauini",
     "city": "Pauini",
@@ -1160,6 +1298,12 @@
   {
     "id": 130370005,
     "name": "Santo Antônio do Içá",
+    "city": "Santo Antônio do Içá",
+    "state": "AM"
+  },
+  {
+    "id": 130370015,
+    "name": "Alterosa",
     "city": "Santo Antônio do Içá",
     "state": "AM"
   },
@@ -1202,6 +1346,12 @@
   {
     "id": 130395705,
     "name": "São Sebastião do Uatumã",
+    "city": "São Sebastião do Uatumã",
+    "state": "AM"
+  },
+  {
+    "id": 130395710,
+    "name": "Santana",
     "city": "São Sebastião do Uatumã",
     "state": "AM"
   },
@@ -1256,6 +1406,12 @@
   {
     "id": 130440110,
     "name": "Augusto Montenegro",
+    "city": "Urucurituba",
+    "state": "AM"
+  },
+  {
+    "id": 130440115,
+    "name": "Itapeaçú",
     "city": "Urucurituba",
     "state": "AM"
   },
@@ -1424,6 +1580,12 @@
   {
     "id": 150060205,
     "name": "Altamira",
+    "city": "Altamira",
+    "state": "PA"
+  },
+  {
+    "id": 150060206,
+    "name": "Cachoeira da Serra",
     "city": "Altamira",
     "state": "PA"
   },
@@ -1663,7 +1825,7 @@
   },
   {
     "id": 150170940,
-    "name": "Vila do Treme",
+    "name": "Treme",
     "city": "Bragança",
     "state": "PA"
   },
@@ -1765,7 +1927,7 @@
   },
   {
     "id": 150210320,
-    "name": "Januacoeli",
+    "name": "Janua Coeli",
     "city": "Cametá",
     "state": "PA"
   },
@@ -1927,7 +2089,7 @@
   },
   {
     "id": 150295405,
-    "name": "Eldorado dos Carajás",
+    "name": "Eldorado do Carajás",
     "city": "Eldorado do Carajás",
     "state": "PA"
   },
@@ -1946,6 +2108,12 @@
   {
     "id": 150304405,
     "name": "Floresta do Araguaia",
+    "city": "Floresta do Araguaia",
+    "state": "PA"
+  },
+  {
+    "id": 150304410,
+    "name": "Bela Vista",
     "city": "Floresta do Araguaia",
     "state": "PA"
   },
@@ -2024,6 +2192,12 @@
   {
     "id": 150360605,
     "name": "Itaituba",
+    "city": "Itaituba",
+    "state": "PA"
+  },
+  {
+    "id": 150360620,
+    "name": "Moraes Almeida",
     "city": "Itaituba",
     "state": "PA"
   },
@@ -2250,6 +2424,12 @@
     "state": "PA"
   },
   {
+    "id": 150503110,
+    "name": "Mil",
+    "city": "Novo Progresso",
+    "state": "PA"
+  },
+  {
     "id": 150506405,
     "name": "Novo Repartimento",
     "city": "Novo Repartimento",
@@ -2306,6 +2486,12 @@
   {
     "id": 150548605,
     "name": "Pacajá",
+    "city": "Pacajá",
+    "state": "PA"
+  },
+  {
+    "id": 150548610,
+    "name": "Bom Jardim",
     "city": "Pacajá",
     "state": "PA"
   },
@@ -2400,6 +2586,12 @@
     "state": "PA"
   },
   {
+    "id": 150600525,
+    "name": "Santa Maria do Uruará",
+    "city": "Prainha",
+    "state": "PA"
+  },
+  {
     "id": 150610405,
     "name": "Primavera",
     "city": "Primavera",
@@ -2408,6 +2600,12 @@
   {
     "id": 150611205,
     "name": "Quatipuru",
+    "city": "Quatipuru",
+    "state": "PA"
+  },
+  {
+    "id": 150611210,
+    "name": "Boa Vista",
     "city": "Quatipuru",
     "state": "PA"
   },
@@ -2491,7 +2689,7 @@
   },
   {
     "id": 150650005,
-    "name": "Santa Isabel do Pará",
+    "name": "Santa Izabel do Pará",
     "city": "Santa Izabel do Pará",
     "state": "PA"
   },
@@ -2568,6 +2766,12 @@
     "state": "PA"
   },
   {
+    "id": 150680740,
+    "name": "Arapixuna",
+    "city": "Santarém",
+    "state": "PA"
+  },
+  {
     "id": 150690605,
     "name": "Santarém Novo",
     "city": "Santarém Novo",
@@ -2618,6 +2822,12 @@
   {
     "id": 150730005,
     "name": "São Félix do Xingu",
+    "city": "São Félix do Xingu",
+    "state": "PA"
+  },
+  {
+    "id": 150730020,
+    "name": "Sudoeste",
     "city": "São Félix do Xingu",
     "state": "PA"
   },
@@ -2738,6 +2948,12 @@
   {
     "id": 150795305,
     "name": "Tailândia",
+    "city": "Tailândia",
+    "state": "PA"
+  },
+  {
+    "id": 150795310,
+    "name": "Palmares",
     "city": "Tailândia",
     "state": "PA"
   },
@@ -2988,6 +3204,12 @@
     "state": "AP"
   },
   {
+    "id": 160050120,
+    "name": "Vila Brasil",
+    "city": "Oiapoque",
+    "state": "AP"
+  },
+  {
     "id": 160053505,
     "name": "Porto Grande",
     "city": "Porto Grande",
@@ -3102,6 +3324,12 @@
     "state": "TO"
   },
   {
+    "id": 170130910,
+    "name": "Reunidas",
+    "city": "Aragominas",
+    "state": "TO"
+  },
+  {
     "id": 170190305,
     "name": "Araguacema",
     "city": "Araguacema",
@@ -3134,6 +3362,12 @@
   {
     "id": 170220810,
     "name": "Natal",
+    "city": "Araguatins",
+    "state": "TO"
+  },
+  {
+    "id": 170220820,
+    "name": "Macaúba",
     "city": "Araguatins",
     "state": "TO"
   },
@@ -3385,8 +3619,8 @@
   },
   {
     "id": 170825405,
-    "name": "Fortaleza do Tabocão",
-    "city": "Fortaleza do Tabocão",
+    "name": "Tabocão",
+    "city": "Tabocão",
     "state": "TO"
   },
   {
@@ -3410,6 +3644,12 @@
   {
     "id": 170900515,
     "name": "Craolândia",
+    "city": "Goiatins",
+    "state": "TO"
+  },
+  {
+    "id": 170900525,
+    "name": "Alto Lindo",
     "city": "Goiatins",
     "state": "TO"
   },
@@ -3644,6 +3884,18 @@
   {
     "id": 171620805,
     "name": "Paranã",
+    "city": "Paranã",
+    "state": "TO"
+  },
+  {
+    "id": 171620810,
+    "name": "Bom Jesus da Palma",
+    "city": "Paranã",
+    "state": "TO"
+  },
+  {
+    "id": 171620815,
+    "name": "Campo Alegre",
     "city": "Paranã",
     "state": "TO"
   },
@@ -6133,7 +6385,7 @@
   },
   {
     "id": 220570605,
-    "name": "Luís Correia",
+    "name": "Luiz Correia",
     "city": "Luís Correia",
     "state": "PI"
   },
@@ -6780,6 +7032,24 @@
     "state": "CE"
   },
   {
+    "id": 230010125,
+    "name": "Oitis",
+    "city": "Abaiara",
+    "state": "CE"
+  },
+  {
+    "id": 230010130,
+    "name": "Triângulo",
+    "city": "Abaiara",
+    "state": "CE"
+  },
+  {
+    "id": 230010135,
+    "name": "Olho D'Água de Pedras",
+    "city": "Abaiara",
+    "state": "CE"
+  },
+  {
     "id": 230015005,
     "name": "Acarape",
     "city": "Acarape",
@@ -7194,6 +7464,12 @@
     "state": "CE"
   },
   {
+    "id": 230125720,
+    "name": "Ramadinha",
+    "city": "Ararendá",
+    "state": "CE"
+  },
+  {
     "id": 230130705,
     "name": "Araripe",
     "city": "Araripe",
@@ -7254,6 +7530,12 @@
     "state": "CE"
   },
   {
+    "id": 230150525,
+    "name": "Novo Horizonte",
+    "city": "Arneiroz",
+    "state": "CE"
+  },
+  {
     "id": 230160405,
     "name": "Assaré",
     "city": "Assaré",
@@ -7268,6 +7550,18 @@
   {
     "id": 230160415,
     "name": "Aratama",
+    "city": "Assaré",
+    "state": "CE"
+  },
+  {
+    "id": 230160425,
+    "name": "Genezaré",
+    "city": "Assaré",
+    "state": "CE"
+  },
+  {
+    "id": 230160430,
+    "name": "Cajazeiras dos Simiões",
     "city": "Assaré",
     "state": "CE"
   },
@@ -7292,6 +7586,12 @@
   {
     "id": 230170315,
     "name": "Tipi",
+    "city": "Aurora",
+    "state": "CE"
+  },
+  {
+    "id": 230170320,
+    "name": "Cachoeira",
     "city": "Aurora",
     "state": "CE"
   },
@@ -7424,6 +7724,12 @@
   {
     "id": 230200825,
     "name": "Serrota",
+    "city": "Barro",
+    "state": "CE"
+  },
+  {
+    "id": 230200830,
+    "name": "Riachão",
     "city": "Barro",
     "state": "CE"
   },
@@ -7668,6 +7974,12 @@
     "state": "CE"
   },
   {
+    "id": 230270135,
+    "name": "Poço das Pedras",
+    "city": "Campos Sales",
+    "state": "CE"
+  },
+  {
     "id": 230280005,
     "name": "Canindé",
     "city": "Canindé",
@@ -7729,7 +8041,13 @@
   },
   {
     "id": 230280035,
-    "name": "Salitre",
+    "name": "Ubiraçu",
+    "city": "Canindé",
+    "state": "CE"
+  },
+  {
+    "id": 230280040,
+    "name": "Vazante do Curú",
     "city": "Canindé",
     "state": "CE"
   },
@@ -7801,13 +8119,25 @@
   },
   {
     "id": 230320415,
-    "name": "Miguel Xavier",
+    "name": "Valência",
     "city": "Caririaçu",
     "state": "CE"
   },
   {
     "id": 230320420,
     "name": "Miragem",
+    "city": "Caririaçu",
+    "state": "CE"
+  },
+  {
+    "id": 230320425,
+    "name": "Cachoeirinha",
+    "city": "Caririaçu",
+    "state": "CE"
+  },
+  {
+    "id": 230320430,
+    "name": "Primavera",
     "city": "Caririaçu",
     "state": "CE"
   },
@@ -7915,7 +8245,7 @@
   },
   {
     "id": 230370907,
-    "name": "Bom Príncipio",
+    "name": "Bom Princípio",
     "city": "Caucaia",
     "state": "CE"
   },
@@ -8347,20 +8677,20 @@
   },
   {
     "id": 230427705,
-    "name": "Ererê",
-    "city": "Ererê",
+    "name": "Ereré",
+    "city": "Ereré",
     "state": "CE"
   },
   {
     "id": 230427720,
     "name": "São João",
-    "city": "Ererê",
+    "city": "Ereré",
     "state": "CE"
   },
   {
     "id": 230427725,
     "name": "Tomé Vieira",
-    "city": "Ererê",
+    "city": "Ereré",
     "state": "CE"
   },
   {
@@ -8408,6 +8738,12 @@
   {
     "id": 230435025,
     "name": "Trapiá",
+    "city": "Forquilha",
+    "state": "CE"
+  },
+  {
+    "id": 230435030,
+    "name": "Cacimbinha",
     "city": "Forquilha",
     "state": "CE"
   },
@@ -8546,6 +8882,18 @@
   {
     "id": 230480605,
     "name": "Granjeiro",
+    "city": "Granjeiro",
+    "state": "CE"
+  },
+  {
+    "id": 230480610,
+    "name": "Serrinha",
+    "city": "Granjeiro",
+    "state": "CE"
+  },
+  {
+    "id": 230480615,
+    "name": "Canabrava dos Ferreiras",
     "city": "Granjeiro",
     "state": "CE"
   },
@@ -8916,6 +9264,18 @@
     "state": "CE"
   },
   {
+    "id": 230560550,
+    "name": "Cachoeira do Fogo",
+    "city": "Independência",
+    "state": "CE"
+  },
+  {
+    "id": 230560555,
+    "name": "Várzea Grande",
+    "city": "Independência",
+    "state": "CE"
+  },
+  {
     "id": 230565405,
     "name": "Ipaporanga",
     "city": "Ipaporanga",
@@ -8924,6 +9284,42 @@
   {
     "id": 230565410,
     "name": "Sacramento",
+    "city": "Ipaporanga",
+    "state": "CE"
+  },
+  {
+    "id": 230565415,
+    "name": "Lagoa do Barro",
+    "city": "Ipaporanga",
+    "state": "CE"
+  },
+  {
+    "id": 230565420,
+    "name": "Mulungú",
+    "city": "Ipaporanga",
+    "state": "CE"
+  },
+  {
+    "id": 230565425,
+    "name": "Torrões",
+    "city": "Ipaporanga",
+    "state": "CE"
+  },
+  {
+    "id": 230565430,
+    "name": "Sítio Araras",
+    "city": "Ipaporanga",
+    "state": "CE"
+  },
+  {
+    "id": 230565435,
+    "name": "Cajás dos Jorges",
+    "city": "Ipaporanga",
+    "state": "CE"
+  },
+  {
+    "id": 230565440,
+    "name": "Água Branca",
     "city": "Ipaporanga",
     "state": "CE"
   },
@@ -9048,6 +9444,18 @@
     "state": "CE"
   },
   {
+    "id": 230590245,
+    "name": "Barrocas",
+    "city": "Ipueiras",
+    "state": "CE"
+  },
+  {
+    "id": 230590250,
+    "name": "Nova Graça",
+    "city": "Ipueiras",
+    "state": "CE"
+  },
+  {
     "id": 230600905,
     "name": "Iracema",
     "city": "Iracema",
@@ -9109,7 +9517,7 @@
   },
   {
     "id": 230630605,
-    "name": "Itapagé",
+    "name": "Itapajé",
     "city": "Itapajé",
     "state": "CE"
   },
@@ -9384,6 +9792,18 @@
     "state": "CE"
   },
   {
+    "id": 230700730,
+    "name": "Figueiredo",
+    "city": "Jaguaruana",
+    "state": "CE"
+  },
+  {
+    "id": 230700735,
+    "name": "Jurema",
+    "city": "Jaguaruana",
+    "state": "CE"
+  },
+  {
     "id": 230710605,
     "name": "Jardim",
     "city": "Jardim",
@@ -9402,6 +9822,18 @@
     "state": "CE"
   },
   {
+    "id": 230710615,
+    "name": "Fazenda Nova",
+    "city": "Jardim",
+    "state": "CE"
+  },
+  {
+    "id": 230710620,
+    "name": "Taquari",
+    "city": "Jardim",
+    "state": "CE"
+  },
+  {
     "id": 230720505,
     "name": "Jati",
     "city": "Jati",
@@ -9416,6 +9848,18 @@
   {
     "id": 230720515,
     "name": "Carnaúba",
+    "city": "Jati",
+    "state": "CE"
+  },
+  {
+    "id": 230720520,
+    "name": "Baixa Grande",
+    "city": "Jati",
+    "state": "CE"
+  },
+  {
+    "id": 230720525,
+    "name": "Mãe D'Água",
     "city": "Jati",
     "state": "CE"
   },
@@ -9798,6 +10242,12 @@
     "state": "CE"
   },
   {
+    "id": 230810435,
+    "name": "Olho D'água",
+    "city": "Mauriti",
+    "state": "CE"
+  },
+  {
     "id": 230820305,
     "name": "Meruoca",
     "city": "Meruoca",
@@ -9842,6 +10292,24 @@
   {
     "id": 230830210,
     "name": "Rosário",
+    "city": "Milagres",
+    "state": "CE"
+  },
+  {
+    "id": 230830215,
+    "name": "Café da Linha",
+    "city": "Milagres",
+    "state": "CE"
+  },
+  {
+    "id": 230830220,
+    "name": "Fronteiro",
+    "city": "Milagres",
+    "state": "CE"
+  },
+  {
+    "id": 230830225,
+    "name": "Padre Cícero",
     "city": "Milagres",
     "state": "CE"
   },
@@ -9906,6 +10374,18 @@
     "state": "CE"
   },
   {
+    "id": 230837730,
+    "name": "Juremal",
+    "city": "Miraíma",
+    "state": "CE"
+  },
+  {
+    "id": 230837735,
+    "name": "Bom Jesus",
+    "city": "Miraíma",
+    "state": "CE"
+  },
+  {
     "id": 230840105,
     "name": "Missão Velha",
     "city": "Missão Velha",
@@ -9949,7 +10429,7 @@
   },
   {
     "id": 230850015,
-    "name": "Cangatí",
+    "name": "Cangati",
     "city": "Mombaça",
     "state": "CE"
   },
@@ -9979,13 +10459,25 @@
   },
   {
     "id": 230850030,
-    "name": "São Gonçalo do Umari",
+    "name": "Morada Nova",
     "city": "Mombaça",
     "state": "CE"
   },
   {
     "id": 230850035,
     "name": "São Vicente",
+    "city": "Mombaça",
+    "state": "CE"
+  },
+  {
+    "id": 230850040,
+    "name": "Cacimbas",
+    "city": "Mombaça",
+    "state": "CE"
+  },
+  {
+    "id": 230850045,
+    "name": "Nova União",
     "city": "Mombaça",
     "state": "CE"
   },
@@ -10154,6 +10646,24 @@
   {
     "id": 230930045,
     "name": "São Pedro",
+    "city": "Nova Russas",
+    "state": "CE"
+  },
+  {
+    "id": 230930050,
+    "name": "Irapuá",
+    "city": "Nova Russas",
+    "state": "CE"
+  },
+  {
+    "id": 230930055,
+    "name": "Moringue",
+    "city": "Nova Russas",
+    "state": "CE"
+  },
+  {
+    "id": 230930060,
+    "name": "Miguel Antônio",
     "city": "Nova Russas",
     "state": "CE"
   },
@@ -10446,8 +10956,26 @@
     "state": "CE"
   },
   {
+    "id": 231030835,
+    "name": "Riachão",
+    "city": "Parambu",
+    "state": "CE"
+  },
+  {
+    "id": 231030840,
+    "name": "Campo Grande",
+    "city": "Parambu",
+    "state": "CE"
+  },
+  {
     "id": 231040705,
     "name": "Paramoti",
+    "city": "Paramoti",
+    "state": "CE"
+  },
+  {
+    "id": 231040710,
+    "name": "Água Boa",
     "city": "Paramoti",
     "state": "CE"
   },
@@ -10794,6 +11322,12 @@
     "state": "CE"
   },
   {
+    "id": 231140508,
+    "name": "Berilândia",
+    "city": "Quixeramobim",
+    "state": "CE"
+  },
+  {
     "id": 231140510,
     "name": "Encantado",
     "city": "Quixeramobim",
@@ -10849,7 +11383,7 @@
   },
   {
     "id": 231150407,
-    "name": "Agua Fria",
+    "name": "Água Fria",
     "city": "Quixeré",
     "state": "CE"
   },
@@ -10946,6 +11480,12 @@
   {
     "id": 231180120,
     "name": "São João de Deus",
+    "city": "Russas",
+    "state": "CE"
+  },
+  {
+    "id": 231180125,
+    "name": "Timbaúba de Nossa Senhora das Dores",
     "city": "Russas",
     "state": "CE"
   },
@@ -11125,7 +11665,7 @@
   },
   {
     "id": 231220535,
-    "name": "Muribeca",
+    "name": "Saco do Belém",
     "city": "Santa Quitéria",
     "state": "CE"
   },
@@ -11138,6 +11678,24 @@
   {
     "id": 231220545,
     "name": "Trapiá",
+    "city": "Santa Quitéria",
+    "state": "CE"
+  },
+  {
+    "id": 231220550,
+    "name": "Riacho da Pedras",
+    "city": "Santa Quitéria",
+    "state": "CE"
+  },
+  {
+    "id": 231220555,
+    "name": "Sangradouro",
+    "city": "Santa Quitéria",
+    "state": "CE"
+  },
+  {
+    "id": 231220560,
+    "name": "Areal",
     "city": "Santa Quitéria",
     "state": "CE"
   },
@@ -11250,6 +11808,18 @@
     "state": "CE"
   },
   {
+    "id": 231270020,
+    "name": "Lagoa Nova",
+    "city": "Senador Pompeu",
+    "state": "CE"
+  },
+  {
+    "id": 231270025,
+    "name": "Lagoa Nova",
+    "city": "Senador Pompeu",
+    "state": "CE"
+  },
+  {
     "id": 231280905,
     "name": "Senador Sá",
     "city": "Senador Sá",
@@ -11342,6 +11912,30 @@
   {
     "id": 231290855,
     "name": "Taperuaba",
+    "city": "Sobral",
+    "state": "CE"
+  },
+  {
+    "id": 231290865,
+    "name": "Baracho",
+    "city": "Sobral",
+    "state": "CE"
+  },
+  {
+    "id": 231290870,
+    "name": "Bilheira",
+    "city": "Sobral",
+    "state": "CE"
+  },
+  {
+    "id": 231290875,
+    "name": "Pedra de Fogo",
+    "city": "Sobral",
+    "state": "CE"
+  },
+  {
+    "id": 231290880,
+    "name": "Salgado dos Machados",
     "city": "Sobral",
     "state": "CE"
   },
@@ -11454,6 +12048,18 @@
     "state": "CE"
   },
   {
+    "id": 231325210,
+    "name": "Vila Nova",
+    "city": "Tarrafas",
+    "state": "CE"
+  },
+  {
+    "id": 231325215,
+    "name": "Caiçara",
+    "city": "Tarrafas",
+    "state": "CE"
+  },
+  {
     "id": 231330205,
     "name": "Tauá",
     "city": "Tauá",
@@ -11544,6 +12150,12 @@
     "state": "CE"
   },
   {
+    "id": 231340130,
+    "name": "Bela Vista",
+    "city": "Tianguá",
+    "state": "CE"
+  },
+  {
     "id": 231350005,
     "name": "Trairi",
     "city": "Trairi",
@@ -11576,6 +12188,12 @@
   {
     "id": 231350010,
     "name": "Mundaú",
+    "city": "Trairi",
+    "state": "CE"
+  },
+  {
+    "id": 231350011,
+    "name": "Munguba",
     "city": "Trairi",
     "state": "CE"
   },
@@ -11713,7 +12331,7 @@
   },
   {
     "id": 231395515,
-    "name": "Croata",
+    "name": "Croatá",
     "city": "Varjota",
     "state": "CE"
   },
@@ -11875,8 +12493,8 @@
   },
   {
     "id": 240130505,
-    "name": "Augusto Severo",
-    "city": "Augusto Severo",
+    "name": "Campo Grande",
+    "city": "Campo Grande",
     "state": "RN"
   },
   {
@@ -12026,6 +12644,24 @@
   {
     "id": 240325105,
     "name": "Parnamirim",
+    "city": "Parnamirim",
+    "state": "RN"
+  },
+  {
+    "id": 240325110,
+    "name": "Pium",
+    "city": "Parnamirim",
+    "state": "RN"
+  },
+  {
+    "id": 240325115,
+    "name": "Cotovelo",
+    "city": "Parnamirim",
+    "state": "RN"
+  },
+  {
+    "id": 240325120,
+    "name": "Pirangi do Norte",
     "city": "Parnamirim",
     "state": "RN"
   },
@@ -12312,6 +12948,30 @@
     "state": "RN"
   },
   {
+    "id": 240710410,
+    "name": "Cana Brava",
+    "city": "Macaíba",
+    "state": "RN"
+  },
+  {
+    "id": 240710415,
+    "name": "Traíras",
+    "city": "Macaíba",
+    "state": "RN"
+  },
+  {
+    "id": 240710420,
+    "name": "Mangabeira",
+    "city": "Macaíba",
+    "state": "RN"
+  },
+  {
+    "id": 240710425,
+    "name": "Cajazeiras",
+    "city": "Macaíba",
+    "state": "RN"
+  },
+  {
     "id": 240720305,
     "name": "Macau",
     "city": "Macau",
@@ -12397,7 +13057,7 @@
   },
   {
     "id": 240840905,
-    "name": "Olho-d'Água do Borges",
+    "name": "Olho d'Água do Borges",
     "city": "Olho d'Água do Borges",
     "state": "RN"
   },
@@ -12523,7 +13183,7 @@
   },
   {
     "id": 241030605,
-    "name": "Presidente Juscelino",
+    "name": "Serra Caiada",
     "city": "Serra Caiada",
     "state": "RN"
   },
@@ -12734,6 +13394,12 @@
   {
     "id": 241320105,
     "name": "Senador Georgino Avelino",
+    "city": "Senador Georgino Avelino",
+    "state": "RN"
+  },
+  {
+    "id": 241320110,
+    "name": "Carnaúba",
     "city": "Senador Georgino Avelino",
     "state": "RN"
   },
@@ -13068,6 +13734,12 @@
     "state": "PB"
   },
   {
+    "id": 250150030,
+    "name": "Roma",
+    "city": "Bananeiras",
+    "state": "PB"
+  },
+  {
     "id": 250153405,
     "name": "Baraúna",
     "city": "Baraúna",
@@ -13212,6 +13884,12 @@
     "state": "PB"
   },
   {
+    "id": 250310008,
+    "name": "Ribeira",
+    "city": "Cabaceiras",
+    "state": "PB"
+  },
+  {
     "id": 250320905,
     "name": "Cabedelo",
     "city": "Cabedelo",
@@ -13260,8 +13938,20 @@
     "state": "PB"
   },
   {
+    "id": 250350610,
+    "name": "Logradouro de São Francisco",
+    "city": "Cacimba de Dentro",
+    "state": "PB"
+  },
+  {
     "id": 250355505,
     "name": "Cacimbas",
+    "city": "Cacimbas",
+    "state": "PB"
+  },
+  {
+    "id": 250355510,
+    "name": "São Sebastião",
     "city": "Cacimbas",
     "state": "PB"
   },
@@ -13280,6 +13970,12 @@
   {
     "id": 250370410,
     "name": "Engenheiro Ávidos",
+    "city": "Cajazeiras",
+    "state": "PB"
+  },
+  {
+    "id": 250370415,
+    "name": "Divinópolis",
     "city": "Cajazeiras",
     "state": "PB"
   },
@@ -13416,6 +14112,18 @@
     "state": "PB"
   },
   {
+    "id": 250440525,
+    "name": "Cabaças dos Martins",
+    "city": "Conceição",
+    "state": "PB"
+  },
+  {
+    "id": 250440530,
+    "name": "Mata Grande",
+    "city": "Conceição",
+    "state": "PB"
+  },
+  {
     "id": 250450405,
     "name": "Condado",
     "city": "Condado",
@@ -13454,6 +14162,12 @@
   {
     "id": 250490005,
     "name": "Cruz do Espírito Santo",
+    "city": "Cruz do Espírito Santo",
+    "state": "PB"
+  },
+  {
+    "id": 250490010,
+    "name": "Nova Massangana",
     "city": "Cruz do Espírito Santo",
     "state": "PB"
   },
@@ -13902,6 +14616,12 @@
     "state": "PB"
   },
   {
+    "id": 250980010,
+    "name": "Leal-Lândia",
+    "city": "Mulungu",
+    "state": "PB"
+  },
+  {
     "id": 250990905,
     "name": "Natuba",
     "city": "Natuba",
@@ -14125,7 +14845,7 @@
   },
   {
     "id": 251260605,
-    "name": "Quixabá",
+    "name": "Quixaba",
     "city": "Quixaba",
     "state": "PB"
   },
@@ -14857,7 +15577,7 @@
   },
   {
     "id": 260160705,
-    "name": "Belém do São Francisco",
+    "name": "Belém de São Francisco",
     "city": "Belém do São Francisco",
     "state": "PE"
   },
@@ -15625,7 +16345,7 @@
   },
   {
     "id": 260690305,
-    "name": "Iguaraci",
+    "name": "Iguaracy",
     "city": "Iguaracy",
     "state": "PE"
   },
@@ -15930,6 +16650,12 @@
     "state": "PE"
   },
   {
+    "id": 260875020,
+    "name": "Vermelho",
+    "city": "Lagoa Grande",
+    "state": "PE"
+  },
+  {
     "id": 260880005,
     "name": "Lajedo",
     "city": "Lajedo",
@@ -16212,6 +16938,12 @@
     "state": "PE"
   },
   {
+    "id": 261100215,
+    "name": "Icó-Mandantes",
+    "city": "Petrolândia",
+    "state": "PE"
+  },
+  {
     "id": 261110105,
     "name": "Petrolina",
     "city": "Petrolina",
@@ -16284,8 +17016,20 @@
     "state": "PE"
   },
   {
+    "id": 261150715,
+    "name": "Vila do Cruzeiro",
+    "city": "Quipapá",
+    "state": "PE"
+  },
+  {
     "id": 261153305,
     "name": "Quixaba",
+    "city": "Quixaba",
+    "state": "PE"
+  },
+  {
+    "id": 261153310,
+    "name": "Lagoa da Cruz ",
     "city": "Quixaba",
     "state": "PE"
   },
@@ -16464,6 +17208,30 @@
     "state": "PE"
   },
   {
+    "id": 261255410,
+    "name": "Campo Santo",
+    "city": "Santa Filomena",
+    "state": "PE"
+  },
+  {
+    "id": 261255415,
+    "name": "Socorro",
+    "city": "Santa Filomena",
+    "state": "PE"
+  },
+  {
+    "id": 261255420,
+    "name": "Poço Comprido",
+    "city": "Santa Filomena",
+    "state": "PE"
+  },
+  {
+    "id": 261255425,
+    "name": "Livramento",
+    "city": "Santa Filomena",
+    "state": "PE"
+  },
+  {
     "id": 261260405,
     "name": "Santa Maria da Boa Vista",
     "city": "Santa Maria da Boa Vista",
@@ -16578,6 +17346,12 @@
     "state": "PE"
   },
   {
+    "id": 261350315,
+    "name": "Carmo",
+    "city": "São José do Belmonte",
+    "state": "PE"
+  },
+  {
     "id": 261360205,
     "name": "São José do Egito",
     "city": "São José do Egito",
@@ -16609,7 +17383,7 @@
   },
   {
     "id": 261380005,
-    "name": "São Vicente Ferrer",
+    "name": "São Vicente Férrer",
     "city": "São Vicente Férrer",
     "state": "PE"
   },
@@ -16842,6 +17616,12 @@
     "state": "PE"
   },
   {
+    "id": 261520110,
+    "name": "Guarani",
+    "city": "Terra Nova",
+    "state": "PE"
+  },
+  {
     "id": 261530005,
     "name": "Timbaúba",
     "city": "Timbaúba",
@@ -16878,6 +17658,24 @@
     "state": "PE"
   },
   {
+    "id": 261560710,
+    "name": "Bonita",
+    "city": "Trindade",
+    "state": "PE"
+  },
+  {
+    "id": 261560715,
+    "name": "Mangueira",
+    "city": "Trindade",
+    "state": "PE"
+  },
+  {
+    "id": 261560720,
+    "name": "Saco Verde",
+    "city": "Trindade",
+    "state": "PE"
+  },
+  {
     "id": 261570605,
     "name": "Triunfo",
     "city": "Triunfo",
@@ -16891,7 +17689,7 @@
   },
   {
     "id": 261570615,
-    "name": "Iraguaçu",
+    "name": "Jericó",
     "city": "Triunfo",
     "state": "PE"
   },
@@ -17466,6 +18264,12 @@
     "state": "AL"
   },
   {
+    "id": 270680210,
+    "name": "Pontal do Peba",
+    "city": "Piaçabuçu",
+    "state": "AL"
+  },
+  {
     "id": 270690105,
     "name": "Pilar",
     "city": "Pilar",
@@ -17839,7 +18643,7 @@
   },
   {
     "id": 280260105,
-    "name": "Gracho Cardoso",
+    "name": "Graccho Cardoso",
     "city": "Gracho Cardoso",
     "state": "SE"
   },
@@ -17978,6 +18782,90 @@
   {
     "id": 280480505,
     "name": "Nossa Senhora do Socorro",
+    "city": "Nossa Senhora do Socorro",
+    "state": "SE"
+  },
+  {
+    "id": 280480506,
+    "name": "Bita",
+    "city": "Nossa Senhora do Socorro",
+    "state": "SE"
+  },
+  {
+    "id": 280480507,
+    "name": "Calumbi",
+    "city": "Nossa Senhora do Socorro",
+    "state": "SE"
+  },
+  {
+    "id": 280480508,
+    "name": "Camaratuba ",
+    "city": "Nossa Senhora do Socorro",
+    "state": "SE"
+  },
+  {
+    "id": 280480509,
+    "name": "Distrito Industrial da Taiçoca ",
+    "city": "Nossa Senhora do Socorro",
+    "state": "SE"
+  },
+  {
+    "id": 280480510,
+    "name": "Lavandeira ",
+    "city": "Nossa Senhora do Socorro",
+    "state": "SE"
+  },
+  {
+    "id": 280480511,
+    "name": "Oiteiro ",
+    "city": "Nossa Senhora do Socorro",
+    "state": "SE"
+  },
+  {
+    "id": 280480512,
+    "name": "Palestina ",
+    "city": "Nossa Senhora do Socorro",
+    "state": "SE"
+  },
+  {
+    "id": 280480513,
+    "name": "Porto Grande ",
+    "city": "Nossa Senhora do Socorro",
+    "state": "SE"
+  },
+  {
+    "id": 280480514,
+    "name": "Quissamã ",
+    "city": "Nossa Senhora do Socorro",
+    "state": "SE"
+  },
+  {
+    "id": 280480515,
+    "name": "São Brás ",
+    "city": "Nossa Senhora do Socorro",
+    "state": "SE"
+  },
+  {
+    "id": 280480516,
+    "name": "Sobrado ",
+    "city": "Nossa Senhora do Socorro",
+    "state": "SE"
+  },
+  {
+    "id": 280480517,
+    "name": "Taboca ",
+    "city": "Nossa Senhora do Socorro",
+    "state": "SE"
+  },
+  {
+    "id": 280480518,
+    "name": "Taiçoca de Dentro ",
+    "city": "Nossa Senhora do Socorro",
+    "state": "SE"
+  },
+  {
+    "id": 280480519,
+    "name": "Taiçoca de Fora ",
     "city": "Nossa Senhora do Socorro",
     "state": "SE"
   },
@@ -18146,6 +19034,12 @@
   {
     "id": 280740210,
     "name": "Samambaia",
+    "city": "Tobias Barreto",
+    "state": "SE"
+  },
+  {
+    "id": 280740215,
+    "name": "Monte Coelhos",
     "city": "Tobias Barreto",
     "state": "SE"
   },
@@ -18451,13 +19345,19 @@
   },
   {
     "id": 290205405,
-    "name": "Araças",
+    "name": "Araçás",
     "city": "Araçás",
     "state": "BA"
   },
   {
     "id": 290210405,
     "name": "Araci",
+    "city": "Araci",
+    "state": "BA"
+  },
+  {
+    "id": 290210430,
+    "name": "Pedra Alta",
     "city": "Araci",
     "state": "BA"
   },
@@ -18559,7 +19459,7 @@
   },
   {
     "id": 290280710,
-    "name": "Triunfo do Sincora",
+    "name": "Triunfo do Sincorá",
     "city": "Barra da Estiva",
     "state": "BA"
   },
@@ -18679,7 +19579,7 @@
   },
   {
     "id": 290380510,
-    "name": "Brejo Novo",
+    "name": "Terra Boa",
     "city": "Boa Vista do Tupim",
     "state": "BA"
   },
@@ -18998,6 +19898,12 @@
   {
     "id": 290580020,
     "name": "Tapuia",
+    "city": "Camamu",
+    "state": "BA"
+  },
+  {
+    "id": 290580021,
+    "name": "Travessão",
     "city": "Camamu",
     "state": "BA"
   },
@@ -19512,6 +20418,12 @@
     "state": "BA"
   },
   {
+    "id": 290930715,
+    "name": "Rosário",
+    "city": "Correntina",
+    "state": "BA"
+  },
+  {
     "id": 290940605,
     "name": "Cotegipe",
     "city": "Cotegipe",
@@ -19632,6 +20544,12 @@
     "state": "BA"
   },
   {
+    "id": 291040420,
+    "name": "Vila do Cafe",
+    "city": "Encruzilhada",
+    "state": "BA"
+  },
+  {
     "id": 291050305,
     "name": "Entre Rios",
     "city": "Entre Rios",
@@ -19675,13 +20593,13 @@
   },
   {
     "id": 291070107,
-    "name": "Aribice",
+    "name": "Aribicé",
     "city": "Euclides da Cunha",
     "state": "BA"
   },
   {
     "id": 291070109,
-    "name": "Caimbe",
+    "name": "Caimbé",
     "city": "Euclides da Cunha",
     "state": "BA"
   },
@@ -20173,7 +21091,13 @@
   },
   {
     "id": 291360655,
-    "name": "Rio do Braço",
+    "name": "Banco do Pedro",
+    "city": "Ilhéus",
+    "state": "BA"
+  },
+  {
+    "id": 291360665,
+    "name": "Sambaituba",
     "city": "Ilhéus",
     "state": "BA"
   },
@@ -20490,6 +21414,12 @@
     "state": "BA"
   },
   {
+    "id": 291650015,
+    "name": "Lagoa Redonda",
+    "city": "Itapicuru",
+    "state": "BA"
+  },
+  {
     "id": 291660905,
     "name": "Itapitanga",
     "city": "Itapitanga",
@@ -20532,6 +21462,30 @@
     "state": "BA"
   },
   {
+    "id": 291700306,
+    "name": "Engenheiro Rômulo Campos",
+    "city": "Itiúba",
+    "state": "BA"
+  },
+  {
+    "id": 291700307,
+    "name": "Jacurici da Leste",
+    "city": "Itiúba",
+    "state": "BA"
+  },
+  {
+    "id": 291700308,
+    "name": "Piaus",
+    "city": "Itiúba",
+    "state": "BA"
+  },
+  {
+    "id": 291700309,
+    "name": "Bela Vista de Covas",
+    "city": "Itiúba",
+    "state": "BA"
+  },
+  {
     "id": 291710205,
     "name": "Itororó",
     "city": "Itororó",
@@ -20569,7 +21523,7 @@
   },
   {
     "id": 291733405,
-    "name": "Iuiú",
+    "name": "Iuiu",
     "city": "Iuiu",
     "state": "BA"
   },
@@ -20605,7 +21559,7 @@
   },
   {
     "id": 291750810,
-    "name": "Catinga do Moura",
+    "name": "Caatinga do Moura",
     "city": "Jacobina",
     "state": "BA"
   },
@@ -20834,6 +21788,18 @@
   {
     "id": 291840735,
     "name": "Pinhões",
+    "city": "Juazeiro",
+    "state": "BA"
+  },
+  {
+    "id": 291840740,
+    "name": "Maniçoba",
+    "city": "Juazeiro",
+    "state": "BA"
+  },
+  {
+    "id": 291840741,
+    "name": "Distrito de Mandacaru",
     "city": "Juazeiro",
     "state": "BA"
   },
@@ -21493,7 +22459,7 @@
   },
   {
     "id": 292225005,
-    "name": "Muquém de São Francisco",
+    "name": "Muquém do São Francisco",
     "city": "Muquém do São Francisco",
     "state": "BA"
   },
@@ -21524,6 +22490,12 @@
   {
     "id": 292260705,
     "name": "Nilo Peçanha",
+    "city": "Nilo Peçanha",
+    "state": "BA"
+  },
+  {
+    "id": 292260715,
+    "name": "São Benedito",
     "city": "Nilo Peçanha",
     "state": "BA"
   },
@@ -21656,6 +22628,18 @@
   {
     "id": 292335705,
     "name": "Ourolândia",
+    "city": "Ourolândia",
+    "state": "BA"
+  },
+  {
+    "id": 292335710,
+    "name": "Alagadiço",
+    "city": "Ourolândia",
+    "state": "BA"
+  },
+  {
+    "id": 292335711,
+    "name": "Alazão",
     "city": "Ourolândia",
     "state": "BA"
   },
@@ -21936,6 +22920,18 @@
     "state": "BA"
   },
   {
+    "id": 292525306,
+    "name": "Barracas",
+    "city": "Ponto Novo",
+    "state": "BA"
+  },
+  {
+    "id": 292525307,
+    "name": "Nova Represa",
+    "city": "Ponto Novo",
+    "state": "BA"
+  },
+  {
     "id": 292530305,
     "name": "Porto Seguro",
     "city": "Porto Seguro",
@@ -21949,7 +22945,7 @@
   },
   {
     "id": 292530310,
-    "name": "Caraiva",
+    "name": "Caraíva",
     "city": "Porto Seguro",
     "state": "BA"
   },
@@ -22116,6 +23112,18 @@
     "state": "BA"
   },
   {
+    "id": 292630116,
+    "name": "Chapada",
+    "city": "Riachão do Jacuípe",
+    "state": "BA"
+  },
+  {
+    "id": 292630117,
+    "name": "Vila Aparecida",
+    "city": "Riachão do Jacuípe",
+    "state": "BA"
+  },
+  {
     "id": 292640005,
     "name": "Riacho de Santana",
     "city": "Riacho de Santana",
@@ -22147,7 +23155,7 @@
   },
   {
     "id": 292665710,
-    "name": "Nova Brasilia",
+    "name": "Nova Brasília",
     "city": "Ribeirão do Largo",
     "state": "BA"
   },
@@ -22339,7 +23347,7 @@
   },
   {
     "id": 292850505,
-    "name": "Santa Teresinha",
+    "name": "Santa Terezinha",
     "city": "Santa Terezinha",
     "state": "BA"
   },
@@ -22878,6 +23886,12 @@
     "state": "BA"
   },
   {
+    "id": 293190510,
+    "name": "Rua Nova",
+    "city": "Tucano",
+    "state": "BA"
+  },
+  {
     "id": 293200205,
     "name": "Uauá",
     "city": "Uauá",
@@ -22892,6 +23906,12 @@
   {
     "id": 293200215,
     "name": "Serra da Canabrava",
+    "city": "Uauá",
+    "state": "BA"
+  },
+  {
+    "id": 293200216,
+    "name": "Lagoa dos Pires",
     "city": "Uauá",
     "state": "BA"
   },
@@ -23054,6 +24074,18 @@
   {
     "id": 293300005,
     "name": "Valente",
+    "city": "Valente",
+    "state": "BA"
+  },
+  {
+    "id": 293300010,
+    "name": "Valilândia",
+    "city": "Valente",
+    "state": "BA"
+  },
+  {
+    "id": 293300015,
+    "name": "Santa Rita de Cássia",
     "city": "Valente",
     "state": "BA"
   },
@@ -23298,6 +24330,18 @@
     "state": "MG"
   },
   {
+    "id": 310060920,
+    "name": "Novo Bonfim",
+    "city": "Água Boa",
+    "state": "MG"
+  },
+  {
+    "id": 310060925,
+    "name": "Catequeses",
+    "city": "Água Boa",
+    "state": "MG"
+  },
+  {
     "id": 310070805,
     "name": "Água Comprida",
     "city": "Água Comprida",
@@ -23306,6 +24350,12 @@
   {
     "id": 310080705,
     "name": "Aguanil",
+    "city": "Aguanil",
+    "state": "MG"
+  },
+  {
+    "id": 310080710,
+    "name": "Boticão",
     "city": "Aguanil",
     "state": "MG"
   },
@@ -23394,6 +24444,12 @@
     "state": "MG"
   },
   {
+    "id": 310110245,
+    "name": "São José do Limoeiro",
+    "city": "Aimorés",
+    "state": "MG"
+  },
+  {
     "id": 310120105,
     "name": "Aiuruoca",
     "city": "Aiuruoca",
@@ -23444,6 +24500,12 @@
   {
     "id": 310163125,
     "name": "São José de Pouso Alegre",
+    "city": "Alfredo Vasconcelos",
+    "state": "MG"
+  },
+  {
+    "id": 310163130,
+    "name": "Potreiro",
     "city": "Alfredo Vasconcelos",
     "state": "MG"
   },
@@ -23594,6 +24656,18 @@
   {
     "id": 310270410,
     "name": "Águas Altas",
+    "city": "Cachoeira de Pajeú",
+    "state": "MG"
+  },
+  {
+    "id": 310270415,
+    "name": "Tancredo Neves",
+    "city": "Cachoeira de Pajeú",
+    "state": "MG"
+  },
+  {
+    "id": 310270420,
+    "name": "Cateriangongo",
     "city": "Cachoeira de Pajeú",
     "state": "MG"
   },
@@ -23838,6 +24912,18 @@
     "state": "MG"
   },
   {
+    "id": 310470030,
+    "name": "Tipiti",
+    "city": "Ataléia",
+    "state": "MG"
+  },
+  {
+    "id": 310470035,
+    "name": "São Miguel",
+    "city": "Ataléia",
+    "state": "MG"
+  },
+  {
     "id": 310480905,
     "name": "Augusto de Lima",
     "city": "Augusto de Lima",
@@ -23864,6 +24950,12 @@
   {
     "id": 310500415,
     "name": "São Vicente",
+    "city": "Baldim",
+    "state": "MG"
+  },
+  {
+    "id": 310500420,
+    "name": "Vargem Grande da Serra",
     "city": "Baldim",
     "state": "MG"
   },
@@ -23899,7 +24991,7 @@
   },
   {
     "id": 310550905,
-    "name": "Barão de Monte Alto",
+    "name": "Barão do Monte Alto",
     "city": "Barão de Monte Alto",
     "state": "MG"
   },
@@ -24096,6 +25188,30 @@
     "state": "MG"
   },
   {
+    "id": 310640815,
+    "name": "Boa Morte",
+    "city": "Belo Vale",
+    "state": "MG"
+  },
+  {
+    "id": 310640820,
+    "name": "Chácara dos Cordeiros",
+    "city": "Belo Vale",
+    "state": "MG"
+  },
+  {
+    "id": 310640825,
+    "name": "Roças Novas dos Bandeirantes",
+    "city": "Belo Vale",
+    "state": "MG"
+  },
+  {
+    "id": 310640830,
+    "name": "São Sebastião das Lajes",
+    "city": "Belo Vale",
+    "state": "MG"
+  },
+  {
     "id": 310650705,
     "name": "Berilo",
     "city": "Berilo",
@@ -24126,6 +25242,12 @@
     "state": "MG"
   },
   {
+    "id": 310665510,
+    "name": "Serra do Anastácio",
+    "city": "Berizal",
+    "state": "MG"
+  },
+  {
     "id": 310670505,
     "name": "Betim",
     "city": "Betim",
@@ -24140,6 +25262,12 @@
   {
     "id": 310690305,
     "name": "Bicas",
+    "city": "Bicas",
+    "state": "MG"
+  },
+  {
+    "id": 310690310,
+    "name": "Santa Helena de Bicas",
     "city": "Bicas",
     "state": "MG"
   },
@@ -24168,6 +25296,12 @@
     "state": "MG"
   },
   {
+    "id": 310720815,
+    "name": "Santo Antônio do Alto Rio Grande",
+    "city": "Bocaina de Minas",
+    "state": "MG"
+  },
+  {
     "id": 310730705,
     "name": "Bocaiúva",
     "city": "Bocaiúva",
@@ -24182,6 +25316,36 @@
   {
     "id": 310730725,
     "name": "Terra Branca",
+    "city": "Bocaiúva",
+    "state": "MG"
+  },
+  {
+    "id": 310730730,
+    "name": "Engenheiro Dolabela",
+    "city": "Bocaiúva",
+    "state": "MG"
+  },
+  {
+    "id": 310730735,
+    "name": "Sentinela",
+    "city": "Bocaiúva",
+    "state": "MG"
+  },
+  {
+    "id": 310730740,
+    "name": "Pedregulho do Vale",
+    "city": "Bocaiúva",
+    "state": "MG"
+  },
+  {
+    "id": 310730745,
+    "name": "Machados Serrano",
+    "city": "Bocaiúva",
+    "state": "MG"
+  },
+  {
+    "id": 310730750,
+    "name": "Camilo Prates",
     "city": "Bocaiúva",
     "state": "MG"
   },
@@ -24264,6 +25428,12 @@
     "state": "MG"
   },
   {
+    "id": 310800815,
+    "name": "Machados de Bom Sucesso",
+    "city": "Bom Sucesso",
+    "state": "MG"
+  },
+  {
     "id": 310810705,
     "name": "Bonfim",
     "city": "Bonfim",
@@ -24284,6 +25454,18 @@
   {
     "id": 310825505,
     "name": "Bonito de Minas",
+    "city": "Bonito de Minas",
+    "state": "MG"
+  },
+  {
+    "id": 310825510,
+    "name": "Raizama",
+    "city": "Bonito de Minas",
+    "state": "MG"
+  },
+  {
+    "id": 310825515,
+    "name": "São José do Gibão",
     "city": "Bonito de Minas",
     "state": "MG"
   },
@@ -24342,6 +25524,12 @@
     "state": "MG"
   },
   {
+    "id": 310850320,
+    "name": "Canta Galo de Botumirim",
+    "city": "Botumirim",
+    "state": "MG"
+  },
+  {
     "id": 310855205,
     "name": "Brasilândia de Minas",
     "city": "Brasilândia de Minas",
@@ -24390,6 +25578,12 @@
     "state": "MG"
   },
   {
+    "id": 310870125,
+    "name": "Ribeirão de Santo Antônio",
+    "city": "Brás Pires",
+    "state": "MG"
+  },
+  {
     "id": 310880005,
     "name": "Braúnas",
     "city": "Braúnas",
@@ -24410,6 +25604,18 @@
   {
     "id": 310890915,
     "name": "Luminosa",
+    "city": "Brazópolis",
+    "state": "MG"
+  },
+  {
+    "id": 310890920,
+    "name": "Cruz Vera",
+    "city": "Brazópolis",
+    "state": "MG"
+  },
+  {
+    "id": 310890925,
+    "name": "Bom Sucesso da Mantiqueira",
     "city": "Brazópolis",
     "state": "MG"
   },
@@ -24482,6 +25688,12 @@
   {
     "id": 310930320,
     "name": "São Pedro do Passa Três",
+    "city": "Buritis",
+    "state": "MG"
+  },
+  {
+    "id": 310930325,
+    "name": "Vila Serrana",
     "city": "Buritis",
     "state": "MG"
   },
@@ -24600,6 +25812,12 @@
     "state": "MG"
   },
   {
+    "id": 311000430,
+    "name": "Rancho Novo",
+    "city": "Caeté",
+    "state": "MG"
+  },
+  {
     "id": 311010305,
     "name": "Caiana",
     "city": "Caiana",
@@ -24696,6 +25914,12 @@
     "state": "MG"
   },
   {
+    "id": 311100210,
+    "name": "Posses de São Sebastião",
+    "city": "Campestre",
+    "state": "MG"
+  },
+  {
     "id": 311110105,
     "name": "Campina Verde",
     "city": "Campina Verde",
@@ -24710,6 +25934,12 @@
   {
     "id": 311115005,
     "name": "Campo Azul",
+    "city": "Campo Azul",
+    "state": "MG"
+  },
+  {
+    "id": 311115010,
+    "name": "Vila São José",
     "city": "Campo Azul",
     "state": "MG"
   },
@@ -24780,8 +26010,20 @@
     "state": "MG"
   },
   {
+    "id": 311190310,
+    "name": "Cerradinho",
+    "city": "Cana Verde",
+    "state": "MG"
+  },
+  {
     "id": 311200005,
     "name": "Candeias",
+    "city": "Candeias",
+    "state": "MG"
+  },
+  {
+    "id": 311200010,
+    "name": "Vieiras Bravos",
     "city": "Candeias",
     "state": "MG"
   },
@@ -24804,8 +26046,38 @@
     "state": "MG"
   },
   {
+    "id": 311220810,
+    "name": "Palmeiras de Capela Nova",
+    "city": "Capela Nova",
+    "state": "MG"
+  },
+  {
     "id": 311230705,
     "name": "Capelinha",
+    "city": "Capelinha",
+    "state": "MG"
+  },
+  {
+    "id": 311230715,
+    "name": "Bom Jesus do Galego",
+    "city": "Capelinha",
+    "state": "MG"
+  },
+  {
+    "id": 311230720,
+    "name": "Chapadinha do Ipê",
+    "city": "Capelinha",
+    "state": "MG"
+  },
+  {
+    "id": 311230725,
+    "name": "Ponte Nova de Capelinha",
+    "city": "Capelinha",
+    "state": "MG"
+  },
+  {
+    "id": 311230730,
+    "name": "São Caetano da Serra",
     "city": "Capelinha",
     "state": "MG"
   },
@@ -24890,6 +26162,24 @@
   {
     "id": 311300815,
     "name": "Ponto do Marambaia",
+    "city": "Caraí",
+    "state": "MG"
+  },
+  {
+    "id": 311300820,
+    "name": "Queixadinha",
+    "city": "Caraí",
+    "state": "MG"
+  },
+  {
+    "id": 311300825,
+    "name": "Santa Luiza dos Corujas",
+    "city": "Caraí",
+    "state": "MG"
+  },
+  {
+    "id": 311300830,
+    "name": "Ribeirão de Santana",
     "city": "Caraí",
     "state": "MG"
   },
@@ -25014,6 +26304,30 @@
     "state": "MG"
   },
   {
+    "id": 311350310,
+    "name": "Abadia de Carbonita",
+    "city": "Carbonita",
+    "state": "MG"
+  },
+  {
+    "id": 311350315,
+    "name": "Santana de Carbonita",
+    "city": "Carbonita",
+    "state": "MG"
+  },
+  {
+    "id": 311350320,
+    "name": "Monte Belo de Carbonita",
+    "city": "Carbonita",
+    "state": "MG"
+  },
+  {
+    "id": 311350325,
+    "name": "Mercadinho",
+    "city": "Carbonita",
+    "state": "MG"
+  },
+  {
     "id": 311360205,
     "name": "Careaçu",
     "city": "Careaçu",
@@ -25034,6 +26348,18 @@
   {
     "id": 311370115,
     "name": "Presidente Pena",
+    "city": "Carlos Chagas",
+    "state": "MG"
+  },
+  {
+    "id": 311370116,
+    "name": "Francisco Sá de Carlos Chagas",
+    "city": "Carlos Chagas",
+    "state": "MG"
+  },
+  {
+    "id": 311370117,
+    "name": "Mayrink",
     "city": "Carlos Chagas",
     "state": "MG"
   },
@@ -25128,6 +26454,12 @@
     "state": "MG"
   },
   {
+    "id": 311450110,
+    "name": "Bom Jardim das Pedras",
+    "city": "Carmópolis de Minas",
+    "state": "MG"
+  },
+  {
     "id": 311455005,
     "name": "Carneirinho",
     "city": "Carneirinho",
@@ -25172,6 +26504,12 @@
   {
     "id": 311480810,
     "name": "Franceses",
+    "city": "Carvalhos",
+    "state": "MG"
+  },
+  {
+    "id": 311480815,
+    "name": "Muquem de São Lázaro ",
     "city": "Carvalhos",
     "state": "MG"
   },
@@ -25238,6 +26576,12 @@
   {
     "id": 311535905,
     "name": "Catas Altas",
+    "city": "Catas Altas",
+    "state": "MG"
+  },
+  {
+    "id": 311535910,
+    "name": "Morro D'Água Quente",
     "city": "Catas Altas",
     "state": "MG"
   },
@@ -25310,6 +26654,18 @@
   {
     "id": 311600110,
     "name": "Professor Sperber",
+    "city": "Chalé",
+    "state": "MG"
+  },
+  {
+    "id": 311600115,
+    "name": "Penha do Coco",
+    "city": "Chalé",
+    "state": "MG"
+  },
+  {
+    "id": 311600120,
+    "name": "Água Limpa de Chalé",
     "city": "Chalé",
     "state": "MG"
   },
@@ -25404,6 +26760,12 @@
     "state": "MG"
   },
   {
+    "id": 311650615,
+    "name": "Boa Sorte de Claro dos Poções",
+    "city": "Claro dos Poções",
+    "state": "MG"
+  },
+  {
     "id": 311660505,
     "name": "Cláudio",
     "city": "Cláudio",
@@ -25442,6 +26804,12 @@
   {
     "id": 311700910,
     "name": "Água Branca de Minas",
+    "city": "Comercinho",
+    "state": "MG"
+  },
+  {
+    "id": 311700915,
+    "name": "Taboa",
     "city": "Comercinho",
     "state": "MG"
   },
@@ -25542,6 +26910,18 @@
     "state": "MG"
   },
   {
+    "id": 311750445,
+    "name": "Capitão Felizardo",
+    "city": "Conceição do Mato Dentro",
+    "state": "MG"
+  },
+  {
+    "id": 311750450,
+    "name": "Três Barras do Mato Dentro",
+    "city": "Conceição do Mato Dentro",
+    "state": "MG"
+  },
+  {
     "id": 311760305,
     "name": "Conceição do Pará",
     "city": "Conceição do Pará",
@@ -25572,8 +26952,20 @@
     "state": "MG"
   },
   {
+    "id": 311783610,
+    "name": "São José de Macaúbas",
+    "city": "Cônego Marinho",
+    "state": "MG"
+  },
+  {
     "id": 311783615,
     "name": "Cruz dos Araújos",
+    "city": "Cônego Marinho",
+    "state": "MG"
+  },
+  {
+    "id": 311783620,
+    "name": "Santo Antônio da Vaca Preta",
     "city": "Cônego Marinho",
     "state": "MG"
   },
@@ -25616,6 +27008,12 @@
   {
     "id": 311810605,
     "name": "Congonhas do Norte",
+    "city": "Congonhas do Norte",
+    "state": "MG"
+  },
+  {
+    "id": 311810610,
+    "name": "Santa Cruz dos Alves",
     "city": "Congonhas do Norte",
     "state": "MG"
   },
@@ -26052,8 +27450,20 @@
     "state": "MG"
   },
   {
+    "id": 312100130,
+    "name": "Tombadouro",
+    "city": "Datas",
+    "state": "MG"
+  },
+  {
     "id": 312110005,
     "name": "Delfim Moreira",
+    "city": "Delfim Moreira",
+    "state": "MG"
+  },
+  {
+    "id": 312110010,
+    "name": "BARRA DE DELFIM MOREIRA",
     "city": "Delfim Moreira",
     "state": "MG"
   },
@@ -26226,6 +27636,12 @@
     "state": "MG"
   },
   {
+    "id": 312200930,
+    "name": "Vargem Grande do Divino ",
+    "city": "Divino",
+    "state": "MG"
+  },
+  {
     "id": 312210805,
     "name": "Divino das Laranjeiras",
     "city": "Divino das Laranjeiras",
@@ -26234,6 +27650,18 @@
   {
     "id": 312210810,
     "name": "Central de Santa Helena",
+    "city": "Divino das Laranjeiras",
+    "state": "MG"
+  },
+  {
+    "id": 312210815,
+    "name": "Linópolis",
+    "city": "Divino das Laranjeiras",
+    "state": "MG"
+  },
+  {
+    "id": 312210820,
+    "name": "Macedônia das Laranjeiras",
     "city": "Divino das Laranjeiras",
     "state": "MG"
   },
@@ -26280,6 +27708,12 @@
     "state": "MG"
   },
   {
+    "id": 312247010,
+    "name": "Santo Antônio do Rio Preto",
+    "city": "Dom Bosco",
+    "state": "MG"
+  },
+  {
     "id": 312250405,
     "name": "Dom Cavati",
     "city": "Dom Cavati",
@@ -26298,6 +27732,12 @@
     "state": "MG"
   },
   {
+    "id": 312260315,
+    "name": "São José da Ilha",
+    "city": "Dom Joaquim",
+    "state": "MG"
+  },
+  {
     "id": 312270205,
     "name": "Dom Silvério",
     "city": "Dom Silvério",
@@ -26311,14 +27751,14 @@
   },
   {
     "id": 312290005,
-    "name": "Dona Eusébia",
-    "city": "Dona Eusébia",
+    "name": "Dona Euzébia",
+    "city": "Dona Euzébia",
     "state": "MG"
   },
   {
     "id": 312290030,
     "name": "São Manoel do Guaiaçu",
-    "city": "Dona Eusébia",
+    "city": "Dona Euzébia",
     "state": "MG"
   },
   {
@@ -26330,6 +27770,12 @@
   {
     "id": 312310605,
     "name": "Dores de Guanhães",
+    "city": "Dores de Guanhães",
+    "state": "MG"
+  },
+  {
+    "id": 312310610,
+    "name": "Vila Esperança ",
     "city": "Dores de Guanhães",
     "state": "MG"
   },
@@ -26406,6 +27852,12 @@
     "state": "MG"
   },
   {
+    "id": 312380915,
+    "name": "São Norberto",
+    "city": "Engenheiro Navarro",
+    "state": "MG"
+  },
+  {
     "id": 312385805,
     "name": "Entre Folhas",
     "city": "Entre Folhas",
@@ -26456,6 +27908,12 @@
   {
     "id": 312420310,
     "name": "São José da Pedra Menina",
+    "city": "Espera Feliz",
+    "state": "MG"
+  },
+  {
+    "id": 312420315,
+    "name": "São Sebastião da Barra de Espera Feliz",
     "city": "Espera Feliz",
     "state": "MG"
   },
@@ -26580,6 +28038,12 @@
     "state": "MG"
   },
   {
+    "id": 312510110,
+    "name": "Juncal",
+    "city": "Extrema",
+    "state": "MG"
+  },
+  {
     "id": 312520005,
     "name": "Fama",
     "city": "Fama",
@@ -26700,6 +28164,12 @@
     "state": "MG"
   },
   {
+    "id": 312595225,
+    "name": "Samambaia da Paz",
+    "city": "Fervedouro",
+    "state": "MG"
+  },
+  {
     "id": 312600005,
     "name": "Florestal",
     "city": "Florestal",
@@ -26768,6 +28238,12 @@
   {
     "id": 312660405,
     "name": "Francisco Dumont",
+    "city": "Francisco Dumont",
+    "state": "MG"
+  },
+  {
+    "id": 312660410,
+    "name": "Covancas",
     "city": "Francisco Dumont",
     "state": "MG"
   },
@@ -26862,6 +28338,12 @@
     "state": "MG"
   },
   {
+    "id": 312720610,
+    "name": "Núcleo João Pinheiro",
+    "city": "Funilândia",
+    "state": "MG"
+  },
+  {
     "id": 312730505,
     "name": "Galiléia",
     "city": "Galiléia",
@@ -26934,6 +28416,12 @@
     "state": "MG"
   },
   {
+    "id": 312760210,
+    "name": "Vila Alexandre Mascarenhas ",
+    "city": "Gouveia",
+    "state": "MG"
+  },
+  {
     "id": 312770105,
     "name": "Governador Valadares",
     "city": "Governador Valadares",
@@ -26959,7 +28447,7 @@
   },
   {
     "id": 312770125,
-    "name": "Chonim",
+    "name": "Xonin",
     "city": "Governador Valadares",
     "state": "MG"
   },
@@ -27008,6 +28496,30 @@
   {
     "id": 312770155,
     "name": "Vila Nova Floresta",
+    "city": "Governador Valadares",
+    "state": "MG"
+  },
+  {
+    "id": 312770160,
+    "name": "Córrego dos Melquíades",
+    "city": "Governador Valadares",
+    "state": "MG"
+  },
+  {
+    "id": 312770165,
+    "name": "Córregos do Bernardo",
+    "city": "Governador Valadares",
+    "state": "MG"
+  },
+  {
+    "id": 312770170,
+    "name": "Porto das Cachoeiras",
+    "city": "Governador Valadares",
+    "state": "MG"
+  },
+  {
+    "id": 312770175,
+    "name": "Vila Nova Brasília",
     "city": "Governador Valadares",
     "state": "MG"
   },
@@ -27330,6 +28842,18 @@
     "state": "MG"
   },
   {
+    "id": 313055610,
+    "name": "Manducas",
+    "city": "Imbé de Minas",
+    "state": "MG"
+  },
+  {
+    "id": 313055615,
+    "name": "Graçópolis",
+    "city": "Imbé de Minas",
+    "state": "MG"
+  },
+  {
     "id": 313060605,
     "name": "Inconfidentes",
     "city": "Inconfidentes",
@@ -27414,6 +28938,24 @@
     "state": "MG"
   },
   {
+    "id": 313090330,
+    "name": "Córrego Januário",
+    "city": "Inhapim",
+    "state": "MG"
+  },
+  {
+    "id": 313090335,
+    "name": "São José do Peixe de Inhapim",
+    "city": "Inhapim",
+    "state": "MG"
+  },
+  {
+    "id": 313090340,
+    "name": "São José do Taquaral",
+    "city": "Inhapim",
+    "state": "MG"
+  },
+  {
     "id": 313100005,
     "name": "Inhaúma",
     "city": "Inhaúma",
@@ -27426,6 +28968,12 @@
     "state": "MG"
   },
   {
+    "id": 313110910,
+    "name": "Gentil de Matos",
+    "city": "Inimutaba",
+    "state": "MG"
+  },
+  {
     "id": 313115805,
     "name": "Ipaba",
     "city": "Ipaba",
@@ -27434,6 +28982,12 @@
   {
     "id": 313115815,
     "name": "Vale Verde de Minas",
+    "city": "Ipaba",
+    "state": "MG"
+  },
+  {
+    "id": 313115820,
+    "name": "Boachá",
     "city": "Ipaba",
     "state": "MG"
   },
@@ -27504,6 +29058,12 @@
     "state": "MG"
   },
   {
+    "id": 313180215,
+    "name": "São Sebastião do Itabira",
+    "city": "Itabirinha",
+    "state": "MG"
+  },
+  {
     "id": 313190105,
     "name": "Itabirito",
     "city": "Itabirito",
@@ -27530,6 +29090,12 @@
   {
     "id": 313200805,
     "name": "Itacambira",
+    "city": "Itacambira",
+    "state": "MG"
+  },
+  {
+    "id": 313200810,
+    "name": "São José do Rio Preto de Minas",
     "city": "Itacambira",
     "state": "MG"
   },
@@ -27576,6 +29142,12 @@
     "state": "MG"
   },
   {
+    "id": 313250314,
+    "name": "Dom Serafim",
+    "city": "Itamarandiba",
+    "state": "MG"
+  },
+  {
     "id": 313250315,
     "name": "Padre João Afonso",
     "city": "Itamarandiba",
@@ -27584,6 +29156,24 @@
   {
     "id": 313250320,
     "name": "Penha de França",
+    "city": "Itamarandiba",
+    "state": "MG"
+  },
+  {
+    "id": 313250325,
+    "name": "Santa Joana",
+    "city": "Itamarandiba",
+    "state": "MG"
+  },
+  {
+    "id": 313250330,
+    "name": "Santa Luzia de Minas",
+    "city": "Itamarandiba",
+    "state": "MG"
+  },
+  {
+    "id": 313250335,
+    "name": "Várzea de Santo Antônio",
     "city": "Itamarandiba",
     "state": "MG"
   },
@@ -27644,6 +29234,12 @@
   {
     "id": 313320415,
     "name": "Edgard Melo",
+    "city": "Itanhomi",
+    "state": "MG"
+  },
+  {
+    "id": 313320420,
+    "name": "Santa Luzia do Carneiro",
     "city": "Itanhomi",
     "state": "MG"
   },
@@ -27756,6 +29352,12 @@
     "state": "MG"
   },
   {
+    "id": 313400420,
+    "name": "Taquaral de Minas",
+    "city": "Itinga",
+    "state": "MG"
+  },
+  {
     "id": 313410305,
     "name": "Itueta",
     "city": "Itueta",
@@ -27822,6 +29424,12 @@
     "state": "MG"
   },
   {
+    "id": 313460815,
+    "name": "São José da Serra ",
+    "city": "Jaboticatubas",
+    "state": "MG"
+  },
+  {
     "id": 313470705,
     "name": "Jacinto",
     "city": "Jacinto",
@@ -27864,6 +29472,12 @@
     "state": "MG"
   },
   {
+    "id": 313490520,
+    "name": "São Luiz Gonzaga",
+    "city": "Jacutinga",
+    "state": "MG"
+  },
+  {
     "id": 313500105,
     "name": "Jaguaraçu",
     "city": "Jaguaraçu",
@@ -27872,6 +29486,12 @@
   {
     "id": 313500116,
     "name": "Lagoa de Pau",
+    "city": "Jaguaraçu",
+    "state": "MG"
+  },
+  {
+    "id": 313500120,
+    "name": "Lavrinha de Jaguaraçu",
     "city": "Jaguaraçu",
     "state": "MG"
   },
@@ -28002,6 +29622,12 @@
     "state": "MG"
   },
   {
+    "id": 313540720,
+    "name": "Machados de Minas",
+    "city": "Jeceaba",
+    "state": "MG"
+  },
+  {
     "id": 313545605,
     "name": "Jenipapo de Minas",
     "city": "Jenipapo de Minas",
@@ -28040,6 +29666,12 @@
   {
     "id": 313560505,
     "name": "Jequitaí",
+    "city": "Jequitaí",
+    "state": "MG"
+  },
+  {
+    "id": 313560510,
+    "name": "Barrocão de Jequitaí",
     "city": "Jequitaí",
     "state": "MG"
   },
@@ -28200,6 +29832,12 @@
     "state": "MG"
   },
   {
+    "id": 313665215,
+    "name": "Francelinos",
+    "city": "Juatuba",
+    "state": "MG"
+  },
+  {
     "id": 313670205,
     "name": "Juiz de Fora",
     "city": "Juiz de Fora",
@@ -28224,6 +29862,36 @@
     "state": "MG"
   },
   {
+    "id": 313670282,
+    "name": "Caetés de Minas",
+    "city": "Juiz de Fora",
+    "state": "MG"
+  },
+  {
+    "id": 313670284,
+    "name": "Humaitá de Minas",
+    "city": "Juiz de Fora",
+    "state": "MG"
+  },
+  {
+    "id": 313670286,
+    "name": "Monte Verde de Minas",
+    "city": "Juiz de Fora",
+    "state": "MG"
+  },
+  {
+    "id": 313670288,
+    "name": "Penido",
+    "city": "Juiz de Fora",
+    "state": "MG"
+  },
+  {
+    "id": 313670290,
+    "name": "Valadares",
+    "city": "Juiz de Fora",
+    "state": "MG"
+  },
+  {
     "id": 313680105,
     "name": "Juramento",
     "city": "Juramento",
@@ -28232,6 +29900,12 @@
   {
     "id": 313690005,
     "name": "Juruaia",
+    "city": "Juruaia",
+    "state": "MG"
+  },
+  {
+    "id": 313690010,
+    "name": "Mata do Sino",
     "city": "Juruaia",
     "state": "MG"
   },
@@ -28404,6 +30078,12 @@
     "state": "MG"
   },
   {
+    "id": 313835110,
+    "name": "Acauã de Minas",
+    "city": "Leme do Prado",
+    "state": "MG"
+  },
+  {
     "id": 313835120,
     "name": "Posses",
     "city": "Leme do Prado",
@@ -28472,6 +30152,18 @@
   {
     "id": 313860920,
     "name": "São José dos Lopes",
+    "city": "Lima Duarte",
+    "state": "MG"
+  },
+  {
+    "id": 313860925,
+    "name": "Manejo",
+    "city": "Lima Duarte",
+    "state": "MG"
+  },
+  {
+    "id": 313860930,
+    "name": "Orvalho",
     "city": "Lima Duarte",
     "state": "MG"
   },
@@ -28602,6 +30294,18 @@
     "state": "MG"
   },
   {
+    "id": 313930030,
+    "name": "São José das Traíras",
+    "city": "Manga",
+    "state": "MG"
+  },
+  {
+    "id": 313930035,
+    "name": "Brejo de São Caetano",
+    "city": "Manga",
+    "state": "MG"
+  },
+  {
     "id": 313940905,
     "name": "Manhuaçu",
     "city": "Manhuaçu",
@@ -28646,6 +30350,12 @@
   {
     "id": 313940940,
     "name": "Vilanova",
+    "city": "Manhuaçu",
+    "state": "MG"
+  },
+  {
+    "id": 313940945,
+    "name": "Santo Amaro de Minas",
     "city": "Manhuaçu",
     "state": "MG"
   },
@@ -28706,6 +30416,24 @@
   {
     "id": 313990410,
     "name": "Pintos Negreiros",
+    "city": "Maria da Fé",
+    "state": "MG"
+  },
+  {
+    "id": 313990415,
+    "name": "São João de Maria da Fé",
+    "city": "Maria da Fé",
+    "state": "MG"
+  },
+  {
+    "id": 313990420,
+    "name": "Posses de Maria da Fé",
+    "city": "Maria da Fé",
+    "state": "MG"
+  },
+  {
+    "id": 313990425,
+    "name": "Mata do Isidoro",
     "city": "Maria da Fé",
     "state": "MG"
   },
@@ -28820,6 +30548,12 @@
   {
     "id": 314050615,
     "name": "Ibitira",
+    "city": "Martinho Campos",
+    "state": "MG"
+  },
+  {
+    "id": 314050620,
+    "name": "Buriti Grande",
     "city": "Martinho Campos",
     "state": "MG"
   },
@@ -29016,8 +30750,38 @@
     "state": "MG"
   },
   {
+    "id": 314200720,
+    "name": "São Bento de Mirabela",
+    "city": "Mirabela",
+    "state": "MG"
+  },
+  {
     "id": 314210605,
     "name": "Miradouro",
+    "city": "Miradouro",
+    "state": "MG"
+  },
+  {
+    "id": 314210610,
+    "name": "Serrania do Brigadeiro",
+    "city": "Miradouro",
+    "state": "MG"
+  },
+  {
+    "id": 314210615,
+    "name": "Varginha de Miradouro",
+    "city": "Miradouro",
+    "state": "MG"
+  },
+  {
+    "id": 314210620,
+    "name": "Santa Cruz do Monte Alverne",
+    "city": "Miradouro",
+    "state": "MG"
+  },
+  {
+    "id": 314210625,
+    "name": "Santa Bárbara de Miradouro",
     "city": "Miradouro",
     "state": "MG"
   },
@@ -29034,8 +30798,38 @@
     "state": "MG"
   },
   {
+    "id": 314220520,
+    "name": "São José do Alegre de Miraí",
+    "city": "Miraí",
+    "state": "MG"
+  },
+  {
+    "id": 314220525,
+    "name": "Santo Antônio do Rio Preto",
+    "city": "Miraí",
+    "state": "MG"
+  },
+  {
     "id": 314225405,
     "name": "Miravânia",
+    "city": "Miravânia",
+    "state": "MG"
+  },
+  {
+    "id": 314225410,
+    "name": "Brejão de Miravânia",
+    "city": "Miravânia",
+    "state": "MG"
+  },
+  {
+    "id": 314225415,
+    "name": "Panelinhas",
+    "city": "Miravânia",
+    "state": "MG"
+  },
+  {
+    "id": 314225420,
+    "name": "Virgínio",
     "city": "Miravânia",
     "state": "MG"
   },
@@ -29112,6 +30906,12 @@
     "state": "MG"
   },
   {
+    "id": 314290816,
+    "name": "Novo Riachinho",
+    "city": "Monte Azul",
+    "state": "MG"
+  },
+  {
     "id": 314300505,
     "name": "Monte Belo",
     "city": "Monte Belo",
@@ -29132,6 +30932,12 @@
   {
     "id": 314310405,
     "name": "Monte Carmelo",
+    "city": "Monte Carmelo",
+    "state": "MG"
+  },
+  {
+    "id": 314310410,
+    "name": "Celso Bueno",
     "city": "Monte Carmelo",
     "state": "MG"
   },
@@ -29214,14 +31020,32 @@
     "state": "MG"
   },
   {
+    "id": 314330246,
+    "name": "Pedra Preta dos Montes",
+    "city": "Montes Claros",
+    "state": "MG"
+  },
+  {
     "id": 314340105,
     "name": "Monte Sião",
     "city": "Monte Sião",
     "state": "MG"
   },
   {
+    "id": 314340110,
+    "name": "Mococa das Gerais ",
+    "city": "Monte Sião",
+    "state": "MG"
+  },
+  {
     "id": 314345005,
     "name": "Montezuma",
+    "city": "Montezuma",
+    "state": "MG"
+  },
+  {
+    "id": 314345010,
+    "name": "Areião de Minas ",
     "city": "Montezuma",
     "state": "MG"
   },
@@ -29334,8 +31158,20 @@
     "state": "MG"
   },
   {
+    "id": 314400330,
+    "name": "Santa Rita do Mutum",
+    "city": "Mutum",
+    "state": "MG"
+  },
+  {
     "id": 314410205,
     "name": "Muzambinho",
+    "city": "Muzambinho",
+    "state": "MG"
+  },
+  {
+    "id": 314410210,
+    "name": "Moçambo",
     "city": "Muzambinho",
     "state": "MG"
   },
@@ -29354,6 +31190,12 @@
   {
     "id": 314430010,
     "name": "Vila Pereira",
+    "city": "Nanuque",
+    "state": "MG"
+  },
+  {
+    "id": 314430015,
+    "name": "Vila Gabriel Passos",
     "city": "Nanuque",
     "state": "MG"
   },
@@ -29508,14 +31350,44 @@
     "state": "MG"
   },
   {
+    "id": 314537210,
+    "name": "Campo Verde de Minas",
+    "city": "Novorizonte",
+    "state": "MG"
+  },
+  {
     "id": 314540605,
     "name": "Olaria",
     "city": "Olaria",
     "state": "MG"
   },
   {
+    "id": 314540610,
+    "name": "São Sebastião da Vista Alegre ",
+    "city": "Olaria",
+    "state": "MG"
+  },
+  {
     "id": 314545505,
     "name": "Olhos-d'Água",
+    "city": "Olhos-d'Água",
+    "state": "MG"
+  },
+  {
+    "id": 314545510,
+    "name": "Ribeirão de Santo Agostinho",
+    "city": "Olhos-d'Água",
+    "state": "MG"
+  },
+  {
+    "id": 314545515,
+    "name": "Três Dias",
+    "city": "Olhos-d'Água",
+    "state": "MG"
+  },
+  {
+    "id": 314545520,
+    "name": "Pimenta de São Serafim",
     "city": "Olhos-d'Água",
     "state": "MG"
   },
@@ -29546,6 +31418,18 @@
   {
     "id": 314580205,
     "name": "Onça de Pitangui",
+    "city": "Onça de Pitangui",
+    "state": "MG"
+  },
+  {
+    "id": 314580210,
+    "name": "Capoeira Grande",
+    "city": "Onça de Pitangui",
+    "state": "MG"
+  },
+  {
+    "id": 314580215,
+    "name": "Jaguara de Minas",
     "city": "Onça de Pitangui",
     "state": "MG"
   },
@@ -29712,6 +31596,12 @@
     "state": "MG"
   },
   {
+    "id": 314655225,
+    "name": "Vila Sudário",
+    "city": "Pai Pedro",
+    "state": "MG"
+  },
+  {
     "id": 314660205,
     "name": "Paiva",
     "city": "Paiva",
@@ -29857,7 +31747,7 @@
   },
   {
     "id": 314780805,
-    "name": "Passa-Vinte",
+    "name": "Passa Vinte",
     "city": "Passa Vinte",
     "state": "MG"
   },
@@ -29912,6 +31802,12 @@
   {
     "id": 314800430,
     "name": "Santana de Patos",
+    "city": "Patos de Minas",
+    "state": "MG"
+  },
+  {
+    "id": 314800435,
+    "name": "Alagoas",
     "city": "Patos de Minas",
     "state": "MG"
   },
@@ -29972,6 +31868,12 @@
   {
     "id": 314850905,
     "name": "Pavão",
+    "city": "Pavão",
+    "state": "MG"
+  },
+  {
+    "id": 314850910,
+    "name": "Nova Limeira",
     "city": "Pavão",
     "state": "MG"
   },
@@ -30180,6 +32082,12 @@
     "state": "MG"
   },
   {
+    "id": 315040610,
+    "name": "Medeiros dos Gerais",
+    "city": "Piedade dos Gerais",
+    "state": "MG"
+  },
+  {
     "id": 315050505,
     "name": "Pimenta",
     "city": "Pimenta",
@@ -30194,7 +32102,7 @@
   {
     "id": 315053905,
     "name": "Pingo-d'Água",
-    "city": "Pingo d'Água",
+    "city": "Pingo-d'Água",
     "state": "MG"
   },
   {
@@ -30236,6 +32144,12 @@
   {
     "id": 315080215,
     "name": "Santo Antônio do Pirapetinga",
+    "city": "Piranga",
+    "state": "MG"
+  },
+  {
+    "id": 315080220,
+    "name": "Santo Antônio dos Quilombolas",
     "city": "Piranga",
     "state": "MG"
   },
@@ -30672,6 +32586,12 @@
     "state": "MG"
   },
   {
+    "id": 315415020,
+    "name": "Jaguaraí",
+    "city": "Reduto",
+    "state": "MG"
+  },
+  {
     "id": 315420005,
     "name": "Resende Costa",
     "city": "Resende Costa",
@@ -30744,6 +32664,12 @@
     "state": "MG"
   },
   {
+    "id": 315440840,
+    "name": "Peixoto",
+    "city": "Ressaquinha",
+    "state": "MG"
+  },
+  {
     "id": 315445705,
     "name": "Riachinho",
     "city": "Riachinho",
@@ -30810,6 +32736,12 @@
     "state": "MG"
   },
   {
+    "id": 315510820,
+    "name": "Vila Formosa de Minas",
+    "city": "Rio do Prado",
+    "state": "MG"
+  },
+  {
     "id": 315520705,
     "name": "Rio Espera",
     "city": "Rio Espera",
@@ -30830,6 +32762,12 @@
   {
     "id": 315530605,
     "name": "Rio Manso",
+    "city": "Rio Manso",
+    "state": "MG"
+  },
+  {
+    "id": 315530607,
+    "name": "Bernardas",
     "city": "Rio Manso",
     "state": "MG"
   },
@@ -30942,8 +32880,26 @@
     "state": "MG"
   },
   {
+    "id": 315645210,
+    "name": "Ancorado",
+    "city": "Rosário da Limeira",
+    "state": "MG"
+  },
+  {
     "id": 315650205,
     "name": "Rubelita",
+    "city": "Rubelita",
+    "state": "MG"
+  },
+  {
+    "id": 315650210,
+    "name": "Amparo do Sítio",
+    "city": "Rubelita",
+    "state": "MG"
+  },
+  {
+    "id": 315650215,
+    "name": "Lagoa de Baixo",
     "city": "Rubelita",
     "state": "MG"
   },
@@ -31032,6 +32988,12 @@
     "state": "MG"
   },
   {
+    "id": 315700535,
+    "name": "Nova Fátima de Salinas",
+    "city": "Salinas",
+    "state": "MG"
+  },
+  {
     "id": 315710405,
     "name": "Salto da Divisa",
     "city": "Salto da Divisa",
@@ -31106,6 +33068,18 @@
   {
     "id": 315737705,
     "name": "Santa Cruz de Salinas",
+    "city": "Santa Cruz de Salinas",
+    "state": "MG"
+  },
+  {
+    "id": 315737710,
+    "name": "Água Boa de Santa Cruz",
+    "city": "Santa Cruz de Salinas",
+    "state": "MG"
+  },
+  {
+    "id": 315737725,
+    "name": "Santo Antônio da Itinga",
     "city": "Santa Cruz de Salinas",
     "state": "MG"
   },
@@ -31398,6 +33372,12 @@
     "state": "MG"
   },
   {
+    "id": 315970410,
+    "name": "Campo Alegre da Serra",
+    "city": "Santa Rosa da Serra",
+    "state": "MG"
+  },
+  {
     "id": 315980305,
     "name": "Santa Vitória",
     "city": "Santa Vitória",
@@ -31470,8 +33450,26 @@
     "state": "MG"
   },
   {
+    "id": 316040525,
+    "name": "São José das Rosas",
+    "city": "Santo Antônio do Monte",
+    "state": "MG"
+  },
+  {
     "id": 316045405,
     "name": "Santo Antônio do Retiro",
+    "city": "Santo Antônio do Retiro",
+    "state": "MG"
+  },
+  {
+    "id": 316045410,
+    "name": "São Joaquim do Retiro",
+    "city": "Santo Antônio do Retiro",
+    "state": "MG"
+  },
+  {
+    "id": 316045415,
+    "name": "Caroba",
     "city": "Santo Antônio do Retiro",
     "state": "MG"
   },
@@ -31668,6 +33666,12 @@
     "state": "MG"
   },
   {
+    "id": 316160110,
+    "name": "Vinhático",
+    "city": "São Geraldo da Piedade",
+    "state": "MG"
+  },
+  {
     "id": 316165005,
     "name": "São Geraldo do Baixio",
     "city": "São Geraldo do Baixio",
@@ -31688,6 +33692,12 @@
   {
     "id": 316170010,
     "name": "Canoeiros",
+    "city": "São Gonçalo do Abaeté",
+    "state": "MG"
+  },
+  {
+    "id": 316170020,
+    "name": "Beira Rio ",
     "city": "São Gonçalo do Abaeté",
     "state": "MG"
   },
@@ -31812,6 +33822,24 @@
     "state": "MG"
   },
   {
+    "id": 316245010,
+    "name": "Rancharia e Tenda",
+    "city": "São João das Missões",
+    "state": "MG"
+  },
+  {
+    "id": 316245015,
+    "name": "Brejo Mata Fome",
+    "city": "São João das Missões",
+    "state": "MG"
+  },
+  {
+    "id": 316245020,
+    "name": "Sumaré I",
+    "city": "São João das Missões",
+    "state": "MG"
+  },
+  {
     "id": 316250005,
     "name": "São João del Rei",
     "city": "São João del Rei",
@@ -31854,8 +33882,26 @@
     "state": "MG"
   },
   {
+    "id": 316255910,
+    "name": "Pontões do São João do Manhuaçu",
+    "city": "São João do Manhuaçu",
+    "state": "MG"
+  },
+  {
     "id": 316257505,
     "name": "São João do Manteninha",
+    "city": "São João do Manteninha",
+    "state": "MG"
+  },
+  {
+    "id": 316257510,
+    "name": "Divino das Palmeiras",
+    "city": "São João do Manteninha",
+    "state": "MG"
+  },
+  {
+    "id": 316257515,
+    "name": "Vargem Grande de Minas",
     "city": "São João do Manteninha",
     "state": "MG"
   },
@@ -31890,8 +33936,32 @@
     "state": "MG"
   },
   {
+    "id": 316270820,
+    "name": "Boa Sorte do Paraíso",
+    "city": "São João do Paraíso",
+    "state": "MG"
+  },
+  {
+    "id": 316270825,
+    "name": "Mandacaru do Paraíso",
+    "city": "São João do Paraíso",
+    "state": "MG"
+  },
+  {
+    "id": 316270830,
+    "name": "Barrinha do Paraíso",
+    "city": "São João do Paraíso",
+    "state": "MG"
+  },
+  {
     "id": 316280705,
     "name": "São João Evangelista",
+    "city": "São João Evangelista",
+    "state": "MG"
+  },
+  {
+    "id": 316280707,
+    "name": "Bom Jesus da Canabrava",
     "city": "São João Evangelista",
     "state": "MG"
   },
@@ -31950,6 +34020,12 @@
     "state": "MG"
   },
   {
+    "id": 316294806,
+    "name": "Bom Jesus dos Campos",
+    "city": "São José da Barra",
+    "state": "MG"
+  },
+  {
     "id": 316295505,
     "name": "São José da Lapa",
     "city": "São José da Lapa",
@@ -31992,6 +34068,18 @@
     "state": "MG"
   },
   {
+    "id": 316350820,
+    "name": "Bom Jesus do Tabuleiro",
+    "city": "São José do Jacuri",
+    "state": "MG"
+  },
+  {
+    "id": 316350825,
+    "name": "São Judas Tadeu de Tabatinga",
+    "city": "São José do Jacuri",
+    "state": "MG"
+  },
+  {
     "id": 316360705,
     "name": "São José do Mantimento",
     "city": "São José do Mantimento",
@@ -32012,6 +34100,12 @@
   {
     "id": 316390405,
     "name": "São Pedro da União",
+    "city": "São Pedro da União",
+    "state": "MG"
+  },
+  {
+    "id": 316390410,
+    "name": "Biguatinga",
     "city": "São Pedro da União",
     "state": "MG"
   },
@@ -32155,8 +34249,14 @@
   },
   {
     "id": 316520605,
-    "name": "São Thomé das Letras",
-    "city": "São Thomé das Letras",
+    "name": "São Tomé das Letras",
+    "city": "São Tomé das Letras",
+    "state": "MG"
+  },
+  {
+    "id": 316520610,
+    "name": "Sobradinho de Minas",
+    "city": "São Tomé das Letras",
     "state": "MG"
   },
   {
@@ -32256,6 +34356,18 @@
     "state": "MG"
   },
   {
+    "id": 316600610,
+    "name": "Santana de Piraguara",
+    "city": "Senhora de Oliveira",
+    "state": "MG"
+  },
+  {
+    "id": 316600615,
+    "name": "Prudentes",
+    "city": "Senhora de Oliveira",
+    "state": "MG"
+  },
+  {
     "id": 316610505,
     "name": "Senhora do Porto",
     "city": "Senhora do Porto",
@@ -32270,6 +34382,12 @@
   {
     "id": 316620405,
     "name": "Senhora dos Remédios",
+    "city": "Senhora dos Remédios",
+    "state": "MG"
+  },
+  {
+    "id": 316620408,
+    "name": "Japão",
     "city": "Senhora dos Remédios",
     "state": "MG"
   },
@@ -32388,8 +34506,20 @@
     "state": "MG"
   },
   {
+    "id": 316720215,
+    "name": "Barreiro de Sete Lagoas",
+    "city": "Sete Lagoas",
+    "state": "MG"
+  },
+  {
     "id": 316730105,
     "name": "Silveirânia",
+    "city": "Silveirânia",
+    "state": "MG"
+  },
+  {
+    "id": 316730110,
+    "name": "São José da Soledade",
     "city": "Silveirânia",
     "state": "MG"
   },
@@ -32448,14 +34578,32 @@
     "state": "MG"
   },
   {
+    "id": 316790510,
+    "name": "Igrejinha do Acácio",
+    "city": "Tabuleiro",
+    "state": "MG"
+  },
+  {
     "id": 316800205,
     "name": "Taiobeiras",
     "city": "Taiobeiras",
     "state": "MG"
   },
   {
+    "id": 316800215,
+    "name": "Mirandópolis",
+    "city": "Taiobeiras",
+    "state": "MG"
+  },
+  {
     "id": 316805105,
     "name": "Taparuba",
+    "city": "Taparuba",
+    "state": "MG"
+  },
+  {
+    "id": 316805110,
+    "name": "São Sebastião de Três Barras",
     "city": "Taparuba",
     "state": "MG"
   },
@@ -32480,6 +34628,12 @@
   {
     "id": 316830905,
     "name": "Taquaraçu de Minas",
+    "city": "Taquaraçu de Minas",
+    "state": "MG"
+  },
+  {
+    "id": 316830910,
+    "name": "Engenho",
     "city": "Taquaraçu de Minas",
     "state": "MG"
   },
@@ -32510,6 +34664,24 @@
   {
     "id": 316840815,
     "name": "Vai-Volta",
+    "city": "Tarumirim",
+    "state": "MG"
+  },
+  {
+    "id": 316840820,
+    "name": "Dom Carloto",
+    "city": "Tarumirim",
+    "state": "MG"
+  },
+  {
+    "id": 316840825,
+    "name": "Bananal de Baixo",
+    "city": "Tarumirim",
+    "state": "MG"
+  },
+  {
+    "id": 316840830,
+    "name": "Bananal de Cima",
     "city": "Tarumirim",
     "state": "MG"
   },
@@ -32664,6 +34836,12 @@
     "state": "MG"
   },
   {
+    "id": 316940615,
+    "name": "Quilombo Nossa Senhora do Rosário",
+    "city": "Três Pontas",
+    "state": "MG"
+  },
+  {
     "id": 316950505,
     "name": "Tumiritinga",
     "city": "Tumiritinga",
@@ -32690,6 +34868,12 @@
   {
     "id": 316970310,
     "name": "Caçaratiba",
+    "city": "Turmalina",
+    "state": "MG"
+  },
+  {
+    "id": 316970320,
+    "name": "Campo Buriti",
     "city": "Turmalina",
     "state": "MG"
   },
@@ -32796,6 +34980,12 @@
     "state": "MG"
   },
   {
+    "id": 317030525,
+    "name": "São Pedro do Pampã",
+    "city": "Umburatiba",
+    "state": "MG"
+  },
+  {
     "id": 317040405,
     "name": "Unaí",
     "city": "Unaí",
@@ -32832,6 +35022,12 @@
     "state": "MG"
   },
   {
+    "id": 317040435,
+    "name": "Boa Vista de Santa Maria",
+    "city": "Unaí",
+    "state": "MG"
+  },
+  {
     "id": 317043805,
     "name": "União de Minas",
     "city": "União de Minas",
@@ -32840,6 +35036,12 @@
   {
     "id": 317047905,
     "name": "Uruana de Minas",
+    "city": "Uruana de Minas",
+    "state": "MG"
+  },
+  {
+    "id": 317047910,
+    "name": "Cercado",
     "city": "Uruana de Minas",
     "state": "MG"
   },
@@ -32858,6 +35060,24 @@
   {
     "id": 317052905,
     "name": "Urucuia",
+    "city": "Urucuia",
+    "state": "MG"
+  },
+  {
+    "id": 317052920,
+    "name": "Santa Cruz de Urucuia",
+    "city": "Urucuia",
+    "state": "MG"
+  },
+  {
+    "id": 317052925,
+    "name": "Bonito de Urucuia",
+    "city": "Urucuia",
+    "state": "MG"
+  },
+  {
+    "id": 317052930,
+    "name": "Vereda Grande",
     "city": "Urucuia",
     "state": "MG"
   },
@@ -33349,7 +35569,7 @@
   },
   {
     "id": 320070605,
-    "name": "Atilio Vivácqua",
+    "name": "Atílio Vivácqua",
     "city": "Atílio Vivácqua",
     "state": "ES"
   },
@@ -33636,6 +35856,12 @@
     "state": "ES"
   },
   {
+    "id": 320160508,
+    "name": "Cricaré",
+    "city": "Conceição da Barra",
+    "state": "ES"
+  },
+  {
     "id": 320160510,
     "name": "Itaúnas",
     "city": "Conceição da Barra",
@@ -33787,7 +36013,7 @@
   },
   {
     "id": 320225610,
-    "name": "Moacir Ávidos",
+    "name": "Moacyr Ávidos",
     "city": "Governador Lindenberg",
     "state": "ES"
   },
@@ -34392,6 +36618,12 @@
     "state": "ES"
   },
   {
+    "id": 320435140,
+    "name": "São Francisco",
+    "city": "Rio Bananal",
+    "state": "ES"
+  },
+  {
     "id": 320435145,
     "name": "São Jorge de Tiradentes",
     "city": "Rio Bananal",
@@ -34478,6 +36710,12 @@
   {
     "id": 320465805,
     "name": "São Domingos do Norte",
+    "city": "São Domingos do Norte",
+    "state": "ES"
+  },
+  {
+    "id": 320465810,
+    "name": "Braço do Sul",
     "city": "São Domingos do Norte",
     "state": "ES"
   },
@@ -34944,6 +37182,18 @@
     "state": "RJ"
   },
   {
+    "id": 330060535,
+    "name": "Usina Santa Maria",
+    "city": "Bom Jesus do Itabapoana",
+    "state": "RJ"
+  },
+  {
+    "id": 330060540,
+    "name": "Santa Isabel",
+    "city": "Bom Jesus do Itabapoana",
+    "state": "RJ"
+  },
+  {
     "id": 330070405,
     "name": "Cabo Frio",
     "city": "Cabo Frio",
@@ -35274,6 +37524,12 @@
     "state": "RJ"
   },
   {
+    "id": 330180115,
+    "name": "Morro Azul do Tinguá",
+    "city": "Engenheiro Paulo de Frontin",
+    "state": "RJ"
+  },
+  {
     "id": 330185005,
     "name": "Guapimirim",
     "city": "Guapimirim",
@@ -35520,6 +37776,12 @@
     "state": "RJ"
   },
   {
+    "id": 330250235,
+    "name": "Rio D'Ouro",
+    "city": "Magé",
+    "state": "RJ"
+  },
+  {
     "id": 330260105,
     "name": "Mangaratiba",
     "city": "Mangaratiba",
@@ -35539,7 +37801,7 @@
   },
   {
     "id": 330260120,
-    "name": "Vila Muriqui",
+    "name": "Muriqui",
     "city": "Mangaratiba",
     "state": "RJ"
   },
@@ -35557,7 +37819,13 @@
   },
   {
     "id": 330270015,
-    "name": "Manoel Ribeiro",
+    "name": "Ponta Negra",
+    "city": "Maricá",
+    "state": "RJ"
+  },
+  {
+    "id": 330270020,
+    "name": "Itaipuaçu",
     "city": "Maricá",
     "state": "RJ"
   },
@@ -35570,6 +37838,18 @@
   {
     "id": 330285805,
     "name": "Mesquita",
+    "city": "Mesquita",
+    "state": "RJ"
+  },
+  {
+    "id": 330285810,
+    "name": "Vila Emil",
+    "city": "Mesquita",
+    "state": "RJ"
+  },
+  {
+    "id": 330285815,
+    "name": "Banco de Areia",
     "city": "Mesquita",
     "state": "RJ"
   },
@@ -35737,7 +38017,7 @@
   },
   {
     "id": 330380710,
-    "name": "Parati Mirim",
+    "name": "Paraty-Mirim",
     "city": "Paraty",
     "state": "RJ"
   },
@@ -35904,6 +38184,18 @@
     "state": "RJ"
   },
   {
+    "id": 330420145,
+    "name": "Bulhões",
+    "city": "Resende",
+    "state": "RJ"
+  },
+  {
+    "id": 330420150,
+    "name": "Visconde de Mauá",
+    "city": "Resende",
+    "state": "RJ"
+  },
+  {
     "id": 330430005,
     "name": "Rio Bonito",
     "city": "Rio Bonito",
@@ -36020,6 +38312,12 @@
   {
     "id": 330460730,
     "name": "Triunfo",
+    "city": "Santa Maria Madalena",
+    "state": "RJ"
+  },
+  {
+    "id": 330460735,
+    "name": "Osório Bersot",
     "city": "Santa Maria Madalena",
     "state": "RJ"
   },
@@ -36242,6 +38540,12 @@
   {
     "id": 330530710,
     "name": "Valão do Barro",
+    "city": "São Sebastião do Alto",
+    "state": "RJ"
+  },
+  {
+    "id": 330530715,
+    "name": "Ibipeba",
     "city": "São Sebastião do Alto",
     "state": "RJ"
   },
@@ -37087,7 +39391,7 @@
   },
   {
     "id": 350660705,
-    "name": "Biritiba-Mirim",
+    "name": "Biritiba Mirim",
     "city": "Biritiba Mirim",
     "state": "SP"
   },
@@ -37399,7 +39703,7 @@
   },
   {
     "id": 350950210,
-    "name": "Barão de Geraldo",
+    "name": "Barão Geraldo",
     "city": "Campinas",
     "state": "SP"
   },
@@ -37418,6 +39722,18 @@
   {
     "id": 350950225,
     "name": "Souzas",
+    "city": "Campinas",
+    "state": "SP"
+  },
+  {
+    "id": 350950230,
+    "name": "Ouro Verde",
+    "city": "Campinas",
+    "state": "SP"
+  },
+  {
+    "id": 350950235,
+    "name": "Campo Grande",
     "city": "Campinas",
     "state": "SP"
   },
@@ -38077,7 +40393,7 @@
   },
   {
     "id": 351610105,
-    "name": "Florínia",
+    "name": "Florínea",
     "city": "Florínea",
     "state": "SP"
   },
@@ -38623,13 +40939,19 @@
   },
   {
     "id": 352215805,
-    "name": "Itaóca",
+    "name": "Itaoca",
     "city": "Itaoca",
     "state": "SP"
   },
   {
     "id": 352220805,
     "name": "Itapecerica da Serra",
+    "city": "Itapecerica da Serra",
+    "state": "SP"
+  },
+  {
+    "id": 352220815,
+    "name": "Jardim Jacira",
     "city": "Itapecerica da Serra",
     "state": "SP"
   },
@@ -41437,7 +43759,7 @@
   },
   {
     "id": 355000105,
-    "name": "São Luís do Paraitinga",
+    "name": "São Luiz do Paraitinga",
     "city": "São Luiz do Paraitinga",
     "state": "SP"
   },
@@ -42320,6 +44642,12 @@
   {
     "id": 355350005,
     "name": "Tapiraí",
+    "city": "Tapiraí",
+    "state": "SP"
+  },
+  {
+    "id": 355350025,
+    "name": "Rio Turvo",
     "city": "Tapiraí",
     "state": "SP"
   },
@@ -43224,6 +45552,12 @@
     "state": "PR"
   },
   {
+    "id": 410337010,
+    "name": "Ercilândia",
+    "city": "Brasilândia do Sul",
+    "state": "PR"
+  },
+  {
     "id": 410340405,
     "name": "Cafeara",
     "city": "Cafeara",
@@ -43410,6 +45744,12 @@
     "state": "PR"
   },
   {
+    "id": 410445125,
+    "name": "Cavaco",
+    "city": "Cantagalo",
+    "state": "PR"
+  },
+  {
     "id": 410450105,
     "name": "Capanema",
     "city": "Capanema",
@@ -43430,6 +45770,12 @@
   {
     "id": 410450120,
     "name": "São Luiz",
+    "city": "Capanema",
+    "state": "PR"
+  },
+  {
+    "id": 410450125,
+    "name": "Alto Faraday",
     "city": "Capanema",
     "state": "PR"
   },
@@ -43916,6 +46262,18 @@
   {
     "id": 410755305,
     "name": "Farol",
+    "city": "Farol",
+    "state": "PR"
+  },
+  {
+    "id": 410755310,
+    "name": "Martinópolis D'Oeste",
+    "city": "Farol",
+    "state": "PR"
+  },
+  {
+    "id": 410755315,
+    "name": "Martinópolis D'Oeste",
     "city": "Farol",
     "state": "PR"
   },
@@ -46206,6 +48564,18 @@
     "state": "PR"
   },
   {
+    "id": 412230510,
+    "name": "Lageado dos Vieiras",
+    "city": "Rio Negro",
+    "state": "PR"
+  },
+  {
+    "id": 412230515,
+    "name": "Fazendinha",
+    "city": "Rio Negro",
+    "state": "PR"
+  },
+  {
     "id": 412240405,
     "name": "Rolândia",
     "city": "Rolândia",
@@ -46422,6 +48792,12 @@
     "state": "PR"
   },
   {
+    "id": 412395610,
+    "name": "Aparecida do Ivaí",
+    "city": "Santa Mônica",
+    "state": "PR"
+  },
+  {
     "id": 412400405,
     "name": "Santana do Itararé",
     "city": "Santana do Itararé",
@@ -46430,6 +48806,12 @@
   {
     "id": 412402005,
     "name": "Santa Tereza do Oeste",
+    "city": "Santa Tereza do Oeste",
+    "state": "PR"
+  },
+  {
+    "id": 412402010,
+    "name": "Santa Maria",
     "city": "Santa Tereza do Oeste",
     "state": "PR"
   },
@@ -46754,6 +49136,18 @@
   {
     "id": 412570420,
     "name": "São José do Iguaçu",
+    "city": "São Miguel do Iguaçu",
+    "state": "PR"
+  },
+  {
+    "id": 412570430,
+    "name": "São Jorge",
+    "city": "São Miguel do Iguaçu",
+    "state": "PR"
+  },
+  {
+    "id": 412570435,
+    "name": "Santa Rosa do Ocoi",
     "city": "São Miguel do Iguaçu",
     "state": "PR"
   },
@@ -47106,6 +49500,12 @@
     "state": "PR"
   },
   {
+    "id": 412796510,
+    "name": "Faxinal da Boa Vista",
+    "city": "Turvo",
+    "state": "PR"
+  },
+  {
     "id": 412800505,
     "name": "Ubiratã",
     "city": "Ubiratã",
@@ -47252,6 +49652,18 @@
   {
     "id": 412880705,
     "name": "Xambrê",
+    "city": "Xambrê",
+    "state": "PR"
+  },
+  {
+    "id": 412880710,
+    "name": "Casa Branca",
+    "city": "Xambrê",
+    "state": "PR"
+  },
+  {
+    "id": 412880715,
+    "name": "Eliza",
     "city": "Xambrê",
     "state": "PR"
   },
@@ -47652,6 +50064,12 @@
     "state": "SC"
   },
   {
+    "id": 420287510,
+    "name": "Marombas",
+    "city": "Brunópolis",
+    "state": "SC"
+  },
+  {
     "id": 420290905,
     "name": "Brusque",
     "city": "Brusque",
@@ -47929,7 +50347,7 @@
   },
   {
     "id": 420430135,
-    "name": "Santo Antonio",
+    "name": "Santo Antônio",
     "city": "Concórdia",
     "state": "SC"
   },
@@ -47942,6 +50360,12 @@
   {
     "id": 420435005,
     "name": "Cordilheira Alta",
+    "city": "Cordilheira Alta",
+    "state": "SC"
+  },
+  {
+    "id": 420435010,
+    "name": "Fernando Machado",
     "city": "Cordilheira Alta",
     "state": "SC"
   },
@@ -48133,7 +50557,7 @@
   },
   {
     "id": 420540720,
-    "name": "Ingleses do Rio Vermelho",
+    "name": "Ingleses",
     "city": "Florianópolis",
     "state": "SC"
   },
@@ -48169,7 +50593,43 @@
   },
   {
     "id": 420540750,
-    "name": "São João do Rio Vermelho",
+    "name": "Rio Vermelho",
+    "city": "Florianópolis",
+    "state": "SC"
+  },
+  {
+    "id": 420540751,
+    "name": "Trindade",
+    "city": "Florianópolis",
+    "state": "SC"
+  },
+  {
+    "id": 420540752,
+    "name": "Saco Grande",
+    "city": "Florianópolis",
+    "state": "SC"
+  },
+  {
+    "id": 420540753,
+    "name": "Saco dos Limões",
+    "city": "Florianópolis",
+    "state": "SC"
+  },
+  {
+    "id": 420540754,
+    "name": "Estreito",
+    "city": "Florianópolis",
+    "state": "SC"
+  },
+  {
+    "id": 420540755,
+    "name": "Coqueiros",
+    "city": "Florianópolis",
+    "state": "SC"
+  },
+  {
+    "id": 420540756,
+    "name": "Tapera da Base",
     "city": "Florianópolis",
     "state": "SC"
   },
@@ -48199,7 +50659,7 @@
   },
   {
     "id": 420555510,
-    "name": "Nucleo Triticola",
+    "name": "Núcleo Tritícola",
     "city": "Frei Rogério",
     "state": "SC"
   },
@@ -48235,7 +50695,7 @@
   },
   {
     "id": 420610805,
-    "name": "Grão Pará",
+    "name": "Grão-Pará",
     "city": "Grão-Pará",
     "state": "SC"
   },
@@ -48594,6 +51054,12 @@
     "state": "SC"
   },
   {
+    "id": 420920110,
+    "name": "São Roque",
+    "city": "Lacerdópolis",
+    "state": "SC"
+  },
+  {
     "id": 420930005,
     "name": "Lages",
     "city": "Lages",
@@ -48637,7 +51103,7 @@
   },
   {
     "id": 420960705,
-    "name": "Lauro Muller",
+    "name": "Lauro Müller",
     "city": "Lauro Müller",
     "state": "SC"
   },
@@ -48986,6 +51452,18 @@
   {
     "id": 421200705,
     "name": "Palma Sola",
+    "city": "Palma Sola",
+    "state": "SC"
+  },
+  {
+    "id": 421200710,
+    "name": "Cerro Azul",
+    "city": "Palma Sola",
+    "state": "SC"
+  },
+  {
+    "id": 421200720,
+    "name": "Rene Damo",
     "city": "Palma Sola",
     "state": "SC"
   },
@@ -49477,7 +51955,7 @@
   },
   {
     "id": 421605705,
-    "name": "São Cristovão do Sul",
+    "name": "São Cristóvão do Sul",
     "city": "São Cristóvão do Sul",
     "state": "SC"
   },
@@ -49620,6 +52098,12 @@
     "state": "SC"
   },
   {
+    "id": 421680010,
+    "name": "Salto dos Marianos",
+    "city": "São José do Cerrito",
+    "state": "SC"
+  },
+  {
     "id": 421690905,
     "name": "São Lourenço do Oeste",
     "city": "São Lourenço do Oeste",
@@ -49682,6 +52166,12 @@
   {
     "id": 421730305,
     "name": "Saudades",
+    "city": "Saudades",
+    "state": "SC"
+  },
+  {
+    "id": 421730310,
+    "name": "Juvêncio",
     "city": "Saudades",
     "state": "SC"
   },
@@ -50250,6 +52740,12 @@
     "state": "RS"
   },
   {
+    "id": 430080207,
+    "name": "Linha 21 de Abril",
+    "city": "Antônio Prado",
+    "state": "RS"
+  },
+  {
     "id": 430080230,
     "name": "Santana",
     "city": "Antônio Prado",
@@ -50635,7 +53131,7 @@
   },
   {
     "id": 430210530,
-    "name": "Tuiutí",
+    "name": "Tuiuty",
     "city": "Bento Gonçalves",
     "state": "RS"
   },
@@ -51042,6 +53538,12 @@
     "state": "RS"
   },
   {
+    "id": 430355810,
+    "name": "Paraíso",
+    "city": "Camargo",
+    "state": "RS"
+  },
+  {
     "id": 430360805,
     "name": "Cambará do Sul",
     "city": "Cambará do Sul",
@@ -51176,6 +53678,30 @@
   {
     "id": 430430905,
     "name": "Cândido Godói",
+    "city": "Cândido Godói",
+    "state": "RS"
+  },
+  {
+    "id": 430430910,
+    "name": "Boa Vista",
+    "city": "Cândido Godói",
+    "state": "RS"
+  },
+  {
+    "id": 430430925,
+    "name": "São Miguel",
+    "city": "Cândido Godói",
+    "state": "RS"
+  },
+  {
+    "id": 430430930,
+    "name": "Silva Jardim",
+    "city": "Cândido Godói",
+    "state": "RS"
+  },
+  {
+    "id": 430430935,
+    "name": "Timbaúva",
     "city": "Cândido Godói",
     "state": "RS"
   },
@@ -51344,6 +53870,36 @@
   {
     "id": 430468905,
     "name": "Capela de Santana",
+    "city": "Capela de Santana",
+    "state": "RS"
+  },
+  {
+    "id": 430468910,
+    "name": "Pareci Velho",
+    "city": "Capela de Santana",
+    "state": "RS"
+  },
+  {
+    "id": 430468915,
+    "name": "Passo Taquara",
+    "city": "Capela de Santana",
+    "state": "RS"
+  },
+  {
+    "id": 430468920,
+    "name": "San Martin",
+    "city": "Capela de Santana",
+    "state": "RS"
+  },
+  {
+    "id": 430468925,
+    "name": "Paquete",
+    "city": "Capela de Santana",
+    "state": "RS"
+  },
+  {
+    "id": 430468930,
+    "name": "Sanga Funda",
     "city": "Capela de Santana",
     "state": "RS"
   },
@@ -51768,6 +54324,12 @@
     "state": "RS"
   },
   {
+    "id": 430587110,
+    "name": "Linha 8",
+    "city": "Coronel Barros",
+    "state": "RS"
+  },
+  {
     "id": 430590005,
     "name": "Coronel Bicaco",
     "city": "Coronel Bicaco",
@@ -52183,7 +54745,7 @@
   },
   {
     "id": 430720310,
-    "name": "Goio-Ên",
+    "name": "Goio-Êm",
     "city": "Erval Grande",
     "state": "RS"
   },
@@ -52440,6 +55002,30 @@
     "state": "RS"
   },
   {
+    "id": 430805210,
+    "name": "Coxilhão",
+    "city": "Faxinalzinho",
+    "state": "RS"
+  },
+  {
+    "id": 430805215,
+    "name": "Votouro",
+    "city": "Faxinalzinho",
+    "state": "RS"
+  },
+  {
+    "id": 430805220,
+    "name": "Faxinal Grande",
+    "city": "Faxinalzinho",
+    "state": "RS"
+  },
+  {
+    "id": 430805225,
+    "name": "Nossa Senhora dos Navegantes",
+    "city": "Faxinalzinho",
+    "state": "RS"
+  },
+  {
     "id": 430807805,
     "name": "Fazenda Vilanova",
     "city": "Fazenda Vilanova",
@@ -52544,6 +55130,12 @@
   {
     "id": 430850815,
     "name": "Osvaldo Cruz",
+    "city": "Frederico Westphalen",
+    "state": "RS"
+  },
+  {
+    "id": 430850818,
+    "name": "São João do Porto",
     "city": "Frederico Westphalen",
     "state": "RS"
   },
@@ -52680,6 +55272,12 @@
     "state": "RS"
   },
   {
+    "id": 430900135,
+    "name": "Boca da Picada",
+    "city": "Giruá",
+    "state": "RS"
+  },
+  {
     "id": 430905005,
     "name": "Glorinha",
     "city": "Glorinha",
@@ -52692,8 +55290,14 @@
     "state": "RS"
   },
   {
-    "id": 430905020,
+    "id": 430905015,
     "name": "Maracanã",
+    "city": "Glorinha",
+    "state": "RS"
+  },
+  {
+    "id": 430905020,
+    "name": "Vila Nova",
     "city": "Glorinha",
     "state": "RS"
   },
@@ -52968,6 +55572,18 @@
     "state": "RS"
   },
   {
+    "id": 431020750,
+    "name": "Linha 6 Norte",
+    "city": "Ijuí",
+    "state": "RS"
+  },
+  {
+    "id": 431020755,
+    "name": "Esquina Heidmann",
+    "city": "Ijuí",
+    "state": "RS"
+  },
+  {
     "id": 431030605,
     "name": "Ilópolis",
     "city": "Ilópolis",
@@ -53029,7 +55645,7 @@
   },
   {
     "id": 431043925,
-    "name": "Vila Segrêdo",
+    "name": "Vila Segredo",
     "city": "Ipê",
     "state": "RS"
   },
@@ -53095,7 +55711,7 @@
   },
   {
     "id": 431060345,
-    "name": "Tapuraí",
+    "name": "Tupuraí",
     "city": "Itaqui",
     "state": "RS"
   },
@@ -53167,7 +55783,7 @@
   },
   {
     "id": 431090012,
-    "name": "Barão Hirstch",
+    "name": "Barão Hirsch",
     "city": "Jacutinga",
     "state": "RS"
   },
@@ -53406,6 +56022,18 @@
     "state": "RS"
   },
   {
+    "id": 431173410,
+    "name": "Rio de Dentro",
+    "city": "Mampituba",
+    "state": "RS"
+  },
+  {
+    "id": 431173415,
+    "name": "Roça da Estância",
+    "city": "Mampituba",
+    "state": "RS"
+  },
+  {
     "id": 431175905,
     "name": "Manoel Viana",
     "city": "Manoel Viana",
@@ -53552,6 +56180,12 @@
   {
     "id": 431213805,
     "name": "Mato Castelhano",
+    "city": "Mato Castelhano",
+    "state": "RS"
+  },
+  {
+    "id": 431213810,
+    "name": "Capingui",
     "city": "Mato Castelhano",
     "state": "RS"
   },
@@ -54306,6 +56940,12 @@
     "state": "RS"
   },
   {
+    "id": 431410050,
+    "name": "Santo Antônio do Capinzal",
+    "city": "Passo Fundo",
+    "state": "RS"
+  },
+  {
     "id": 431413405,
     "name": "Paulo Bento",
     "city": "Paulo Bento",
@@ -54745,7 +57385,7 @@
   },
   {
     "id": 431550305,
-    "name": "Restinga Seca",
+    "name": "Restinga Sêca",
     "city": "Restinga Sêca",
     "state": "RS"
   },
@@ -54758,6 +57398,12 @@
   {
     "id": 431555210,
     "name": "Posse dos Linhares",
+    "city": "Rio dos Índios",
+    "state": "RS"
+  },
+  {
+    "id": 431555215,
+    "name": "Encruzilhada Bela Vista",
     "city": "Rio dos Índios",
     "state": "RS"
   },
@@ -55183,7 +57829,7 @@
   },
   {
     "id": 431690710,
-    "name": "Arroio do Sol",
+    "name": "Arroio do Só",
     "city": "Santa Maria",
     "state": "RS"
   },
@@ -55345,7 +57991,7 @@
   },
   {
     "id": 431730107,
-    "name": "Arvore Só",
+    "name": "Árvore Só",
     "city": "Santa Vitória do Palmar",
     "state": "RS"
   },
@@ -57049,13 +59695,13 @@
   },
   {
     "id": 432235005,
-    "name": "União da Serra",
+    "name": "São Luiz",
     "city": "União da Serra",
     "state": "RS"
   },
   {
     "id": 432235020,
-    "name": "Oeste",
+    "name": "União da Serra",
     "city": "União da Serra",
     "state": "RS"
   },
@@ -57253,7 +59899,7 @@
   },
   {
     "id": 432285505,
-    "name": "Vespasiano Correa",
+    "name": "Vespasiano Corrêa",
     "city": "Vespasiano Corrêa",
     "state": "RS"
   },
@@ -57403,7 +60049,7 @@
   },
   {
     "id": 432377005,
-    "name": "Westfalia",
+    "name": "Westfália",
     "city": "Westfália",
     "state": "RS"
   },
@@ -58026,6 +60672,12 @@
     "state": "MS"
   },
   {
+    "id": 500480910,
+    "name": "Jacareí",
+    "city": "Japorã",
+    "state": "MS"
+  },
+  {
     "id": 500490805,
     "name": "Jaraguari",
     "city": "Jaraguari",
@@ -58112,6 +60764,12 @@
   {
     "id": 500600205,
     "name": "Nova Alvorada do Sul",
+    "city": "Nova Alvorada do Sul",
+    "state": "MS"
+  },
+  {
+    "id": 500600210,
+    "name": "Pana",
     "city": "Nova Alvorada do Sul",
     "state": "MS"
   },
@@ -58536,6 +61194,12 @@
     "state": "MT"
   },
   {
+    "id": 510140735,
+    "name": "Conselvan",
+    "city": "Aripuanã",
+    "state": "MT"
+  },
+  {
     "id": 510160505,
     "name": "Barão de Melgaço",
     "city": "Barão de Melgaço",
@@ -58812,6 +61476,12 @@
     "state": "MT"
   },
   {
+    "id": 510337910,
+    "name": "Nova União",
+    "city": "Cotriguaçu",
+    "state": "MT"
+  },
+  {
     "id": 510340305,
     "name": "Cuiabá",
     "city": "Cuiabá",
@@ -58832,6 +61502,24 @@
   {
     "id": 510340320,
     "name": "Guia",
+    "city": "Cuiabá",
+    "state": "MT"
+  },
+  {
+    "id": 510340325,
+    "name": "Nova Esperança (Pequizeiro)",
+    "city": "Cuiabá",
+    "state": "MT"
+  },
+  {
+    "id": 510340330,
+    "name": "Aguaçu",
+    "city": "Cuiabá",
+    "state": "MT"
+  },
+  {
+    "id": 510340335,
+    "name": "Sucuri",
     "city": "Cuiabá",
     "state": "MT"
   },
@@ -58958,6 +61646,12 @@
   {
     "id": 510460905,
     "name": "Itiquira",
+    "city": "Itiquira",
+    "state": "MT"
+  },
+  {
+    "id": 510460910,
+    "name": "Ouro Branco do Sul",
     "city": "Itiquira",
     "state": "MT"
   },
@@ -59173,13 +61867,19 @@
   },
   {
     "id": 510610915,
-    "name": "Seco",
+    "name": "Faval",
     "city": "Nossa Senhora do Livramento",
     "state": "MT"
   },
   {
     "id": 510615805,
     "name": "Nova Bandeirantes",
+    "city": "Nova Bandeirantes",
+    "state": "MT"
+  },
+  {
+    "id": 510615810,
+    "name": "Japuranã",
     "city": "Nova Bandeirantes",
     "state": "MT"
   },
@@ -59234,6 +61934,12 @@
   {
     "id": 510622405,
     "name": "Nova Mutum",
+    "city": "Nova Mutum",
+    "state": "MT"
+  },
+  {
+    "id": 510622425,
+    "name": "Ranchão",
     "city": "Nova Mutum",
     "state": "MT"
   },
@@ -59334,6 +62040,12 @@
     "state": "MT"
   },
   {
+    "id": 510630715,
+    "name": "Salto da Alegria",
+    "city": "Paranatinga",
+    "state": "MT"
+  },
+  {
     "id": 510631505,
     "name": "Novo Santo Antônio",
     "city": "Novo Santo Antônio",
@@ -59358,6 +62070,12 @@
     "state": "MT"
   },
   {
+    "id": 510642210,
+    "name": "União do Norte",
+    "city": "Peixoto de Azevedo",
+    "state": "MT"
+  },
+  {
     "id": 510645505,
     "name": "Planalto da Serra",
     "city": "Planalto da Serra",
@@ -59377,7 +62095,7 @@
   },
   {
     "id": 510650515,
-    "name": "Fazenda de Cima",
+    "name": "Nossa Senhora Aparecida do Chumbo",
     "city": "Poconé",
     "state": "MT"
   },
@@ -59418,6 +62136,18 @@
     "state": "MT"
   },
   {
+    "id": 510682810,
+    "name": "Vila Cardoso",
+    "city": "Porto Esperidião",
+    "state": "MT"
+  },
+  {
+    "id": 510682815,
+    "name": "Pedro Neca",
+    "city": "Porto Esperidião",
+    "state": "MT"
+  },
+  {
     "id": 510685105,
     "name": "Porto Estrela",
     "city": "Porto Estrela",
@@ -59425,7 +62155,7 @@
   },
   {
     "id": 510700805,
-    "name": "Poxoréo",
+    "name": "Poxoréu",
     "city": "Poxoréu",
     "state": "MT"
   },
@@ -59444,6 +62174,12 @@
   {
     "id": 510700820,
     "name": "Paraíso do Leste",
+    "city": "Poxoréu",
+    "state": "MT"
+  },
+  {
+    "id": 510700830,
+    "name": "Nova Poxoréu",
     "city": "Poxoréu",
     "state": "MT"
   },
@@ -59653,32 +62389,32 @@
   },
   {
     "id": 510780005,
-    "name": "Santo Antônio do Leverger",
-    "city": "Santo Antônio do Leverger",
+    "name": "Santo Antônio de Leverger",
+    "city": "Santo Antônio de Leverger",
     "state": "MT"
   },
   {
     "id": 510780010,
     "name": "Engenho Velho",
-    "city": "Santo Antônio do Leverger",
+    "city": "Santo Antônio de Leverger",
     "state": "MT"
   },
   {
     "id": 510780015,
     "name": "Mimoso",
-    "city": "Santo Antônio do Leverger",
+    "city": "Santo Antônio de Leverger",
     "state": "MT"
   },
   {
     "id": 510780017,
     "name": "Caité",
-    "city": "Santo Antônio do Leverger",
+    "city": "Santo Antônio de Leverger",
     "state": "MT"
   },
   {
     "id": 510780025,
     "name": "Varginha",
-    "city": "Santo Antônio do Leverger",
+    "city": "Santo Antônio de Leverger",
     "state": "MT"
   },
   {
@@ -59940,6 +62676,12 @@
     "state": "GO"
   },
   {
+    "id": 520017510,
+    "name": "Mato Seco",
+    "city": "Água Fria de Goiás",
+    "state": "GO"
+  },
+  {
     "id": 520020905,
     "name": "Água Limpa",
     "city": "Água Limpa",
@@ -60037,7 +62779,7 @@
   },
   {
     "id": 520110830,
-    "name": "Sousânia",
+    "name": "Souzânia",
     "city": "Anápolis",
     "state": "GO"
   },
@@ -60152,6 +62894,12 @@
   {
     "id": 520330205,
     "name": "Bela Vista de Goiás",
+    "city": "Bela Vista de Goiás",
+    "state": "GO"
+  },
+  {
+    "id": 520330215,
+    "name": "Roselândia",
     "city": "Bela Vista de Goiás",
     "state": "GO"
   },
@@ -60320,6 +63068,12 @@
   {
     "id": 520510905,
     "name": "Catalão",
+    "city": "Catalão",
+    "state": "GO"
+  },
+  {
+    "id": 520510908,
+    "name": "Pires Belo",
     "city": "Catalão",
     "state": "GO"
   },
@@ -60540,6 +63294,12 @@
     "state": "GO"
   },
   {
+    "id": 520790710,
+    "name": "Santa Maria",
+    "city": "Flores de Goiás",
+    "state": "GO"
+  },
+  {
     "id": 520800405,
     "name": "Formosa",
     "city": "Formosa",
@@ -60649,7 +63409,7 @@
   },
   {
     "id": 520890540,
-    "name": "São João",
+    "name": "Águas de São João",
     "city": "Goiás",
     "state": "GO"
   },
@@ -60734,6 +63494,12 @@
   {
     "id": 520995205,
     "name": "Indiara",
+    "city": "Indiara",
+    "state": "GO"
+  },
+  {
+    "id": 520995210,
+    "name": "Carlândia",
     "city": "Indiara",
     "state": "GO"
   },
@@ -61266,6 +64032,24 @@
     "state": "GO"
   },
   {
+    "id": 521560307,
+    "name": "Mariápolis e Taboquinha",
+    "city": "Padre Bernardo",
+    "state": "GO"
+  },
+  {
+    "id": 521560320,
+    "name": "Monte Alto",
+    "city": "Padre Bernardo",
+    "state": "GO"
+  },
+  {
+    "id": 521560325,
+    "name": "Trajanópolis",
+    "city": "Padre Bernardo",
+    "state": "GO"
+  },
+  {
     "id": 521565205,
     "name": "Palestina de Goiás",
     "city": "Palestina de Goiás",
@@ -61512,6 +64296,12 @@
     "state": "GO"
   },
   {
+    "id": 521935712,
+    "name": "Cirilândia",
+    "city": "Santa Isabel",
+    "state": "GO"
+  },
+  {
     "id": 521940705,
     "name": "Santa Rita do Araguaia",
     "city": "Santa Rita do Araguaia",
@@ -61603,7 +64393,7 @@
   },
   {
     "id": 522015705,
-    "name": "São Luíz do Norte",
+    "name": "São Luiz do Norte",
     "city": "São Luiz do Norte",
     "state": "GO"
   },
@@ -61802,6 +64592,12 @@
   {
     "id": 522230205,
     "name": "Vila Propício",
+    "city": "Vila Propício",
+    "state": "GO"
+  },
+  {
+    "id": 522230210,
+    "name": "Assunção de Goiás",
     "city": "Vila Propício",
     "state": "GO"
   },

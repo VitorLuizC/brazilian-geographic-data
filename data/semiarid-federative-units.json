@@ -48,5 +48,10 @@
     "id": 31,
     "name": "Semiárido de Minas Gerais",
     "state": "MG"
+  },
+  {
+    "id": 32,
+    "name": "Semiárido do Espírito Santo",
+    "state": "ES"
   }
 ]

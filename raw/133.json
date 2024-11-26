@@ -16,7 +16,8 @@
     27,
     28,
     29,
-    31
+    31,
+    32
   ],
   "Nomes": [
     "Semiárido do Maranhão",
@@ -28,7 +29,8 @@
     "Semiárido de Alagoas",
     "Semiárido de Sergipe",
     "Semiárido da Bahia",
-    "Semiárido de Minas Gerais"
+    "Semiárido de Minas Gerais",
+    "Semiárido do Espírito Santo"
   ],
   "SiglasUF": [
     "MA",
@@ -40,9 +42,11 @@
     "AL",
     "SE",
     "BA",
-    "MG"
+    "MG",
+    "ES"
   ],
   "Complementos1": [
+    "",
     "",
     "",
     "",
@@ -55,6 +59,7 @@
     ""
   ],
   "Complementos2": [
+    "",
     "",
     "",
     "",
